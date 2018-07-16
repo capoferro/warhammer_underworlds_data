@@ -9,6 +9,10 @@ gw_name_inaccuracies = {
     "Deathly Fortitude": "Deathly Fortune"
 }
 
+set_prefixes = {
+    143: "L"
+}
+
 def main():
     gw_data = fetch_gw_data()
     cards = gw_to_cards(gw_data)
@@ -39,12 +43,12 @@ def main():
         json.dump(csv_name_map.values(), jsonfile, sort_keys=True, indent=2)
 
     for c in csv_name_map.values():
-        response = requests.get(c["image_url"], allow_redirects=True)
         image_folder = os.path.join('card_images')
         if not os.path.isdir(image_folder):
             os.makedirs(image_folder)
         filepath = os.path.join(image_folder, c["image_filename"])
         if not os.path.exists(filepath):
+            response = requests.get(c["image_url"], allow_redirects=True)
             with open(filepath, 'wb') as imgfile:
                 imgfile.write(response.content)
 
@@ -60,6 +64,9 @@ def hydrate_card_with_gw_data(card, gw):
             continue
 
         card[key] = value
+
+    if card["gw_card_set_id"] in set_prefixes:
+        card["set_prefix"] = set_prefixes[card["gw_card_set_id"]]
 
 def fetch_gw_data():
     response = requests.get("https://warhammerunderworlds.com/wp-json/wp/v2/cards/?ver=13&per_page=1000")

@@ -92,6 +92,7 @@
     "number": "19", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -206,6 +207,7 @@
     "number": "38", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -339,6 +341,7 @@
     "number": "32", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -396,6 +399,7 @@
     "number": "9", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -472,6 +476,7 @@
     "number": "55", 
     "restricted": "Leader", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -947,6 +952,7 @@
     "number": "58", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -1156,6 +1162,7 @@
     "number": "5", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -1422,6 +1429,7 @@
     "number": "37", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -1669,6 +1677,7 @@
     "number": "12", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -1859,6 +1868,7 @@
     "number": "43", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -1897,6 +1907,7 @@
     "number": "11", 
     "restricted": "Krrk the Almost-Trusted", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -1992,6 +2003,7 @@
     "number": "54", 
     "restricted": "Leader", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -2296,6 +2308,7 @@
     "number": "46", 
     "restricted": "Leader", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -2391,6 +2404,7 @@
     "number": "59", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -2467,6 +2481,7 @@
     "number": "36", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -3018,6 +3033,7 @@
     "number": "17", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -3056,6 +3072,7 @@
     "number": "39", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -3189,6 +3206,7 @@
     "number": "34", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -3265,6 +3283,7 @@
     "number": "4", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -3398,6 +3417,7 @@
     "number": "60", 
     "restricted": "Leader", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -3455,6 +3475,7 @@
     "number": "42", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -3569,6 +3590,7 @@
     "number": "50", 
     "restricted": "Leader", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -3626,6 +3648,7 @@
     "number": "24", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -3645,6 +3668,7 @@
     "number": "25", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -3683,6 +3707,7 @@
     "number": "53", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -4158,6 +4183,7 @@
     "number": "45", 
     "restricted": "Leader", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -4272,6 +4298,7 @@
     "number": "31", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -4367,6 +4394,7 @@
     "number": "22", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -4481,6 +4509,7 @@
     "number": "23", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -4614,6 +4643,7 @@
     "number": "47", 
     "restricted": "Leader", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -5393,6 +5423,7 @@
     "number": "8", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -5488,6 +5519,7 @@
     "number": "10", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -5773,6 +5805,7 @@
     "number": "52", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -5811,6 +5844,7 @@
     "number": "15", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -5887,6 +5921,7 @@
     "number": "1", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -6229,6 +6264,7 @@
     "number": "49", 
     "restricted": "Leader", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -6495,6 +6531,7 @@
     "number": "41", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -6647,6 +6684,7 @@
     "number": "27", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -6704,6 +6742,7 @@
     "number": "48", 
     "restricted": "Leader", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -6723,6 +6762,7 @@
     "number": "20", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -6761,6 +6801,7 @@
     "number": "33", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -6875,6 +6916,7 @@
     "number": "18", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -6894,6 +6936,7 @@
     "number": "57", 
     "restricted": "Leader", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -6951,6 +6994,7 @@
     "number": "30", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -7122,6 +7166,7 @@
     "number": "40", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -7388,6 +7433,7 @@
     "number": "29", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -7426,6 +7472,7 @@
     "number": "44", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -7711,6 +7758,7 @@
     "number": "51", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -7768,6 +7816,7 @@
     "number": "21", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -7787,6 +7836,7 @@
     "number": "26", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -7863,6 +7913,7 @@
     "number": "7", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -8224,6 +8275,7 @@
     "number": "3", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -8281,6 +8333,7 @@
     "number": "16", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -8376,6 +8429,7 @@
     "number": "35", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Ploy"
   }, 
   {
@@ -8452,6 +8506,7 @@
     "number": "56", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -8490,6 +8545,7 @@
     "number": "14", 
     "restricted": "Magore Redhand", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -8585,6 +8641,7 @@
     "number": "6", 
     "restricted": "The Sepulchral Warden", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
@@ -9041,6 +9098,7 @@
     "number": "13", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -9212,6 +9270,7 @@
     "number": "28", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Objective"
   }, 
   {
@@ -9383,6 +9442,7 @@
     "number": "2", 
     "restricted": "-", 
     "set": "Leaders", 
+    "set_prefix": "L", 
     "type": "Upgrade"
   }, 
   {
