@@ -15,7 +15,7 @@ def main():
     for c in cards:
         gw_name_map[c["name"]] = c
 
-    csv_data = read_csv('en_UK.csv')
+    csv_data = read_csv('cards-en_UK.csv')
     csv_name_map = {}
     for c in csv_data:
         if c["name"] not in gw_name_map:
@@ -23,7 +23,7 @@ def main():
         hydrate_card_with_gw_data(c, gw_name_map[c["name"]])        
         csv_name_map[c["name"]] = c
     
-    with open('missing_cards.csv', 'w+') as missing_cards_csvfile:
+    with open('cards-Missing.csv', 'w+') as missing_cards_csvfile:
         writer = csv.DictWriter(missing_cards_csvfile, fieldnames=cards[0].keys())
         writer.writeheader()
         for c in cards:
@@ -31,7 +31,7 @@ def main():
                 print("{} was not found in our data!".format(c["name"]))
                 writer.writerow(c)
 
-    with open('en_UK.json', 'w+') as jsonfile:
+    with open('cards-en_UK.json', 'w+') as jsonfile:
         json.dump(csv_name_map.values(), jsonfile, sort_keys=True, indent=2)
 
     
