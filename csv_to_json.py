@@ -5,7 +5,7 @@ import requests
 locales = ['en_UK']
 
 gw_name_inaccuracies = {
-    "Deathly Fortune": "Deathly Fortitude"
+    "Deathly Fortitude": "Deathly Fortune"
 }
 
 def main():
@@ -18,10 +18,13 @@ def main():
     csv_data = read_csv('cards-en_UK.csv')
     csv_name_map = {}
     for c in csv_data:
-        if c["name"] not in gw_name_map:
-            print("{} was not found in GW data!".format(c["name"]))
-        hydrate_card_with_gw_data(c, gw_name_map[c["name"]])        
-        csv_name_map[c["name"]] = c
+        name = c["name"]
+        if name in gw_name_inaccuracies:
+            name = gw_name_inaccuracies[name]
+        if name not in gw_name_map:
+            print("{} was not found in GW data!".format(name))
+        hydrate_card_with_gw_data(c, gw_name_map[name])        
+        csv_name_map[name] = c
     
     with open('cards-Missing.csv', 'w+') as missing_cards_csvfile:
         writer = csv.DictWriter(missing_cards_csvfile, fieldnames=cards[0].keys())
@@ -38,7 +41,8 @@ def main():
 
 def hydrate_card_with_gw_data(card, gw):
     for key, value in gw.iteritems():
-        if key in card and card[key] != gw[key]:
+        # we skip "name" here cause that's our identifier. We don't want to stomp it, ever.
+        if key != "name" and key in card and card[key] != gw[key]:
             print("GW data for '{}' differs from data stored in CSV:\n  GW:  {}: {}\n  CSV: {}: {}".format(card["name"], key, gw[key], key, card[key]))
             print("Skipping field.")
             continue
