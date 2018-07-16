@@ -1,0 +1,499 @@
+set,id,number,name,faction,type,description,glory,restricted,set
+Shadespire,1,1,A Worthy Skull,Garrek's Reavers,Objective,Score this in an end phase if your warband took an enemy leader out of action in the preceding action phase,1,-,Core set
+Shadespire,2,2,Blood for the Blood God!,Garrek's Reavers,Objective,Score this immediately if three or more of your fighters made a Charge action in this phase,1,-,Core set
+Shadespire,3,3,Coward!,Garrek's Reavers,Objective,Score this immediately if an enemy fighter begins a Move action adjacent to one of your fighters and ends it adjacent to none of your fighters,1,-,Core set
+Shadespire,4,4,Draw the Gaze of Khorne,Garrek's Reavers,Objective,Score this immediately if your warband takes two or more enemy fighters out of action in this phase,1,-,Core set
+Shadespire,5,5,It Begins,Garrek's Reavers,Objective,Score this in an end phase if at least one fighter from each warband is out of action,1,-,Core set
+Shadespire,6,6,Khorne Cares Not,Garrek's Reavers,Objective,Score this in an end phase if five or more fighters are out of action,2,-,Core set
+Shadespire,7,7,Khorne's Champion,Garrek's Reavers,Objective,Score this in the third end phase if all fighters except one of your fighters are out of action,6,-,Core set
+Shadespire,8,8,Let the Blood Flow,Garrek's Reavers,Objective,Score this immediately if three or more of your fighters made a successful Attack action in this phase,2,-,Core set
+Shadespire,9,9,There is Only Slaughter,Garrek's Reavers,Objective,Score this in an end phase if no fighter is holding an objective,1,-,Core set
+Shadespire,10,10,Blood Offering,Garrek's Reavers,Ploy,Choose a friendly fighter. They suffer 1 damage. Roll two extra attack dice for their first Attack action in the next activation,-,-,Core set
+Shadespire,11,11,Blood Rain,Garrek's Reavers,Ploy,"All Attack actions in the next activation have the Sword characteristic, even if they would normally have the Hammer characteristic",-,-,Core set
+Shadespire,12,12,Boon of Khorne,Garrek's Reavers,Ploy,Reaction: Play this after a friendly fighter's Attack action that takes an enemy fighter out of action. Remove all wound tokens from one friendly fighter,-,-,Core set
+Shadespire,13,13,Desecrate,Garrek's Reavers,Ploy,Remove one objective that you hold from the battlefield,-,-,Core set
+Shadespire,14,14,Final Blow,Garrek's Reavers,Ploy,Reaction: Play this after an enemy fighter's Attack action that takes an adjacent friendly fighter out of action. Their attacker suffers 1 damage,-,-,Core set
+Shadespire,15,15,Fuelled by Slaughter,Garrek's Reavers,Ploy,Reaction: Play this after an Attack action or ploy that takes a fighter out of action. A friendly fighter can make an Attack action,-,-,Core set
+Shadespire,16,16,Insensate,Garrek's Reavers,Ploy,The first friendly fighter who suffers any amount of damage in the next activation only suffers one damage,-,-,Core set
+Shadespire,17,17,Khorne Calls,Garrek's Reavers,Ploy,Roll one extra attack dice for your first Attack action in the next activation,-,-,Core set
+Shadespire,18,18,Rebirth in Blood,Garrek's Reavers,Ploy,"Reaction: Play this after an Attack action or ploy that takes your last surviving fighter out of action. Roll a defense dice. If you roll a Shield or Crit remove all wound tokens from them, and place them on a starting hex in your territory",-,-,Core set
+Shadespire,19,19,Skulls for the Skull Throne!,Garrek's Reavers,Ploy,Reaction: Play this after a friendly fighter's Attack action that takes an enemy fighter out of action. Draw up to two power cards,-,-,Core set
+Shadespire,20,20,Berserk Charge,Garrek's Reavers,Upgrade,Both Sword and Hammer symbols are successes when this fighter makes a Charge action,-,Blooded Saek,Core set
+Shadespire,21,21,Bloodslick,Garrek's Reavers,Upgrade,+1 Defence,-,Garrek Gorebeard,Core set
+Shadespire,22,22,Deadly Spin,Garrek's Reavers,Upgrade,[1 Hex | 3 Sword | 1 Damage] Targets adjacent enemy fighters - roll for each,-,Targor,Core set
+Shadespire,23,23,Ever-Advancing,Garrek's Reavers,Upgrade,"Reaction: When this fighter could be driven back during an Attack action (whether or not your opponent chooses to do so), you can instead push them one hex",-,Garrek Gorebeard,Core set
+Shadespire,24,24,Frenzy,Garrek's Reavers,Upgrade,Roll an extra attack dice when this fighter makes a Charge action,-,-,Core set
+Shadespire,25,25,Grisly Trophy,Garrek's Reavers,Upgrade,"When this fighter takes an enemy fighter out of action, gain 1 additional glory point",-,Garrek Gorebeard,Core set
+Shadespire,26,26,Terrifying Howl,Garrek's Reavers,Upgrade,Action: Push each adjacent enemy fighter one hex,-,Karsus the Chained,Core set
+Shadespire,27,27,Unstoppable Charge,Garrek's Reavers,Upgrade,"When this fighter makes a Charge action they can move through other fighters, but their move must end in an empty hex",-,Blooded Saek,Core set
+Shadespire,28,28,Whirlwind of Death,Garrek's Reavers,Upgrade,+1 Damage to all Attack actions with a Range of 1 or 2,-,Karsus the Chained,Core set
+Shadespire,29,29,Wicked Blade,Garrek's Reavers,Upgrade,[1 Hex | 3 Sword | 2 Damage] If you roll at least one Crit this Attack action has Cleave,-,Arnulf,Core set
+Shadespire,30,30,Awe-Inspiring,Steelheart's Champions,Objective,Score this immediately if your warband has taken two or more fighters out of action in this phase,1,-,Core set
+Shadespire,31,31,Cleanse,Steelheart's Champions,Objective,Score this in an end phase if you hold all objectives in enemy territory,3,-,Core set
+Shadespire,32,32,Consecrated Area,Steelheart's Champions,Objective,Score this in an end phase if  there are no enemy fighters adjacent to your fighters,1,-,Core set
+Shadespire,33,33,Eternals,Steelheart's Champions,Objective,Score this in the third end phase if none of your fighters are out of action,3,-,Core set
+Shadespire,34,34,Immovable Object,Steelheart's Champions,Objective,Score this in an end phase if  the same friendly fighter has held the same objective at the end of two consecutive action phases,1,-,Core set
+Shadespire,35,35,Lightning Strikes,Steelheart's Champions,Objective,Score this immediately if an enemy fighter is taken out of action by a Charge action made by one of your fighters,1,-,Core set
+Shadespire,36,36,Seize Ground,Steelheart's Champions,Objective,Score this in an end phase if  you hold an objective in enemy territory,1,-,Core set
+Shadespire,37,37,Sigmar's Bulwark,Steelheart's Champions,Objective,Score this in an end phase if none of your fighters suffered any damage in the preceding action phase,1,-,Core set
+Shadespire,38,38,Slayers of Tyrants,Steelheart's Champions,Objective,Score this in an end phase if your warband took an enemy leader out of action in the preceding action phase,1,-,Core set
+Shadespire,39,39,Heroic Guard,Steelheart's Champions,Ploy,Choose a friendly fighter and put them on Guard,-,-,Core set
+Shadespire,40,40,Peal of Thunder,Steelheart's Champions,Ploy,Choose any enemy fighter and push them one hex in any direction,-,-,Core set
+Shadespire,41,41,Righteous Zeal,Steelheart's Champions,Ploy,+1 Damage to the first Attack action with a Range of 1 or 2 in the next activation,-,-,Core set
+Shadespire,42,42,Sigmarite Wall,Steelheart's Champions,Ploy,Choose two adjacent friendly fighters and put them on Guard,-,-,Core set
+Shadespire,43,43,Stormforged Resistance,Steelheart's Champions,Ploy,Friendly fighters cannot be driven back by the first Attack action in the next activation,-,-,Core set
+Shadespire,44,44,Stormforged Tactics,Steelheart's Champions,Ploy,"In the next activation make the following Reaction. Reaction: After an enemy fighter's Attack action that fails, choose up to two friendly fighters and push them up to one hex each",-,-,Core set
+Shadespire,45,45,Tireless Assault,Steelheart's Champions,Ploy,Reaction: Play this after a friendly fighter's Attack action that fails. That fighter can make another Attack action that targets the same fighter,-,-,Core set
+Shadespire,46,46,Undaunted,Steelheart's Champions,Ploy,Reaction: Play this after an Attack action or ploy that takes a friendly fighter out of action leaving one surviving friendly fighter on the battlefield. Remove all wound tokens from the surviving fighter,-,-,Core set
+Shadespire,47,47,Unstoppable Strike,Steelheart's Champions,Ploy,The first Attack action in the next activation gains Cleave,-,-,Core set
+Shadespire,48,48,Valiant Attack,Steelheart's Champions,Ploy,Enemy fighters cannot support the target of the first Attack action in the next activation,-,-,Core set
+Shadespire,49,49,Blessed by Sigmar,Steelheart's Champions,Upgrade,+1 Wounds,-,-,Core set
+Shadespire,50,50,Block,Steelheart's Champions,Upgrade,Action: This fighter and all adjacent friendly fighters go on Guard,-,Angharad Brightshield,Core set
+Shadespire,51,51,Brave Strike,Steelheart's Champions,Upgrade,[1 Hex | 2 Hammer | 2 Damage] Roll an extra attack dice if there are no adjacent friendly fighters,-,Obryn the Bold,Core set
+Shadespire,52,52,Fatal Riposte,Steelheart's Champions,Upgrade,"Reaction: During an Attack action that targets this fighter and fails, roll an attack dice. On a roll of Hammer or Crit this fighter cannot be driven back and they can make an Attack action. It must target the attacker.",-,Severin Steelheart,Core set
+Shadespire,53,53,Heroic Might,Steelheart's Champions,Upgrade,This fighter's Attack action gains Cleave,-,"Severin Steelheart, Obryn the Bold",Core set
+Shadespire,54,54,Heroic Stride,Steelheart's Champions,Upgrade,"Reaction: After an enemy fighter ends their activation within two hexes of this fighter, you can push this fighter one hex",-,Severin Steelheart,Core set
+Shadespire,55,55,Lightning Blade,Steelheart's Champions,Upgrade,"[2 Hex | 2 Hammer | 1 Damage] On a critical hit, this Attack action has +1 Damage",-,Severin Steelheart,Core set
+Shadespire,56,56,Lightning Blast,Steelheart's Champions,Upgrade,"When they make a critical hit, this fighter also inflicts 1 damage on enemy fighters adjacent to the target's hex",-,Obryn the Bold,Core set
+Shadespire,57,57,Righteous Strike,Steelheart's Champions,Upgrade,"[1 Hex | 3 Hammer | 2 Damage] Reaction: After this Attack action, if it failed and the target was an enemy leader, make this Attack action again",-,Angharad Brightshield,Core set
+Shadespire,58,58,Shield Bash,Steelheart's Champions,Upgrade,"Reaction: During an adjacent fighter's Attack action that targets this fighter and fails, this fighter cannot be driven back and you can push their attacker one hex",-,Angharad Brightshield,Core set
+Shadespire,59,59,Battle Without End,Sepulchral Guard,Objective,Score this in an end phase if two or more friendly fighters returned to the battlefield in the preceding action phase,1,-,Sepulchral Guard expansion
+Shadespire,60,60,Claim the City,Sepulchral Guard,Objective,Score this in an end phase if  you hold every objective,5,-,Sepulchral Guard expansion
+Shadespire,61,61,Fearless in Death,Sepulchral Guard,Objective,Score this in an end phase if there is only one friendly fighter on the battlefield,1,-,Sepulchral Guard expansion
+Shadespire,62,62,March of the Dead,Sepulchral Guard,Objective,Score this in an end phase if all of your surviving fighters (at least five) made a Move action in the preceding action phase,2,-,Sepulchral Guard expansion
+Shadespire,63,63,More Able Bodies,Sepulchral Guard,Objective,Score this in an end phase if your warband took two or more enemy fighters out of action in the preceding action phase,1,-,Sepulchral Guard expansion
+Shadespire,64,64,Peerless General,Sepulchral Guard,Objective,"Score this in the third end phase if you have four or more surviving fighters, and none are Inspired",3,-,Sepulchral Guard expansion
+Shadespire,65,65,Skills Unforgotten,Sepulchral Guard,Objective,Score this immediately if your leader takes an enemy fighter out of action,1,-,Sepulchral Guard expansion
+Shadespire,66,66,The Invigorated Dead,Sepulchral Guard,Objective,Score this in the third end phase if all of your surviving fighters (at least three) are Inspired,1,-,Sepulchral Guard expansion
+Shadespire,67,67,Undead Swarm,Sepulchral Guard,Objective,Score this in an end phase if each enemy fighter is adjacent to at least two friendly fighters,1,-,Sepulchral Guard expansion
+Shadespire,68,68,Bone Shrapnel,Sepulchral Guard,Ploy,Reaction: Play this after an Attack action that takes a friendly fighter out of action. The fighter that took them out of action suffers 1 damage,-,-,Sepulchral Guard expansion
+Shadespire,69,69,Ceaseless Attacks,Sepulchral Guard,Ploy,Reaction: Play this after a friendly fighter's Attack action. Make an Attack action with another friendly fighter,-,-,Sepulchral Guard expansion
+Shadespire,70,70,Clawing Hands,Sepulchral Guard,Ploy,Each friendly fighter that is not on the battlefield is considered to be supporting the first Attack action in the next activation,-,-,Sepulchral Guard expansion
+Shadespire,71,71,Danse Macabre,Sepulchral Guard,Ploy,Any friendly fighters that make a Move action in the next activation can move one additional hex,-,-,Sepulchral Guard expansion
+Shadespire,72,72,Grasping Hands,Sepulchral Guard,Ploy,"Reduce the Move characteristic of the first fighter to be activated in the next activation by the number of friendly fighters that are not on the battlefield, to a minimum of 0",-,-,Sepulchral Guard expansion
+Shadespire,73,73,Restless Dead,Sepulchral Guard,Ploy,Place a friendly fighter that was taken out of action (other than the Sepulchral Warden) on a starting hex in your territory,-,-,Sepulchral Guard expansion
+Shadespire,74,74,Spectral Form,Sepulchral Guard,Ploy,"Any friendly fighters that make a Move action in the next activation can move through additional fighters, but must end their moves on empty hexes",-,-,Sepulchral Guard expansion
+Shadespire,75,75,Swift Evasion,Sepulchral Guard,Ploy,Choose one friendly fighter and push them up to two hexes. Their new position must be further away from all enemy fighters,-,-,Sepulchral Guard expansion
+Shadespire,76,76,Terrifying Screams,Sepulchral Guard,Ploy,Choose an enemy fighter and push them one hex,-,-,Sepulchral Guard expansion
+Shadespire,77,77,The Necromancer Commands,Sepulchral Guard,Ploy,Reaction: Play this after a friendly fighter's Attack action that fails. Make the Attack action again,-,-,Sepulchral Guard expansion
+Shadespire,78,78,Ancient Commander,Sepulchral Guard,Upgrade,Action: Choose three other friendly fighters. Make Move actions with these fighters. This does not allow a fighter to move twice in a phase,-,The Sepulchral Warden,Sepulchral Guard expansion
+Shadespire,79,79,Assumed Command,Sepulchral Guard,Upgrade,Each friendly fighter that supports this fighter is considered to be two supporting fighters,-,The Prince of Dust,Sepulchral Guard expansion
+Shadespire,80,80,Deathly Charge,Sepulchral Guard,Upgrade,This fighter's Attack actions with a Range of 1 or 2 have +1 Damage in a phase in which they make a Charge action,-,The Champion,Sepulchral Guard expansion
+Shadespire,81,81,Fatal Strike,Sepulchral Guard,Upgrade,"[1 Hex | 2 Hammer | 2 Damage] Reaction: Make this Attack action during an Attack action that takes this fighter out of action, before they are removed from the battlefield. It must target their attacker",-,The Champion,Sepulchral Guard expansion
+Shadespire,82,82,Focused Attack,Sepulchral Guard,Upgrade,[1 Hex | 2 Hammer | 2 Damage] If you roll at least one Crit this Attack action has Cleave,-,The Harvester,Sepulchral Guard expansion
+Shadespire,83,83,Frightening Speed,Sepulchral Guard,Upgrade,+2 Move,-,"The Harvester, The Champion, The Prince of Dust",Sepulchral Guard expansion
+Shadespire,84,84,Grim Cleave,Sepulchral Guard,Upgrade,This fighter's Attack actions gain Cleave,-,The Harvester,Sepulchral Guard expansion
+Shadespire,85,85,Lethal Lunge,Sepulchral Guard,Upgrade,[2 Hex | 2 Hammer | 3 Damage] Cleave,-,-,Sepulchral Guard expansion
+Shadespire,86,86,Remembered Shield,Sepulchral Guard,Upgrade,This fighter's Defence characteristic changes to Shield,-,"The Sepulchral Warden, The Prince of Dust, Petitioners",Sepulchral Guard expansion
+Shadespire,87,87,Undying,Sepulchral Guard,Upgrade,+1 Wounds,-,-,Sepulchral Guard expansion
+Shadespire,88,88,'Ard as Iron,Ironskull's Boyz,Objective,Score this in the third end phase if none of your fighters are out of action,3,-,Ironskull's Boyz expansion
+Shadespire,89,89,Biggest an' da Best,Ironskull's Boyz,Objective,Score this in an end phase if your leader took an enemy fighter out of action in the preceding action phase,1,-,Ironskull's Boyz expansion
+Shadespire,90,90,Call of the Waaagh!,Ironskull's Boyz,Objective,Score this immediately if three or more of your fighters made a Charge action this phase,1,-,Ironskull's Boyz expansion
+Shadespire,91,91,Dead Kunnin',Ironskull's Boyz,Objective,Score this immediately if a friendly fighter has two more supporting fighters than their target when making an Attack action,1,-,Ironskull's Boyz expansion
+Shadespire,92,92,Dere's More of Us,Ironskull's Boyz,Objective,Score this in an end phase if you have more fighters on the battlefield than your opponent,1,-,Ironskull's Boyz expansion
+Shadespire,93,93,Get Da Boss,Ironskull's Boyz,Objective,Score this in an end phase if your warband took an enemy leader out of action in the preceding action phase,1,-,Ironskull's Boyz expansion
+Shadespire,94,94,Good Scrap,Ironskull's Boyz,Objective,Score this in an end phase if three or more fighters were taken out of action in the preceding action phase,2,-,Ironskull's Boyz expansion
+Shadespire,95,95,Punch-Up,Ironskull's Boyz,Objective,Score this in an end phase if each of your surviving fighters (at least two) made an Attack action against a different enemy fighter in the preceding action phase,2,-,Ironskull's Boyz expansion
+Shadespire,96,96,Too Dumb to Die,Ironskull's Boyz,Objective,Score this immediately if a friendly fighter suffers 3 or more damage in a single attack and is not take out of action,1,-,Ironskull's Boyz expansion
+Shadespire,97,97,'Avin' a Good Time,Ironskull's Boyz,Ploy,Choose a fighter and roll an attack dice. If you roll a Hammer or Crit the can make an Attack action,-,-,Ironskull's Boyz expansion
+Shadespire,98,98,Brutal But Kunnin',Ironskull's Boyz,Ploy,Reaction: Play this after a friendly fighter's Attack action. You can push that fighter up to three hexes,-,-,Ironskull's Boyz expansion
+Shadespire,99,99,Deafening Bellow,Ironskull's Boyz,Ploy,Choose an enemy fighter adjacent to one of your fighters. Push that fighter one hex,-,-,Ironskull's Boyz expansion
+Shadespire,100,100,Gorkamorka's Blessing,Ironskull's Boyz,Ploy,The first Attack action with a Range of 1 or 2 in the next activation has +1 Damage,-,-,Ironskull's Boyz expansion
+Shadespire,101,101,Kunnin' But Brutal,Ironskull's Boyz,Ploy,Reaction: Play this after a friendly fighter's Move action. That fighter can make an Attack action. You cannot play this during a Charge action,-,-,Ironskull's Boyz expansion
+Shadespire,102,102,Last Lunge,Ironskull's Boyz,Ploy,"Reaction: Play this during an Attack action or ploy that will take a friendly fighter out of action, before removing them from the battlefield. Roll an attack dice. On a roll of Hammer or Crit make an Attack action with that fighter. It must target the attacker",-,-,Ironskull's Boyz expansion
+Shadespire,103,103,Leadin' By Example,Ironskull's Boyz,Ploy,Reaction: Play this after an Attack action made by your leader that takes an enemy fighter out of action. Another friendly fighter that has not already made a Move or Charge action can make a Charge action,-,-,Ironskull's Boyz expansion
+Shadespire,104,104,More Choppin',Ironskull's Boyz,Ploy,Roll an extra attack dice for the first Attack action in the next activation,-,-,Ironskull's Boyz expansion
+Shadespire,105,105,Pillage,Ironskull's Boyz,Ploy,Remove one objective that you hold from the battlefield,-,-,Ironskull's Boyz expansion
+Shadespire,106,106,Scrag 'Em,Ironskull's Boyz,Ploy,Each friendly fighter that supports the first Attack action in the next activation is considered to be two supporting fighters,-,-,Ironskull's Boyz expansion
+Shadespire,107,107,'Ard Head,Ironskull's Boyz,Upgrade,"When this fighter suffers damage, reduce that damage by 1 to a minimum of 1",-,"Hakka, Basha",Ironskull's Boyz expansion
+Shadespire,108,108,Aspiring Boss,Ironskull's Boyz,Upgrade,"Reaction: During an Attack action by this fighter that targets an enemy leader and fails, you can re-roll one attack dice",-,Hakka,Ironskull's Boyz expansion
+Shadespire,109,109,Brutal Frenzy,Ironskull's Boyz,Upgrade,Roll an extra attack dice when this fighter makes a Charge action,-,"Hakka, Basha",Ironskull's Boyz expansion
+Shadespire,110,110,Brutal Swing,Ironskull's Boyz,Upgrade,[1 Hex | 3 Sword | 2 Damage] Targets all adjacent enemy fighters - roll for each,-,Bonekutta,Ironskull's Boyz expansion
+Shadespire,111,111,Crush and Cleave,Ironskull's Boyz,Upgrade,This fighter's Attack actions gain Cleave,-,"Gurzag Ironskull, Bonekutta",Ironskull's Boyz expansion
+Shadespire,112,112,Dead 'Ard,Ironskull's Boyz,Upgrade,This fighter can only be driven back by a critical hit,-,"Gurzag Ironskull, Bonekutta",Ironskull's Boyz expansion
+Shadespire,113,113,'Eadbutt,Ironskull's Boyz,Upgrade,"[1 Hex | 2 Hammer | 2 Damage] If this Attack action succeeds, the target cannot be activated for the rest of the phase",-,Gurzag Ironskull,Ironskull's Boyz expansion
+Shadespire,114,114,Headlong Rush,Ironskull's Boyz,Upgrade,This fighter's Attack actions gain Knockback 1 in a phase in which they make a Charge action,-,Basha,Ironskull's Boyz expansion
+Shadespire,115,115,Unkillable,Ironskull's Boyz,Upgrade,"Reaction: During an Attack action or ploy that takes this fighter out of action, roll a defence dice. If you roll a Shield or Crit they suffer no damage and are not taken out of action, and you discard this upgrade",-,Gurzag Ironskull,Ironskull's Boyz expansion
+Shadespire,116,116,Waaagh!,Ironskull's Boyz,Upgrade,This fighter's Attack actions with a Range of 1 or 2 have +1 Damage in a phase in which they make a Charge action,-,-,Ironskull's Boyz expansion
+Shadespire,117,117,A Claim Retaken,The Chosen Axes,Objective,Score this in an end phase if a friendly fighter holds an objective that an enemy fighter held at the beginning of the preceding action phase,2,-,The Chosen Axes expansion
+Shadespire,118,118,A Grim Promise,The Chosen Axes,Objective,Score this in an end phase if your warband took an enemy leader out of action in the preceding action phase,1,-,The Chosen Axes expansion
+Shadespire,119,119,Ferocious Charge,The Chosen Axes,Objective,Score this immediately if a friendly fighter takes an enemy figther out of action with a Charge action,1,-,The Chosen Axes expansion
+Shadespire,120,120,For the Ur-gold,The Chosen Axes,Objective,Score this in an end phase if all your surviving fighters (at least three) are Inspired,1,-,The Chosen Axes expansion
+Shadespire,121,121,Fury of the Lodge,The Chosen Axes,Objective,Score this in an end phase if all of your surviving fighters (at least three) made a Charge action in the preceding action phase,1,-,The Chosen Axes expansion
+Shadespire,122,122,Hoarders,The Chosen Axes,Objective,Score this in an end phase if all of your fighters and no enemy fighters are holding objectives,2,-,The Chosen Axes expansion
+Shadespire,123,123,Oaths Still to Fulfil,The Chosen Axes,Objective,Score this in the third end phase if none of your fighters are out of action,3,-,The Chosen Axes expansion
+Shadespire,124,124,Scion of Grimnir,The Chosen Axes,Objective,Score this immediately if your leader takes an enemy fighter out of action,1,-,The Chosen Axes expansion
+Shadespire,125,125,Unstoppable Advance,The Chosen Axes,Objective,Score this in an end phase if all of your surviving fighters are in enemy territory,2,-,The Chosen Axes expansion
+Shadespire,126,126,Berserk Fury,The Chosen Axes,Ploy,"The first time a friendly fighter suffers damage in the next activation, roll a defence dice. If the result is a Shield they suffer no damage",-,-,The Chosen Axes expansion
+Shadespire,127,127,Indomitable,The Chosen Axes,Ploy,"The first time a friendly fighter suffers damage in the next activation, they only suffer 1 damage",-,-,The Chosen Axes expansion
+Shadespire,128,128,Living Wall,The Chosen Axes,Ploy,Choose two friendly fighters and push each of them up to one hex. They must end up adjacent to one another,-,-,The Chosen Axes expansion
+Shadespire,129,129,Oathsworn,The Chosen Axes,Ploy,Reaction: Play this after a friendly fighter's Attack action that fails. That fighter can make another Attack action that targets the same fighter,-,-,The Chosen Axes expansion
+Shadespire,130,130,Piercing Stare,The Chosen Axes,Ploy,Choose an enemy fighter. They cannot make an Attack action or a Charge action in the next activation,-,-,The Chosen Axes expansion
+Shadespire,131,131,Slaying Blow,The Chosen Axes,Ploy,"If the first Attack action in the next activation is a critical hit, double its Damage characteristic",-,-,The Chosen Axes expansion
+Shadespire,132,132,The Earth Shakes,The Chosen Axes,Ploy,Choose a fighter and push them one hex,-,-,The Chosen Axes expansion
+Shadespire,133,133,Treasure-lust,The Chosen Axes,Ploy,Choose a friendly fighter and push them up to three hexes. They must end up holding an objective,-,-,The Chosen Axes expansion
+Shadespire,134,134,Ur-gold Boon,The Chosen Axes,Ploy,Choose a friendly fighter and roll a defence dice. On a roll of Shield or Crit remove up to two wound tokens from them. Otherwise remove one wound token from them,-,-,The Chosen Axes expansion
+Shadespire,135,135,We Shall Not Be Moved,The Chosen Axes,Ploy,Friendly fighters holding objectives cannot be driven back by the first Attack action in the next activation,-,-,The Chosen Axes expansion
+Shadespire,136,136,Activated Runes,The Chosen Axes,Upgrade,"Each time this fighter make an Attack action, you can re-roll one dice",-,-,The Chosen Axes expansion
+Shadespire,137,137,Brute Strength,The Chosen Axes,Upgrade,This fighter's Attack actions gain Knockback 1,-,Tefk Flamebearer,The Chosen Axes expansion
+Shadespire,138,138,Defiant Strike,The Chosen Axes,Upgrade,"[1 Hex | 3 Sword | 1 Damage] Reaction: During an Attack action that succeeds against this fighter, this fighter cannot be driven back and makes this Attack action. It must target the attacker",-,Tefk Flamebearer,The Chosen Axes expansion
+Shadespire,139,139,Flurry of Blows,The Chosen Axes,Upgrade,[1 Hex | 3 Sword | 2 Damage],-,Mad Maegrim,The Chosen Axes expansion
+Shadespire,140,140,Great Swing,The Chosen Axes,Upgrade,[1 Hex | 2 Sword | 2 Damage] Targets all adjacent enemy fighters - roll for each,-,Vol Orrukbane,The Chosen Axes expansion
+Shadespire,141,141,Grimnir's Blessing,The Chosen Axes,Upgrade,"Reaction: During an Attack action or ploy that would take this fighter out of action, roll a defence dice. If you roll a Shield the damage suffered by this fighter is ignored",-,Fjul-Grimnir,The Chosen Axes expansion
+Shadespire,142,142,Grimnir's Fortitude,The Chosen Axes,Upgrade,+1 Defence,-,Fjul-Grimnir,The Chosen Axes expansion
+Shadespire,143,143,Grimnir's Speed,The Chosen Axes,Upgrade,+2 Move,-,Fjul-Grimnir,The Chosen Axes expansion
+Shadespire,144,144,Returning Axe,The Chosen Axes,Upgrade,[3 Hex | 2 Sword | 1 Damage] On a critical hit this Attack action has +1 Damage,-,Mad Maegrim,The Chosen Axes expansion
+Shadespire,145,145,War Song,The Chosen Axes,Upgrade,"This fighter is considered to be two supporting fighters when they support, rather than one",-,Vol Orrukbane,The Chosen Axes expansion
+Shadespire,146,146,Arm's Length,Spiteclaw's Swarm,Objective,Score this immediately if your warband takes an enemy fighter out of action while they are adjacent to none of your fighters,1,-,Spiteclaw's Swarm expansion
+Shadespire,147,147,"Brilliant, Brilliant!",Spiteclaw's Swarm,Objective,Score this in an end phase if you scored two or more other objective cards in the preceding action phase,1,-,Spiteclaw's Swarm expansion
+Shadespire,148,148,Feast-feast,Spiteclaw's Swarm,Objective,Score this in an end phase if all enemy fighters have been taken out of action,3,-,Spiteclaw's Swarm expansion
+Shadespire,149,149,Honed Survival Instincts,Spiteclaw's Swarm,Objective,Score this in an end phase if no friendly figther was taken out of action in the preceding action phase,1,-,Spiteclaw's Swarm expansion
+Shadespire,150,150,Leading from the Back,Spiteclaw's Swarm,Objective,Score this in the third end phase if your leader is in your territory and not adjacent to an enemy,1,-,Spiteclaw's Swarm expansion
+Shadespire,151,151,Live to Fight Another Day,Spiteclaw's Swarm,Objective,Score this in the third end phase if the only surviving friendly fighter is your leader,2,-,Spiteclaw's Swarm expansion
+Shadespire,152,152,Lives are Cheap,Spiteclaw's Swarm,Objective,Score this in an end phase if two or more friendly fighters were taken out of action in the preceding action phase,1,-,Spiteclaw's Swarm expansion
+Shadespire,153,153,Numberless Swarm,Spiteclaw's Swarm,Objective,Score this in the third end phase if there are five friendly fighters on the battledfield,1,-,Spiteclaw's Swarm expansion
+Shadespire,154,154,"Skritch is the Greatest, Yes-yes",Spiteclaw's Swarm,Objective,Score this immediately if your leader takes an enemy fighter out of action,1,-,Spiteclaw's Swarm expansion
+Shadespire,155,155,Aversion to Death,Spiteclaw's Swarm,Ploy,Reaction: Play this after an Attack action that takes a friendly fighter out of action. Push up to two friendly fighters one hex each,-,-,Spiteclaw's Swarm expansion
+Shadespire,156,156,Frenzied Stabbing,Spiteclaw's Swarm,Ploy,The first Attack action with a Range of 1 or 2 in the next activation has +1 Damage,-,-,Spiteclaw's Swarm expansion
+Shadespire,157,157,Heightened Caution,Spiteclaw's Swarm,Ploy,Roll an extra defence dice for the first friendly fighter to be targeted by an Attack action in the next activation,-,-,Spiteclaw's Swarm expansion
+Shadespire,158,158,Momentary Boldness,Spiteclaw's Swarm,Ploy,Choose a friendly fighter adjacent to two or more friendly fighters. That fighter makes a Charge action,-,-,Spiteclaw's Swarm expansion
+Shadespire,159,159,Musk of Fear,Spiteclaw's Swarm,Ploy,Choose a friendly fighter and put them on Guard,-,-,Spiteclaw's Swarm expansion
+Shadespire,160,160,Nervous Scrabbling,Spiteclaw's Swarm,Ploy,Choose a friendly fighter. They switch places with any adjacent fighter,-,-,Spiteclaw's Swarm expansion
+Shadespire,161,161,Scratching in the Shadows,Spiteclaw's Swarm,Ploy,Choose an enemy fighter and push them one hex,-,-,Spiteclaw's Swarm expansion
+Shadespire,162,162,Skaven Courage,Spiteclaw's Swarm,Ploy,Play this if there are at least three friendly fighters adjacent to the same enemy fighter. One of those friendly fighters can make an Attack action,-,-,Spiteclaw's Swarm expansion
+Shadespire,163,163,Sudden Skittering,Spiteclaw's Swarm,Ploy,"Double the Move characteristic of the first friendly fighter to make a Move action in the next activation. They may not make a Charge action. Once they have moved, they cannot be activated again this phase",-,-,Spiteclaw's Swarm expansion
+Shadespire,164,164,There Are Always More,Spiteclaw's Swarm,Ploy,Choose one friendly fighter that is out of action (other than Skritch or Krrk). Remove all wound tokens from them and place them on any starting hex,-,-,Spiteclaw's Swarm expansion
+Shadespire,165,165,Black Hunger,Spiteclaw's Swarm,Upgrade,"This fighter's Attack actions with a Range of 1 have +1 Damage, and target all adjacent fighters (friend and foe) - roll for each. Fighters do not provide support for Attack actions against friendly models (in attack or defence)",-,Hungering Skaven,Spiteclaw's Swarm expansion
+Shadespire,166,166,Bodyguard for a Price,Spiteclaw's Swarm,Upgrade,"If Skritch is adjacent to this fighter, Skritch is on Guard (even if Skritch has made a Charge action this phase)",-,Krrk the Almost-Trusted,Spiteclaw's Swarm expansion
+Shadespire,167,167,Expendable,Spiteclaw's Swarm,Upgrade,"Reaction: During an Attack action that will cause any damage to this fighter, you can remove them from the battlefield and deal 1 damage to their attacker",-,"Lurking Skaven, Hungering Skaven, Festering Skaven",Spiteclaw's Swarm expansion
+Shadespire,168,168,Festering Blades,Spiteclaw's Swarm,Upgrade,"On a critical hit, this fighter's Attack actions with a Range of 1 or 2 have +2 Damage",-,Festering Skaven,Spiteclaw's Swarm expansion
+Shadespire,169,169,Flee!,Spiteclaw's Swarm,Upgrade,Action: This fighter and one adjacent friendly fighter can make a Move action. Both figthers must end their move further away from all enemy fighters,-,Skritch Spiteclaw,Spiteclaw's Swarm expansion
+Shadespire,170,170,Skitter-scurry,Spiteclaw's Swarm,Upgrade,"Reaction: After any action that this fighter makes, you can push this fighter one hex",-,"Skritch Spiteclaw, Krrk the Almost-Trusted",Spiteclaw's Swarm expansion
+Shadespire,171,171,Sneaky Stab-stab,Spiteclaw's Swarm,Upgrade,"You can push this fighter one hex before they take an Attack action, though not when this fighter takes a Charge action",-,-,Spiteclaw's Swarm expansion
+Shadespire,172,172,Swarm of Rats,Spiteclaw's Swarm,Upgrade,[1 Hex | 3 Sword | 1 Damage] Targets all adjacent enemy fighters - roll for each,-,Krrk the Almost-Trusted,Spiteclaw's Swarm expansion
+Shadespire,173,173,Throwing Stars,Spiteclaw's Swarm,Upgrade,[3 Hex | 3 Sword | 1 Damage],-,Lurking Skaven,Spiteclaw's Swarm expansion
+Shadespire,174,174,Whirling Halberd,Spiteclaw's Swarm,Upgrade,[1 Hex | 2 Sword | 2 Damage] Targets all adjacent enemy fighters - roll for each,-,Skritch Spiteclaw,Spiteclaw's Swarm expansion
+Shadespire,175,175,All the Better to Slay Them,Magore's Fiends,Objective,Score this immediately if all friendly figthers (at least three) are adjacent to a different enemy fighter,1,-,Magore's Fiends expansion
+Shadespire,176,176,Bane of Champions,Magore's Fiends,Objective,Score this immediately if Riptooth takes an enemy leader out of action,2,-,Magore's Fiends expansion
+Shadespire,177,177,Bloody Annihilation,Magore's Fiends,Objective,Score this in an end phase if all enemy fighters have been taken out of action,3,-,Magore's Fiends expansion
+Shadespire,178,178,Khorne Sees Us,Magore's Fiends,Objective,Score this immediately if your warband takes two or more enemy fighters out of action in a phase,1,-,Magore's Fiends expansion
+Shadespire,179,179,Kill! Kill Again!,Magore's Fiends,Objective,Score this in an end phase if at least two fighters from each warband are out of action,1,-,Magore's Fiends expansion
+Shadespire,180,180,No Escape,Magore's Fiends,Objective,Score this immediately if three or more of your fighters made a Charge action this phase,1,-,Magore's Fiends expansion
+Shadespire,181,181,Rivers of Blood,Magore's Fiends,Objective,Score this in an end phase if all surviving fighters (at least four) are wounded,2,-,Magore's Fiends expansion
+Shadespire,182,182,Save the Best,Magore's Fiends,Objective,Score this in an end phase if an enemy leader is the only surviving enemy fighter,2,-,Magore's Fiends expansion
+Shadespire,183,183,Show of Strength,Magore's Fiends,Objective,Score this immediately if your leader takes an enemy fighter out of action,1,-,Magore's Fiends expansion
+Shadespire,184,184,Blood Frenzy,Magore's Fiends,Ploy,Reaction: Play this after an Attack action or ploy that takes a fighter out of action. Roll one extra attack dice for the first Attack action in the next activation. Both Hammer and Sword are successes for that Attack action,-,-,Magore's Fiends expansion
+Shadespire,185,185,Bloodslick Ground,Magore's Fiends,Ploy,"In the next activation, enemy fighters have -2 Move",-,-,Magore's Fiends expansion
+Shadespire,186,186,Bloody Retribution,Magore's Fiends,Ploy,Reaction: Play this after an Attack action that takes a friendly fighter out of action. A friendly figher adjacent to the attacker makes an Attack action against that fighter,-,-,Magore's Fiends expansion
+Shadespire,187,187,Continue the Slaughter,Magore's Fiends,Ploy,Reaction: Play this after an Attack action or ploy that takes a fighter out of action. The first Attack action in the next activation has +1 Damage,-,-,Magore's Fiends expansion
+Shadespire,188,188,Daemonic Resilience,Magore's Fiends,Ploy,The first friendly fighter who suffers any amount of damage in the next activation only suffers 1 damage,-,-,Magore's Fiends expansion
+Shadespire,189,189,Fountain of Gore,Magore's Fiends,Ploy,Reaction: Play this after an Attack action or ploy that takes a fighter out of action. All friendly fighters have +1 Defence in the next activation,-,-,Magore's Fiends expansion
+Shadespire,190,190,Furious Inspiration,Magore's Fiends,Ploy,Choose a friendly fighter. The become Inspired,-,-,Magore's Fiends expansion
+Shadespire,191,191,Glory to Khorne,Magore's Fiends,Ploy,Roll one extra attack dice for the first Attack action made by a friendly fighter in the next activation,-,-,Magore's Fiends expansion
+Shadespire,192,192,Horrifying Howl,Magore's Fiends,Ploy,Choose an enemy fighter that is adjacent to a friendly fighter and push them up to two hexes,-,-,Magore's Fiends expansion
+Shadespire,193,193,"To the Victor, the Spoils",Magore's Fiends,Ploy,Reaction: Play this after a friendly fighter's Attack action that takes an enemy fighter with a Wounds characteristic of 3 or more out of action. Draw three power cards,-,-,Magore's Fiends expansion
+Shadespire,194,194,Brutal Charge,Magore's Fiends,Upgrade,Roll an extra attack dice when this fighter makes a Charge action,-,"Magore Redhand, Ghartok Flayskull, Zharkus the Bloodsighted",Magore's Fiends expansion
+Shadespire,195,195,Daemonic Maw,Magore's Fiends,Upgrade,"[1 Hex | 2 Sword | 3 Damage] If this Attack action succeeds, remove one wound token from this fighter",-,Magore Redhand,Magore's Fiends expansion
+Shadespire,196,196,Furious Charge,Magore's Fiends,Upgrade,When this fighter makes a Charge action both Hammer and Sword are successes,-,Zharkus the Bloodsighted,Magore's Fiends expansion
+Shadespire,197,197,No Respite,Magore's Fiends,Upgrade,"Reaction: During an Attack action or ploy that will take this fighter out of action, you can make an Attack action with them",-,"Magore Redhand, Ghartok Flayskull, Zharkus the Bloodsighted",Magore's Fiends expansion
+Shadespire,198,198,Predatory Leap,Magore's Fiends,Upgrade,"When this fighter makes a Charge action they can move through other fighters, but their move must end in an empty hex",-,Riptooth the Flesh Hound,Magore's Fiends expansion
+Shadespire,199,199,Rage-fuelled Attacks,Magore's Fiends,Upgrade,This fighter's Attack actions with a Range of 1 or 2 have +1 Damage,-,Zharkus the Bloodsighted,Magore's Fiends expansion
+Shadespire,200,200,Shake About,Magore's Fiends,Upgrade,This fighter's successful Attack actions with a Range of 1 can push the target one hex (instead of driving them back) in addition to inflicting damage,-,Riptooth the Flesh Hound,Magore's Fiends expansion
+Shadespire,201,201,Trophy Hunter,Magore's Fiends,Upgrade,"When this fighter takes an enemy fighter out of action, gain 1 additional glory point",-,Magore Redhand,Magore's Fiends expansion
+Shadespire,202,202,Unshakeable,Magore's Fiends,Upgrade,"Reaction: During an Attack action that could drive this fighter back (whether or not your opponent chooses to do so), you can instead push them one hex",-,Riptooth the Flesh Hound,Magore's Fiends expansion
+Shadespire,203,203,Wrathful Blows,Magore's Fiends,Upgrade,All of this fighter's Attack actions have +1 Dice,-,Ghartok Flayskull,Magore's Fiends expansion
+Shadespire,204,204,Behead the Beast,The Farstriders,Objective,Score this in an end phase if your warband took an enemy leader out of action in the preceding action phase,1,-,The Farstriders expansion
+Shadespire,205,205,Brave but Cautious,The Farstriders,Objective,Score this in an end phase if you have at least one surviving fighter and none of your fighters suffered any damage in the preceeding action phase,1,-,The Farstriders expansion
+Shadespire,206,206,Close with the Enemy,The Farstriders,Objective,Score this in an end phase if three friendly fighters are adjacent to enemy fighters,1,-,The Farstriders expansion
+Shadespire,207,207,Eternal Supremacy,The Farstriders,Objective,Score this in an end phase if you hold three of more objectives,3,-,The Farstriders expansion
+Shadespire,208,208,Lightning Advance,The Farstriders,Objective,Score this in an end phase if all of your surviving figthers (at least two) are in enemy territory,1,-,The Farstriders expansion
+Shadespire,209,209,Meticulous Annihilation,The Farstriders,Objective,Score this in an end phase if all enemy fighters have been taken out of action,3,-,The Farstriders expansion
+Shadespire,210,210,Punishing Volleys,The Farstriders,Objective,Score this in an end phase if you made at least three successful Boltstorm Pistol or Overcharged Boltstorm Pistol Attack actions in the preceeding action phase,1,-,The Farstriders expansion
+Shadespire,211,211,Ranger Strike,The Farstriders,Objective,Score this immediately if your warband has taken two or more fighters out of action in this phase,1,-,The Farstriders expansion
+Shadespire,212,212,Sigmar's Finest,The Farstriders,Objective,Score this in an end phase if your surviving fighters (at least one) are outnumbered by surviving enemy fighters by at least three to one,2,-,The Farstriders expansion
+Shadespire,213,213,Fearsome Roar,The Farstriders,Ploy,Choose an enemy fighter adjacent to a friendly fighter. Push them one hex,-,-,The Farstriders expansion
+Shadespire,214,214,Firm Footing,The Farstriders,Ploy,Roll an extra defence dice for friendly fighters holding objectives in the next activation,-,-,The Farstriders expansion
+Shadespire,215,215,Lightning Blow,The Farstriders,Ploy,The first Attack action in the next activation has +1 Damage,-,-,The Farstriders expansion
+Shadespire,216,216,Lightning Stride,The Farstriders,Ploy,"Double the Move characteristic of the first friendly fighter to make a Move action in the next activation. They may not make a Charge action. Once they have moved, they cannot be activated again this phase",-,-,The Farstriders expansion
+Shadespire,217,217,Patient Defence,The Farstriders,Ploy,The first friendly fighter to be targeted by an Attack action in the next activation has +1 Defence,-,-,The Farstriders expansion
+Shadespire,218,218,"Rangers, Advance",The Farstriders,Ploy,Choose two friendly fighters and push them one hex,-,-,The Farstriders expansion
+Shadespire,219,219,Rapid Volley,The Farstriders,Ploy,Reaction: Play this after a friendly fighter's Boltstorm Pistol or Overcharged Boltstorm Pistol Attack action. That fighter can make another Boltstorm Pistol or Overcharged Boltstorm Pistol Attack action that targets the same fighter,-,-,The Farstriders expansion
+Shadespire,220,220,Retribution,The Farstriders,Ploy,Reaction: Play this after an Attack action that damages a friendly fighter. That fighter can make an Attack action that must target the attacker,-,-,The Farstriders expansion
+Shadespire,221,221,Steady Volley,The Farstriders,Ploy,The first friendly fighter to make a Boltstorm Pistol or Overcharged Bolstorm Pistol Attack action in the next activation can be pushed one hex before they do so,-,-,The Farstriders expansion
+Shadespire,222,222,Warning Cry,The Farstriders,Ploy,Choose a friendly fighter and put them on Guard,-,-,The Farstriders expansion
+Shadespire,223,223,Aetheric Step,The Farstriders,Upgrade,"This figther can move through other fighters during a Move action, but must end their move in an empty hex",-,Sanson Farstrider,The Farstriders expansion
+Shadespire,224,224,Covering Fire,The Farstriders,Upgrade,"This fighter can support an adjacent friendly fighter targetted by an Attack action, even if this fighter is not adjacent to the attacker",-,-,The Farstriders expansion
+Shadespire,225,225,Flashing Handaxe,The Farstriders,Upgrade,[1 Hex | 2 Hammer | 3 Damage] Cleave,-,Sanson Farstrider,The Farstriders expansion
+Shadespire,226,226,Furious Blow,The Farstriders,Upgrade,"Reaction: During an Attack action that targets this fighter and has failed, this fighter cannot be driven back and can make an Attack action. It must target the attacker",-,Almeric Eagle-Eye,The Farstriders expansion
+Shadespire,227,227,Lone Warrior,The Farstriders,Upgrade,Rolls of Support made for this fighter when they are targeted by an Attack action also count as successes when they are adjacent to no friendly fighters,-,-,The Farstriders expansion
+Shadespire,228,228,Overcharged Boltstorm Pistol,The Farstriders,Upgrade,[3 Hex | 3 Hammer | 1 Damage] Cleave,-,-,The Farstriders expansion
+Shadespire,229,229,Sharp Eyes,The Farstriders,Upgrade,This fighter's Attack actions gain Cleave,-,Almeric Eagle-Eye,The Farstriders expansion
+Shadespire,230,230,Spinning Strike,The Farstriders,Upgrade,[1 Hex | 3 Sword | 1 Damage] Targets all adjacent enemy fighters - roll for each,-,Elias Swiftblade,The Farstriders expansion
+Shadespire,231,231,Swift Stride,The Farstriders,Upgrade,+2 Move,-,-,The Farstriders expansion
+Shadespire,232,232,Well-timed Lunge,The Farstriders,Upgrade,[1 Hex | 2 Hammer | 3 Damage] Cleave,-,Elias Swiftblade,The Farstriders expansion
+Shadespire,233,233,Accept Inevitability,Universal,Objective,Score this in the third end phase if all of your fighters are out of action,1,-,Magore's Fiends expansion
+Shadespire,234,234,Advancing Strike,Universal,Objective,Score this immediately when your warband takes an enemy fighter standing in enemy territory out of action,1,-,The Farstriders expansion
+Shadespire,235,235,Alone in the Darkness,Universal,Objective,Score this in an end phase if there are no adjacent fighters on the battlefield,2,-,Spiteclaw's Swarm expansion
+Shadespire,236,236,Annihilation,Universal,Objective,Score this in an end phase if all enemy fighters have been taken out of action,5,-,Core set
+Shadespire,237,237,Assassinate,Universal,Objective,Score this in an end phase if your warband took an enemy leader out of action in the preceding action phase,1,-,The Chosen Axes expansion
+Shadespire,238,238,Balance of Power,Universal,Objective,Score this immediately when making an Attack action if both the attacker and the target have two supporting fighters,2,-,The Farstriders expansion
+Shadespire,239,239,Blooded,Universal,Objective,Score this in an end phase if all of your surviving fighters (at least three) have at least one wound taken,1,-,Ironskull's Boyz expansion
+Shadespire,240,240,Bloodless,Universal,Objective,Score this in an end phase if no fighter suffered any damage in the preceding action phase,1,-,Sepulchral Guard expansion
+Shadespire,241,241,Brawl,Universal,Objective,Score this in an end phase if all friendly figthers (at least three) are adjacent to enemy fighters,2,-,Ironskull's Boyz expansion
+Shadespire,242,242,Butchery,Universal,Objective,Score this in an end phase if your warband took three or more enemy fighters out of action in the preceding action phase,2,-,Spiteclaw's Swarm expansion
+Shadespire,243,243,Change of Tactics,Universal,Objective,Score this immediately if a friendly fighter on Guard makes a Charge action,1,-,The Farstriders expansion
+Shadespire,244,244,Chosen Champion,Universal,Objective,Score this in an end phase if a surviving friendly fighter has three or more upgrades,1,-,Magore's Fiends expansion
+Shadespire,245,245,Complete Victory,Universal,Objective,Score this in the third end phase if none of your fighters are out of action,3,-,The Farstriders expansion
+Shadespire,246,246,Concerted Attack,Universal,Objective,Score this immediately if three or more friendly fighters made an Attack action against the same enemy fighter in this phase,1,-,The Farstriders expansion
+Shadespire,247,247,Conquest,Universal,Objective,Score this in the third end phase if all of your surviving fighters are in your opponent's territory,2,-,Core set
+Shadespire,248,248,Contained,Universal,Objective,Score this in the third end phase if all surviving enemy fighters are in their territory,3,-,Ironskull's Boyz expansion
+Shadespire,249,249,Cover Ground,Universal,Objective,Score this immediately if a friendly fighter makes a Move action of six or more hexes,1,-,Spiteclaw's Swarm expansion
+Shadespire,250,250,Crushing Force,Universal,Objective,Score this immediately if a friendly fighter makes a successful attack that deals at least twice as much damage as is needed to take their target out of action,1,-,Sepulchral Guard expansion
+Shadespire,251,251,Dauntless,Universal,Objective,Score this in an end phase if your fighters are outnumbered by at least three to one,2,-,The Chosen Axes expansion
+Shadespire,252,252,Defensive Strike,Universal,Objective,Score this immediately when your warband takes an enemy fighter standing in your territory out of action,1,-,The Farstriders expansion
+Shadespire,253,253,Denial,Universal,Objective,Score this in the third end phase if there are no enemy fighters in your territory,3,-,Core set
+Shadespire,254,254,Determined Defender,Universal,Objective,Score this in an end phase if the same friendly fighter has held the same objective at the end of two consecutive action phases,1,-,Sepulchral Guard expansion
+Shadespire,255,255,Divide and Conquer,Universal,Objective,Score this is an end phase if each player has at least one fighter in their own territory and at least one fighter in enemy territory,1,-,Ironskull's Boyz expansion
+Shadespire,256,256,Endless Slaughter,Universal,Objective,Score this in the third end phase if five or more enemy fighters are out of action,3,-,Ironskull's Boyz expansion
+Shadespire,257,257,Escalation,Universal,Objective,Score this in an end phase if three or more upgrade cards were played in the preceding action phase,2,-,Spiteclaw's Swarm expansion
+Shadespire,258,258,Fearless,Universal,Objective,Score this in an end phase if there are at least three enemy fighters adjacent to the same friendly fighter,1,-,The Farstriders expansion
+Shadespire,259,259,Flawless Strategy,Universal,Objective,Score this in an end phase if you scored two or more other objective cards in this phase,1,-,Sepulchral Guard expansion
+Shadespire,260,260,Geared for War,Universal,Objective,Score this in an end phase if each of your surviving figthers (at least three) has at least one upgrade,1,-,Ironskull's Boyz expansion
+Shadespire,261,261,Heroes All,Universal,Objective,Score this in an end phase if all of your surviving fighters (at least three) are Inspired,1,-,The Farstriders expansion
+Shadespire,262,262,Heroic Feat,Universal,Objective,Score this immediately if a friendly fighter's Attack action succeeds when their target has two or more supporting fighters more then the attacker,2,-,Magore's Fiends expansion
+Shadespire,263,263,Hold Objective 1,Universal,Objective,Score this in an end phase if you are holding objective 1,1,-,Core set
+Shadespire,264,264,Hold Objective 2,Universal,Objective,Score this in an end phase if you are holding objective 2,1,-,Core set
+Shadespire,265,265,Hold Objective 3,Universal,Objective,Score this in an end phase if you are holding objective 3,1,-,Core set
+Shadespire,266,266,Hold Objective 4,Universal,Objective,Score this in an end phase if you are holding objective 4,1,-,Core set
+Shadespire,267,267,Hold Objective 5,Universal,Objective,Score this in an end phase if you are holding objective 5,1,-,Core set
+Shadespire,268,268,Honest Opponent,Universal,Objective,Score this in an end phase if you played no ploy cards during the preceding action phase,1,-,The Chosen Axes expansion
+Shadespire,269,269,Killing Ground,Universal,Objective,"Score this in an end phase if at least one fighter was taken out of action in the preceding action phase in enemy territory, in your territory and in no one's territory",3,-,Magore's Fiends expansion
+Shadespire,270,270,Making a Statement,Universal,Objective,Score this in an end phase if you hold all objectives (at least one) in your opponent's territory,3,-,The Chosen Axes expansion
+Shadespire,271,271,Massive Assault,Universal,Objective,Score this immediately if your fighters deal 7 or more damage in an action phase (damage in excess of a fighter's Wounds characteristic is included),1,-,Magore's Fiends expansion
+Shadespire,272,272,Master of War,Universal,Objective,"Score this in an end phase if you scored an objective card, played a ploy card and played an upgrade card in this round",1,-,Spiteclaw's Swarm expansion
+Shadespire,273,273,Masterstroke,Universal,Objective,Score this immediately if an enemy fighter is taken out of action by an Attack action made as a Reaction by your warband or a Reaction made by your warband that causes damage,1,-,Magore's Fiends expansion
+Shadespire,274,274,Miraculous Escape,Universal,Objective,Score this immediately if one of your fighters is the target of an enemy Attack action with a Dice characteristic of 3 or more that fails,1,-,Spiteclaw's Swarm expansion
+Shadespire,275,275,Multiple Fronts,Universal,Objective,Score this in an end phase if your warband dealt damage to three or more enemy fighters in the preceding action phase,1,-,Magore's Fiends expansion
+Shadespire,276,276,No More Tricks,Universal,Objective,Score this in an end phase if you have no power cards in your hand,1,-,Spiteclaw's Swarm expansion
+Shadespire,277,277,No Remorse,Universal,Objective,Score this immediately if one of your fighters takes an enemy fighter out of action with an Attack action with a Damage characteristic greater than the target's Wounds characteristic,1,-,The Chosen Axes expansion
+Shadespire,278,278,Our Only Way Out,Universal,Objective,Score this in an end phase if you hold three or more objectives,2,-,The Farstriders expansion
+Shadespire,279,279,Overextended,Universal,Objective,Score this in an end phase if you hold every objective,5,-,Spiteclaw's Swarm expansion
+Shadespire,280,280,Perfect Planning,Universal,Objective,Score this in an end phase if none of your fighters made a Move action in the preceding action phase,1,-,The Chosen Axes expansion
+Shadespire,281,281,Plant a Standard,Universal,Objective,Score this in an end phase if your leader is holding an objective in enemy territory,1,-,Sepulchral Guard expansion
+Shadespire,282,282,Ploymaster,Universal,Objective,Score this in an end phase if you played three or more ploys in the preceding action phase,1,-,Ironskull's Boyz expansion
+Shadespire,283,283,Poised to Strike,Universal,Objective,Score this in an end phase if at least three friendly fighters are adjacent to the same enemy fighter,1,-,Magore's Fiends expansion
+Shadespire,284,284,Precise Use of Force,Universal,Objective,Score this immediately if a friendly fighter makes a successful Attack action that deals exactly enough damage to take their target out of action,1,-,The Chosen Axes expansion
+Shadespire,285,285,Pure Carnage,Universal,Objective,Score this in the third end phase if seven or more fighters are out of action,3,-,Magore's Fiends expansion
+Shadespire,286,286,Ready for a Challenge,Universal,Objective,Score this in an end phase if all remaining enemy fighters (at least three) have an upgrade,1,-,Spiteclaw's Swarm expansion
+Shadespire,287,287,Reaper,Universal,Objective,Score this immediately if a friendly fighter's attack takes two or more enemy fighters out of action,2,-,Sepulchral Guard expansion
+Shadespire,288,288,Scent of Victory,Universal,Objective,Score this in an end phase if all surviving enemy fighters (at least three) have at least one wound token,1,-,Ironskull's Boyz expansion
+Shadespire,289,289,Skirting Danger,Universal,Objective,Score this in an end phase if all surviving friendly fighters (at least two) are on edge hexes,1,-,The Farstriders expansion
+Shadespire,290,290,Stymied,Universal,Objective,Score this in an end phase if your opponent played no power cards in the preceding action phase,1,-,Sepulchral Guard expansion
+Shadespire,291,291,Superior Tactician,Universal,Objective,Score this in the third end phase if you have scored six or more other objective cards,3,-,Ironskull's Boyz expansion
+Shadespire,292,292,Supremacy,Universal,Objective,Score this in an end phase if you hold three or more objectives,3,-,Core set
+Shadespire,293,293,Swift Advance,Universal,Objective,Score this in an end phase if all of your surviving fighters are in enemy territory,1,-,Sepulchral Guard expansion
+Shadespire,294,294,Tactical Genius 1-3,Universal,Objective,"Score this in an end phase if you hold objectives 1, 2 and 3",3,-,The Chosen Axes expansion
+Shadespire,295,295,Tactical Genius 3-5,Universal,Objective,"Score this in an end phase if you hold objectives 3, 4 and 5",3,-,Spiteclaw's Swarm expansion
+Shadespire,296,296,Tactical Supremacy 1-2,Universal,Objective,Score this in an end phase if you hold objectives 1 and 2,2,-,Sepulchral Guard expansion
+Shadespire,297,297,Tactical Supremacy 3-4,Universal,Objective,Score this in an end phase if you hold objectives 3 and 4,2,-,Sepulchral Guard expansion
+Shadespire,298,298,The Bigger They Are,Universal,Objective,Score this immediately if a friendly fighter takes an enemy fighter out of action with an Attack action that had a Damage characteristic of 1,1,-,Spiteclaw's Swarm expansion
+Shadespire,299,299,The Harvest Begins,Universal,Objective,Score this immediately if a friendly fighter makes an Attack action that damages three or more enemy fighters,2,-,Sepulchral Guard expansion
+Shadespire,300,300,Total Annihilation,Universal,Objective,Score this in the first or second end phase if all enemy fighters have been taken out of action,7,-,The Chosen Axes expansion
+Shadespire,301,301,Trapped,Universal,Objective,Score this immediately if an enemy fighter takes damage from a friendly fighter's Attack action because they cannot be driven back,1,-,The Chosen Axes expansion
+Shadespire,302,302,Twilight Conqueror,Universal,Objective,Score this in an end phase if all of your surviving fighters (at least three) are neither in your territory nor enemy territory,1,-,Ironskull's Boyz expansion
+Shadespire,303,303,Unbroken Wall,Universal,Objective,Score this in an end phase if all surviving friendly fighters (at least three) are in a single group with each friendly fighter adjacent to another friendly fighter,1,-,The Chosen Axes expansion
+Shadespire,304,304,Unstoppable,Universal,Objective,Score this immediately if one of your fighters makes a successful Attack action against an enemy fighter on Guard,1,-,The Farstriders expansion
+Shadespire,305,305,Victorious Duel,Universal,Objective,Score this immediately if your leader takes an enemy leader out of action,2,-,Ironskull's Boyz expansion
+Shadespire,306,306,Victory After Victory,Universal,Objective,Score this in an end phase if you scored three or more other objective cards in this round,2,-,Magore's Fiends expansion
+Shadespire,307,307,War of Attrition,Universal,Objective,Score this in an end phase if the same number of fighters (at least one) from each warband are out of action,1,-,Magore's Fiends expansion
+Shadespire,308,308,Anticipation,Universal,Ploy,"Play this card after the final activation in an action phase. Name an objective card. If an opponent scores that objective in the end phase, score a glory point",-,-,Ironskull's Boyz expansion
+Shadespire,309,309,Blinding Flash,Universal,Ploy,Reaction: Play this during an Attack action with a Range of 3 or greater (before any dice are rolled). The Attacks characteristic of that Attack action is changed to Sword 1,-,-,Spiteclaw's Swarm expansion
+Shadespire,310,310,Confused Priorities,Universal,Ploy,Switch two objectives that are currently being held,-,-,The Chosen Axes expansion
+Shadespire,311,311,Confusion,Universal,Ploy,Choose two fighters that are adjacent to each other and switch them,-,-,Core set
+Shadespire,312,312,Cruel Taunt,Universal,Ploy,"Choose an enemy fighter and roll an attack dice. On a roll of Hammer or Crit they are no longer Inspired, and cannot be Inspired this game",-,-,Ironskull's Boyz expansion
+Shadespire,313,313,Curious Inversion,Universal,Ploy,"For the first Attack action in the next activation, Hammer characteristics become Sword characteristics and vice versa, and Dodge characteristics become Shield characteristics and vice versa",-,-,Spiteclaw's Swarm expansion
+Shadespire,314,314,Darkness Descends,Universal,Ploy,The first Attack action in the next activation has a Range of 1,-,-,The Chosen Axes expansion
+Shadespire,315,315,Daylight Robbery,Universal,Ploy,Roll an attack dice. If you roll a Hammer or Crit take one of your opponent's unspent glory points,-,-,Ironskull's Boyz expansion
+Shadespire,316,316,Death Throes,Universal,Ploy,Reaction: Play this card during an Attack action or ploy that will take a friendly fighter out of action. Choose an enemy fighter adjacent to the taret. They suffer 1 damage,-,-,The Chosen Axes expansion
+Shadespire,317,317,Desperate Gambit,Universal,Ploy,"When resolving the first Attack action in the next activation, you and your opponent roll off. The winner chooses whether the Attack action fails or succeeds",-,-,Spiteclaw's Swarm expansion
+Shadespire,318,318,Distraction,Universal,Ploy,Choose an enemy fighter and push them one hex,-,-,Ironskull's Boyz expansion
+Shadespire,319,319,Dual Strike,Universal,Ploy,One fighter supporting the first Attack action in the next activation is considered to be two supporting fighters,-,-,Ironskull's Boyz expansion
+Shadespire,320,320,Duel of Wits,Universal,Ploy,Reaction: Play this when an opponent plays a ploy. Draw two power cards,-,-,Ironskull's Boyz expansion
+Shadespire,321,321,Earthquake,Universal,Ploy,Push all fighters one hex. You must push them all in the same direction. Any that cannot be pushed this way are not pushed,-,-,The Chosen Axes expansion
+Shadespire,322,322,Ephemeral Shield,Universal,Ploy,The first friendly fighter to be targeted by an Attack action in the next activation has +1 Defence,-,-,The Farstriders expansion
+Shadespire,323,323,Flickering Step,Universal,Ploy,Roll eight dice. Choose a friendly fighter and push them up to a number of hexes equal to the number of Crit rolled,-,-,Magore's Fiends expansion
+Shadespire,324,324,Forceful Denial,Universal,Ploy,Reaction: Play this when an opponent plays a ploy. Roll a defence dice. On a roll of Shield or Crit that ploy has no effect,-,-,Sepulchral Guard expansion
+Shadespire,325,325,Fortify,Universal,Ploy,Friendly fighters holding objectives have +1 Defence for the next activation,-,-,Sepulchral Guard expansion
+Shadespire,326,326,Frozen in Time,Universal,Ploy,Choose an enemy fighter and roll a defence dice. On a roll of Shield or Crit that fighter cannot make any actions or be damaged in this phase,-,-,The Farstriders expansion
+Shadespire,327,327,Fuelled by Fury,Universal,Ploy,You can re-roll any attack dice for the first friendly fighter's Attack action in the next activation,-,-,The Chosen Axes expansion
+Shadespire,328,328,Grapple,Universal,Ploy,Reaction: Play this after an adjacent enemy fighter makes an Attack action that drives a friendly fighter back. Push the attacker into the hex the friendly fighter was driven back from,-,-,Magore's Fiends expansion
+Shadespire,329,329,Great Concussion,Universal,Ploy,"Choose a hex on the battlefield, then push all fighters one hex (in whichever order you choose). This push must move them away from the chosen hex. If there is no hex you could push a figther into, do not push them",-,-,The Farstriders expansion
+Shadespire,330,330,Healing Potion,Universal,Ploy,Choose a friendly fighter and roll a defence dice. On a roll of Shield or Crit remove up to two wound tokens from them. Otherwise remove one wound token from them,-,-,Core set
+Shadespire,331,331,Hidden Paths,Universal,Ploy,Choose a friendly figther that hasn't made a Move action this phase and is on any edge hex. Place them on any other edge hex. They are considered to have made a Move action,-,-,Magore's Fiends expansion
+Shadespire,332,332,Illusory Fighter,Universal,Ploy,Choose one of your fighters on the battlefield. Place them on a starting hex in your territory,-,-,Sepulchral Guard expansion
+Shadespire,333,333,Improvisation,Universal,Ploy,Discard all power cards in your hand and draw three power cards,-,-,The Farstriders expansion
+Shadespire,334,334,Inspiration Strikes,Universal,Ploy,Choose a friendly fighter. They become Inspired,-,-,The Farstriders expansion
+Shadespire,335,335,Invisible Walls,Universal,Ploy,All fighters' Move characteristics are reduced to 1 for the next activation,-,-,Magore's Fiends expansion
+Shadespire,336,336,Last Chance,Universal,Ploy,"Reaction: Play this during an Attack action that would take a friendly fighter out of action. Roll a defence dice. If the result would not normally be a success for this fighter, ignore the damage from that Attack action on this fighter",-,-,Spiteclaw's Swarm expansion
+Shadespire,337,337,Legacy,Universal,Ploy,Reaction: Play this after an Attack action or ploy that takes a friendly fighter out of action. Choose one of their universal upgrades and give it to an adjacent friendly fighter,-,-,The Chosen Axes expansion
+Shadespire,338,338,Lethal Strike,Universal,Ploy,"If the first Attack action in the next activation is a critical hit, double its Damage characteristic for that Attack action",-,-,The Farstriders expansion
+Shadespire,339,339,Mighty Swing,Universal,Ploy,Your first Attack action with a Range characteristic of 1 in the next activation targets all adjacent enemy fighters. Roll for each,-,-,Sepulchral Guard expansion
+Shadespire,340,340,Mischievous Spirits,Universal,Ploy,"Taking it in turns with your opponent(s), starting with you and going clockwise, move each objective one hex. Objectives cannot be moved into a hex that already contains an objective",-,-,Magore's Fiends expansion
+Shadespire,341,341,Misdirection,Universal,Ploy,Reaction: Play this when a friendly fighter is chosen by a ploy. Choose another friendly fighter that could be chosen by that ploy. That fighter is chosen instead,-,-,Ironskull's Boyz expansion
+Shadespire,342,342,Momentary Madness,Universal,Ploy,Choose an enemy fighter and roll an attack dice. If you roll a Hammer or Crit make an Attack action with them as if they were a friendly fighter. Fighters do not provide support for this Attack action (in attack or defence),-,-,Spiteclaw's Swarm expansion
+Shadespire,343,343,My Turn,Universal,Ploy,Reaction: Play this after an Attack action or ploy that damages a friendly fighter. Push them up to one hex and make an Attack action with them,-,-,Magore's Fiends expansion
+Shadespire,344,344,No Time,Universal,Ploy,No more power cards can be played until after the next activation,-,-,The Chosen Axes expansion
+Shadespire,345,345,On Your Feet,Universal,Ploy,"Reaction: Play this during an Attack action or ploy that would take a friendly fighter out of action, when there is a friendly fighter adjacent to them. Roll a defence dice. On a roll of Shield or Crit the fighter does not suffer damage and is not taken out of action",-,-,Ironskull's Boyz expansion
+Shadespire,346,346,Parry,Universal,Ploy,"The first time one of your fighters is targeted in the next activation, roll an extra defence dice. When counting your successes, ignore one of the defence dice",-,-,Ironskull's Boyz expansion
+Shadespire,347,347,Quick Thinker,Universal,Ploy,Reaction: Play this after an enemy fighter's Move action. Make a Move action with a friendly fighter who has not already made a Move action in this phase,-,-,The Farstriders expansion
+Shadespire,348,348,Ready for Action,Universal,Ploy,Reaction: Play this after you upgrade a fighter in an action phase. They can make a Move or Attack action,-,-,The Chosen Axes expansion
+Shadespire,349,349,Rebound,Universal,Ploy,"Reaction: Play this during an enemy Attack action that would succeed. Roll a defence dice. On a roll of Dodge or Crit the attacker suffers the damage, rather than the target, and neither fighter is driven back",-,-,Spiteclaw's Swarm expansion
+Shadespire,350,350,Reflected Injury,Universal,Ploy,"Choose a friendly fighter with at least one wound token, and an adjacent enemy fighter. The enemy fighter suffers 1 damage",-,-,Magore's Fiends expansion
+Shadespire,351,351,Rethink Strategy,Universal,Ploy,Discard any number of objective cards and draw that number of objective cards,-,-,Spiteclaw's Swarm expansion
+Shadespire,352,352,Sacrificial Pawn,Universal,Ploy,"Choose a friendly fighter. If they are taken out of action in the next activation, you gain a glory point",-,-,Spiteclaw's Swarm expansion
+Shadespire,353,353,Scavenge,Universal,Ploy,Reaction: Play this after a friendly fighter's Attack action that takes an adjacent enemy fighter with an upgrade out of action. Gain an additional glory point,-,-,Sepulchral Guard expansion
+Shadespire,354,354,Second Wind,Universal,Ploy,"Choose a friendly fighter that made a Charge action this phase. In the next activation, they can be activated as if they had Moved rather than Charged",-,-,Magore's Fiends expansion
+Shadespire,355,355,Shardfall,Universal,Ploy,Place a Shardfall token in an unoccupied hex. That hex is blocked until the end of the phase,-,-,Core set
+Shadespire,356,356,Shardgale,Universal,Ploy,All fighters suffer 1 damage,-,-,The Farstriders expansion
+Shadespire,357,357,Shattering Terrain,Universal,Ploy,"Any fighters that make a Move action, are pushed or are driven back in the next activation suffer 1 damage",-,-,Sepulchral Guard expansion
+Shadespire,358,358,Shattershard,Universal,Ploy,"Choose an enemy fighter, and choose one of their upgrades. Roll an attack dice. On a roll of Hammer or Crit that upgrade is discarded",-,-,Spiteclaw's Swarm expansion
+Shadespire,359,359,Shifting Shards,Universal,Ploy,Move an unheld objective one hex. You cannot move it into a hex that already contains an objective,-,-,Ironskull's Boyz expansion
+Shadespire,360,360,Sidestep,Universal,Ploy,Choose a friendly fighter and push them one hex,-,-,Core set
+Shadespire,361,361,Spectral Wings,Universal,Ploy,The first fighter to make a Move action in the next activation has +2 Move,-,-,The Farstriders expansion
+Shadespire,362,362,Spoils of Battle,Universal,Ploy,Play an upgrade card. This doesn't cost a glory point,-,-,Spiteclaw's Swarm expansion
+Shadespire,363,363,Sprint,Universal,Ploy,"Double the move characteristic of the first friendly fighter to make a Move action in the next activation. They may not make a Charge action. Once they have moved, they cannot be activated again in this phase",-,-,Core set
+Shadespire,364,364,Stumble,Universal,Ploy,Reaction: Play this after a friendly fighter's Attack action drives an enemy fighter back. They are driven back an additional hex in the same direction,-,-,Sepulchral Guard expansion
+Shadespire,365,365,Tainted Vitality,Universal,Ploy,Remove one wound token from each fighter who has at least one wound token,-,-,Magore's Fiends expansion
+Shadespire,366,366,Tantalising Prize,Universal,Ploy,The first friendly fighter to take a Move action in the next activation can move up to an additional two hexes if they end their move on an objective,-,-,The Chosen Axes expansion
+Shadespire,367,367,Teamwork,Universal,Ploy,"Reaction: Play this card during a friendly fghter's Attack action, before rolling any dice. Push another friendly fighter one hex",-,-,Magore's Fiends expansion
+Shadespire,368,368,Time Trap,Universal,Ploy,Choose a fighter. They can take an action. Skip your next activation (you cannot play this card after your fourth activation),-,-,Sepulchral Guard expansion
+Shadespire,369,369,Trap,Universal,Ploy,Reaction: Play this during a friendly fighter's Attack action that drives an enemy fighter back. The enemy fighter suffers 1 damage,-,-,The Chosen Axes expansion
+Shadespire,370,370,Triumphant Roar,Universal,Ploy,Reaction: Play this after a friendly fighter's Attack action that takes an enemy fighter out of action. You can push each enemy fighter adjacent to the friendly fighter one hex,-,-,Sepulchral Guard expansion
+Shadespire,371,371,Trust to Luck,Universal,Ploy,Discard any number of power cards and draw up to that number of power cards from your deck,-,-,Sepulchral Guard expansion
+Shadespire,372,372,Twist the Knife,Universal,Ploy,Reaction: Play this during a friendly fighter's Attack action that has a Range of 1 and will succeed. It has +1 Damage for that Attack action,-,-,The Farstriders expansion
+Shadespire,373,373,A Destiny to Meet,Universal,Upgrade,"If this figther is not out of action at the end of the third action phase, gain 1 additional glory point",-,-,The Farstriders expansion
+Shadespire,374,374,Acrobatic,Universal,Upgrade,"If this fighter has a Dodge characteristic or has a Shield Defence characteristic but is on Guard, roll an extra defence dice when they are the target of an Attack action",-,-,Spiteclaw's Swarm expansion
+Shadespire,375,375,Army of One,Universal,Upgrade,"If this fighter is the last friendly fighter on the battlefield, they have +1 Defence and all of their Attack actions have +1 Dice",-,-,Sepulchral Guard expansion
+Shadespire,376,376,Awakened Weapon,Universal,Upgrade,You can re-roll one attack dice each time this fighter makes an Attack action,-,-,Spiteclaw's Swarm expansion
+Shadespire,377,377,Blessed Armour,Universal,Upgrade,"When you roll a Crit for this fighter when they are targetted by an Attack action, remove one wound token from them before any damage is dealt",-,-,Sepulchral Guard expansion
+Shadespire,378,378,Concealed Weapon,Universal,Upgrade,"On a critical hit, this fighter's Attack actions with a Range of 1 have +2 Damage",-,-,The Farstriders expansion
+Shadespire,379,379,Coordinated Attack,Universal,Upgrade,"[1 Hex | 2 Sword | 2 Damage] When making this Attack action, roll an extra attack dice for each other friendly figther adjacent to the target",-,-,Sepulchral Guard expansion
+Shadespire,380,380,Cunning Duellist,Universal,Upgrade,"Reaction: During this fighter's Attack action that succeeds against an adjacent enemy fighter, instead of driving the target back you can switch the two fighters' places",-,-,Sepulchral Guard expansion
+Shadespire,381,381,Cursed Artefact,Universal,Upgrade,"+1 Defense, -1 Wounds",-,-,Ironskull's Boyz expansion
+Shadespire,382,382,Daemonic Weapon,Universal,Upgrade,"[1 Hex | 2 Hammer | 3 Damage] Each time this fighter makes this Attack action, they first suffer 1 damage",-,-,Ironskull's Boyz expansion
+Shadespire,383,383,Dark Darts,Universal,Upgrade,[3 Hex | 3 Sword | 1 Damage] Cleave,-,-,Magore's Fiends expansion
+Shadespire,384,384,Deathly Fortitude,Universal,Upgrade,"-2 Move, +2 Wounds",-,-,Magore's Fiends expansion
+Shadespire,385,385,Disengage,Universal,Upgrade,"[1 Hex | 2 Hammer | 1 Damage] Reaction: After this Attack action, if it is successful, you can push this fighter one hex",-,-,Core set
+Shadespire,386,386,Ethereal Shield,Universal,Upgrade,This fighter's Defence characteristic changes to Shield,-,-,Spiteclaw's Swarm expansion
+Shadespire,387,387,Flickering Image,Universal,Upgrade,"Reaction: After an Attack action made by this fighter that scores a critical hit, you can push them up to two hexes",-,-,Ironskull's Boyz expansion
+Shadespire,388,388,Ghostblade,Universal,Upgrade,"[1 Hex | 3 Hammer | 1 Damage] When rolling defence dice, only rolls of Crit are successes for the target of this Attack action. This Attack action can never cause more than 1 damage to a target",-,-,Magore's Fiends expansion
+Shadespire,389,389,Great Fortitude,Universal,Upgrade,+1 Wounds,-,-,Core set
+Shadespire,390,390,Great Speed,Universal,Upgrade,+1 Move,-,-,Core set
+Shadespire,391,391,Great Strength,Universal,Upgrade,+1 Damage to all Attack actions with a Range of 1 or 2,-,-,Core set
+Shadespire,392,392,Headlong Charge,Universal,Upgrade,"When this fighter makes a Charge action, increase their Move characteristic by 1 until the end of the activation",-,-,The Chosen Axes expansion
+Shadespire,393,393,Helpful Whispers,Universal,Upgrade,"If this fighter has no adjacent friendly fighters, rolls of Single Support are a success when they make an Attack action",-,-,Sepulchral Guard expansion
+Shadespire,394,394,Heroslayer,Universal,Upgrade,[1 Hex | 1 Hammer | 4 Damage],-,-,Spiteclaw's Swarm expansion
+Shadespire,395,395,Incredible Strength,Universal,Upgrade,+1 Damage to all Attack actions with a Range of 1 or 2,-,-,The Farstriders expansion
+Shadespire,396,396,Katophrane's Belt,Universal,Upgrade,"If this fighter has two or more Katophrane Relics, they gain the following (cumulative) abilities.",-,-,Ironskull's Boyz expansion
+Shadespire,397,397,Katophrane's Boots,Universal,Upgrade,"If this fighter has two or more Katophrane Relics, they gain the following (cumulative) abilities.",-,-,The Farstriders expansion
+Shadespire,398,398,Katophrane's Gloves,Universal,Upgrade,"If this fighter has two or more Katophrane Relics, they gain the following (cumulative) abilities.",-,-,Magore's Fiends expansion
+Shadespire,399,399,Katophrane's Hood,Universal,Upgrade,"If this fighter has two or more Katophrane Relics, they gain the following (cumulative) abilities.",-,-,Spiteclaw's Swarm expansion
+Shadespire,400,400,Katophrane's Locket,Universal,Upgrade,"If this fighter has two or more Katophrane Relics, they gain the following (cumulative) abilities.",-,-,The Chosen Axes expansion
+Shadespire,401,401,Katophrane's Plate,Universal,Upgrade,"If this fighter has two or more Katophrane Relics, they gain the following (cumulative) abilities.",-,-,Sepulchral Guard expansion
+Shadespire,402,402,Legendary Swiftness,Universal,Upgrade,+1 Move,-,-,Ironskull's Boyz expansion
+Shadespire,403,403,Light Armour,Universal,Upgrade,Rolls of Crit on a defence dice are no longer a success for this fighter. Roll an extra attack dice when this fighter make an Attack action,-,-,The Chosen Axes expansion
+Shadespire,404,404,Light-footed,Universal,Upgrade,"Reaction: During an Attack action that could drive this fighter back (whether or not your opponent chose to), you can instead push them one hex",-,-,The Chosen Axes expansion
+Shadespire,405,405,Low Blow,Universal,Upgrade,[1 Hex | 2 Hammer | 1 Damage] Both Sword and Hammer symbols are successes for this Attack action,-,-,Ironskull's Boyz expansion
+Shadespire,406,406,Opportunist,Universal,Upgrade,"Reaction: After a failed Attack action that targets this fighter, you can push them one hex",-,-,The Farstriders expansion
+Shadespire,407,407,Regeneration,Universal,Upgrade,"At the beginning of each action phase, remove up to one wound token from this fighter",-,-,The Farstriders expansion
+Shadespire,408,408,Second-in-command,Universal,Upgrade,"If your warband's leader is out of action, this fighter is considered to be a leader. While this fighter is on the battlefield, opponents cannot score objectives for having taken your leader out of action",-,-,The Chosen Axes expansion
+Shadespire,409,409,Shadeglass Axe,Universal,Upgrade,"[1 Hex | 2 Hammer | 2 Damage] When this Attack action is successful, discard this upgrade. On a critical hit, this Attack action has +1 Damage
+[3 Hex | 2 Hammer | 2 Damage] After a fighter makes this Attack action, discard this upgrade. On a critical hit, this Attack action has +1 Damage",-,-,The Chosen Axes expansion
+Shadespire,410,410,Shadeglass Dagger,Universal,Upgrade,"[1 Hex | 3 Sword | 3 Damage] When this Attack action is successful, discard this upgrade. On a critical hit, this Attack action has +1 Damage",-,-,Magore's Fiends expansion
+Shadespire,411,411,Shadeglass Darts,Universal,Upgrade,"[3 Hex | 3 Sword | 1 Damage] On a critical hit, this Attack action has +1 Damage",-,-,Ironskull's Boyz expansion
+Shadespire,412,412,Shadeglass Hammer,Universal,Upgrade,"[1 Hex | 2 Hammer | 3 Damage] When this Attack action is successful, discard this upgrade. On a critical hit, this Attack action has +1 Damage",-,-,Spiteclaw's Swarm expansion
+Shadespire,413,413,Shadeglass Spear,Universal,Upgrade,"[2 Hex | 2 Hammer | 2 Damage] When this Attack action is successful, discard this upgrade. On a critical hit, this Attack action has +1 Damage",-,-,The Farstriders expansion
+Shadespire,414,414,Shadeglass Sword,Universal,Upgrade,"[1 Hex | 3 Hammer | 2 Damage] When this Attack action is successful, discard this upgrade. On a critical hit, this Attack action has +1 Damage",-,-,Sepulchral Guard expansion
+Shadespire,415,415,Shadestep,Universal,Upgrade,"This fighter can move through other fighters during a Move action, but must end their move in an empty hex",-,-,Spiteclaw's Swarm expansion
+Shadespire,416,416,Shardcaller,Universal,Upgrade,"At the beginning of each action phase, you can switch an objective held by this fighter with any other objective",-,-,Ironskull's Boyz expansion
+Shadespire,417,417,Shifting Image,Universal,Upgrade,"Reaction: After any Attack action in which you roll a Crit for this fighter (with an attack or defence dice), you can push this fighter one hex",-,-,The Chosen Axes expansion
+Shadespire,418,418,Sixth Sense,Universal,Upgrade,Your opponent can never consider a Double Support as a success for Attack actions that target this fighter,-,-,Sepulchral Guard expansion
+Shadespire,419,419,Solid Stance,Universal,Upgrade,This fighter can only be driven back by a critical hit,-,-,The Chosen Axes expansion
+Shadespire,420,420,Soultrap,Universal,Upgrade,"Reaction: During an Attack action or ploy that takes this fighter out of action, roll a defence dice. If you roll a Shield or Crit they suffer no damage and are not taken out of action, and you discard this upgrade",-,-,Sepulchral Guard expansion
+Shadespire,421,421,Sprinter,Universal,Upgrade,+1 Move,-,-,Spiteclaw's Swarm expansion
+Shadespire,422,422,Superior Agility,Universal,Upgrade,"Reaction: During an Attack action that could drive this fighter back (whether or not your opponent chose to), you can instead push them one hex",-,-,The Farstriders expansion
+Shadespire,423,423,Swift Strike,Universal,Upgrade,"[1 Hex | 3 Sword | 1 Damage] Reaction: Before making this Attack action, push this fighter one hex",-,-,Ironskull's Boyz expansion
+Shadespire,424,424,Tethered Spirit,Universal,Upgrade,"Reaction: During an Attack action or ploy that takes this fighter out of action, roll a defence dice. If you roll a Shield or Crit place them on any starting hex in your territory, ignore the damage and discard this upgrade. If you cannot, they are taken out of action",-,-,Magore's Fiends expansion
+Shadespire,425,425,The Blazing Key,Universal,Upgrade,"If this fighter is holding objective 3 in the third end phase, score 2 glory points",-,-,The Chosen Axes expansion
+Shadespire,426,426,The Dazzling Key,Universal,Upgrade,"If this fighter is holding objective 4 in the third end phase, score 2 glory points",-,-,Sepulchral Guard expansion
+Shadespire,427,427,The Formless Key,Universal,Upgrade,"If this fighter is holding an objective in the third end phase, score 1 glory point",-,-,Magore's Fiends expansion
+Shadespire,428,428,The Fractured Key,Universal,Upgrade,"If this fighter is holding objective 5 in the third end phase, score 2 glory points",-,-,Spiteclaw's Swarm expansion
+Shadespire,429,429,The Hallowed Key,Universal,Upgrade,"If this fighter is holding objective 1 in the third end phase, score 2 glory points",-,-,The Farstriders expansion
+Shadespire,430,430,The Shadowed Key,Universal,Upgrade,"If this fighter is holding objective 2 in the third end phase, score 2 glory points",-,-,Ironskull's Boyz expansion
+Shadespire,431,431,Total Offence,Universal,Upgrade,"You can roll two additional attack dice when this fighter takes an Attack action, though not when this fighter takes a Charge action. If you do so, this fighter cannot be activated again this phase",-,-,Core set
+Shadespire,432,432,Trickster's Charm,Universal,Upgrade,"If this fighter is on the battlefield, you can play a single ploy card at the beginning of each action phase",-,-,Spiteclaw's Swarm expansion
+Shadespire,433,433,Trusted Defender,Universal,Upgrade,You can re-roll one defence dice for this fighter when they are the target of an Attack action,-,-,Magore's Fiends expansion
+Shadespire,434,434,Unparalleled Strike,Universal,Upgrade,[1 Hex | 1 Hammer | 2 Damage] Rolls of Hammer are considered to be rolls of Crit for this Attack action,-,-,Magore's Fiends expansion
+Shadespire,435,435,Vampiric Weapon,Universal,Upgrade,"When this fighter takes an enemy fighter out of action, remove one wound token from this figther",-,-,The Chosen Axes expansion
+Shadespire,436,436,War Cry,Universal,Upgrade,"When this fighter makes a Charge action, their Attack actions gain Knockback 1 for that activation",-,-,Magore's Fiends expansion
+Shadespire,437,437,Zealous Defender,Universal,Upgrade,This fighter is considered to have an additional supporting fighter while they are holding an objective,-,-,The Farstriders expansion
+Leaders,438,1,Invulnerable,Steelheart's Champions,Ploy,Your leader has +1 Defence for the first Attack action in the next activation,-,-,Leaders
+Leaders,439,2,Steelheart's Second,Steelheart's Champions,Upgrade,This fighter’s Attack actions have +1 Damage when they are adjacent to a friendly leader,-,-,Leaders
+Leaders,440,3,The Stage Is Set,Garrek's Reavers,Objective,Score this in an end phase if the only surviving fighters (at least 2) are leaders,3,-,Leaders
+Leaders,441,4,Coveted Trophy,Garrek's Reavers,Ploy,Reaction: Play this when your leader takes an enemy leader out of action. Gain a glory point,-,-,Leaders
+Leaders,442,5,Fervent Petition,Sepulchral Guard,Objective,Score this in an end phase if three friendly Petitioners are surviving and Inspired,3,-,Leaders
+Leaders,443,6,Warden's Call,Sepulchral Guard,Upgrade,Action: Choose two friendly fighters (other than your leader) and put them on Guard,-,The Sepulchral Warden,Leaders
+Leaders,444,7,Showin' Off,Ironskull's Boyz,Objective,Score this in an end phase is your leader took two or more enemy fighters out of action in the preceding action phase,1,-,Leaders
+Leaders,445,8,Impress da Boss,Ironskull's Boyz,Ploy,+1 Damage for the first Attack action in the next activation made by a friendly fighter adjacent to your leader,-,-,Leaders
+Leaders,446,9,Pride of the Lodge,The Chosen Axes,Objective,Score this in an end phase if your leader has three or more upgrades with his warband symbol,1,-,Leaders
+Leaders,447,10,Grimnir Commands,The Chosen Axes,Ploy,The first friendly fighter (other than your leader) to make a Move action (not as part of a Charge action) in the next activation has +2 Move. You can only play this if your leader is on the battlefield,-,-,Leaders
+Leaders,448,11,Krrk Now Leads!,Spiteclaw's Swarm,Objective,Score this in an end phase if your leader is out of action and a friendly fighter named Krrk is on the battlefield,1,Krrk the Almost-Trusted,Leaders
+Leaders,449,12,Krrk the Clawchief,Spiteclaw's Swarm,Upgrade,Action: Return a friendly fighter (other than Skritch) to the battlefield in an empty hex adjacent to this fighter,-,-,Leaders
+Leaders,450,13,Khorne's Chosen,Magore's Fiends,Objective,Score this in an end phase if your leader is the only surviving fighter,8,-,Leaders
+Leaders,451,14,Gory Visage,Magore's Fiends,Upgrade,"Attack actions that target this fighter deal 1 less damage, to a minimum of 1",-,Magore Redhand,Leaders
+Leaders,452,15,Intervention,The Farstriders,Objective,Score this immediately if your leader takes an enemy holding an objective out of action,1,-,Leaders
+Leaders,453,16,Raptor Strike,The Farstriders,Ploy,Choose an enemy fighter within four hexes of your leader. They take 1 damage,-,-,Leaders
+Leaders,454,17,Bold Advance,Universal,Objective,Score this in the first end phase if your leader is in enemy territory,1,-,Leaders
+Leaders,455,18,Drawing Focus,Universal,Objective,Score this immediately if your leader is chosen by three or more ploys in this phase,1,-,Leaders
+Leaders,456,19,Fearless Leader,Universal,Objective,Score this in an end phase if your leader is the only friendly fighter adjacent to any enemy fighters,1,-,Leaders
+Leaders,457,20,Great Slayer,Universal,Objective,Score this immediately if your leader takes three or more enemy fighters out of action in this phase,2,-,Leaders
+Leaders,458,21,Impervious,Universal,Objective,Score this in an end phase if your leader is on the battlefield and was the target of three or more Attack actions in the preceding action phase,2,-,Leaders
+Leaders,459,22,Linchpin,Universal,Objective,Score this immediately if your leader was a supporting fighter during three or more Attack actions in this phase,1,-,Leaders
+Leaders,460,23,Neutralise,Universal,Objective,Score this in the first end phase if an enemy leaders is out of action,2,-,Leaders
+Leaders,461,24,Shining Example,Universal,Objective,Score this in an end phase if your leader is on the battlefield and Inspired,1,-,Leaders
+Leaders,462,25,Slayer,Universal,Objective,Score this immediately if your leader takes two or more enemy fighters out of action in this phase,1,-,Leaders
+Leaders,463,26,Sufficient,Universal,Objective,Score this in an end phase if your leader is the only friendly fighter on the battlefield,1,-,Leaders
+Leaders,464,27,Tireless Commander,Universal,Objective,Score this in an end phase if you activated your leader with four activations in the preceding action phase,1,-,Leaders
+Leaders,465,28,Undefeated,Universal,Objective,Score this in the third end phase if your leader is on the battlefield,1,-,Leaders
+Leaders,466,29,Well-guarded,Universal,Objective,Score this in an end phase if your leader is adjacent to two or more friendly fighters,1,-,Leaders
+Leaders,467,30,Burden of Command,Universal,Ploy,Choose an enemy leader. Their Move characteristic (before other modifiers) is 1 for the next activation,-,-,Leaders
+Leaders,468,31,Cautious Commander,Universal,Ploy,Put your leader on Guard,-,-,Leaders
+Leaders,469,32,Commanding Reach,Universal,Ploy,Your leader’s first Attack action with a Range of 1 that only targets a single fighter in the next activation has a Range of 2,-,-,Leaders
+Leaders,470,33,Commanding Strike,Universal,Ploy,You can re-roll one attack dice during your leader’s first Attack action in the next activation,-,-,Leaders
+Leaders,471,34,Crippling Doubt,Universal,Ploy,Choose an enemy leader. The Dice characteristic (before other modifiers) of their first Attack action in the next activation is 1,-,-,Leaders
+Leaders,472,35,Final Duty,Universal,Ploy,"Reaction: Play this during an Attack action that will take your leader out of action, before they are removed from the battlefield. Roll an attack dice. On a roll of Hammer or Crit, make an Attack action with them before they are removed from the battlefield",-,-,Leaders
+Leaders,473,36,Great Cunning,Universal,Ploy,Reaction: Play this after you play a power card in the power step. You can immediately play another power card. You can only play this if your leader is on the battlefield,-,-,Leaders
+Leaders,474,37,Hidden Reserves,Universal,Ploy,Remove one wound token from your leader’s fighter card,-,-,Leaders
+Leaders,475,38,Inspired Command,Universal,Ploy,Choose a friendly fighter (other than your leader) and push them up to one hex or put them on Guard. You can only play this if your leader is on the battlefield,-,-,Leaders
+Leaders,476,39,Look Out!,Universal,Ploy,"Reaction: Play this during an Attack action that will damage your leader. Roll a defence dice. On a roll of Single Support, Double Support, or Crit, choose a friendly fighter adjacent to them. That fighter suffers the damage instead, then 1 additional damage, and no fighters are driven back",-,-,Leaders
+Leaders,477,40,No Retreat,Universal,Ploy,"Reaction: Play this during an Attack action that targets your leader, after the dice are rolled. Your leader cannot be driven back by the Attack action",-,-,Leaders
+Leaders,478,41,Premonition,Universal,Ploy,"In the next activation, you can re-roll one or more defence dice when your leader is the target of an Attack action",-,-,Leaders
+Leaders,479,42,Quick Advance,Universal,Ploy,Choose up to two friendly fighters (other than your leader) and push each of them up to one hex. You can only play this if your leader is on the battlefield,-,-,Leaders
+Leaders,480,43,Quick Manoeuvre,Universal,Ploy,Choose your leader and an adjacent friendly fighter. Switch their positions,-,-,Leaders
+Leaders,481,44,Tyrant's Command,Universal,Ploy,Choose a friendly fighter (other than your leader) that has a Move token. Remove that token: that fighter is not considered to have moved for the purposes of their subsequent actions. You can only play this if your leader is on the battlefield,-,-,Leaders
+Leaders,482,45,Apex Predator,Universal,Upgrade,"When this fighter takes an enemy leader out of action, gain an additional glory point",-,Leader,Leaders
+Leaders,483,46,Commanding Presence,Universal,Upgrade,This fighter is considered to be two supporting fighters when it supports another fighter,-,Leader,Leaders
+Leaders,484,47,Commanding Shout,Universal,Upgrade,Action: Push a friendly fighter (other than your leader) up to two hexes,-,Leader,Leaders
+Leaders,485,48,Cursed Shield,Universal,Upgrade,"+1 Defence, -2 Wounds (to a minimum of 1)",-,Leader,Leaders
+Leaders,486,49,Hero's Mantle,Universal,Upgrade,"If this fighter is on the battlefield in the third end phase, gain 1 glory point",-,Leader,Leaders
+Leaders,487,50,Irresistible Challenge,Universal,Upgrade,"Reaction: During an adjacent enemy fighter’s Attack action, before any dice are rolled, change the target of that Attack action to this fighter and discard this card",-,Leader,Leaders
+Leaders,488,51,Katophrane's Ring,Universal,Upgrade,"If this fighter has two or more Katophrane Relics, they gain the following (cumulative) abilities",-,-,Leaders
+Leaders,489,52,Kingsbane,Universal,Upgrade,"[1 Hex | 2 Swords | 3 Damage] If the target is a leader, you can re-roll one attack dice when making this Attack action",-,-,Leaders
+Leaders,490,53,Loyal Defender,Universal,Upgrade,"Reaction: After an enemy fighter makes a Move action and ends their move adjacent to another friendly fighter that is your leader, push this fighter up to two hexes. They must end the push adjacent to the enemy fighter",-,-,Leaders
+Leaders,491,54,Master of Tactics,Universal,Upgrade,"If this fighter is on the battlefield, at the beginning of the round you can draw one objective card. If you do so, discard one objective card",-,Leader,Leaders
+Leaders,492,55,Mighty Shove,Universal,Upgrade,Action: Push an adjacent enemy fighter up to one hex,-,Leader,Leaders
+Leaders,493,56,Rising to the Challenge,Universal,Upgrade,"If your leader is out of action, this fighter has +1 Wounds and the Attack actions on their fighter card have +1 Dice",-,-,Leaders
+Leaders,494,57,Seize the Day,Universal,Upgrade,Reaction: After this fighter makes a Move action (not as part of a Charge action) discard this card. They do not gain a Move token and are not considered to have moved for the purposes of their subsequent actions,-,Leader,Leaders
+Leaders,495,58,Treacherous Second,Universal,Upgrade,"Reaction: After an action or ploy that takes your leader out of action, if this fighter is on the battlefield, gain 1 glory point",-,-,Leaders
+Leaders,496,59,Trusted Second,Universal,Upgrade,"If this fighter is supporting your leader, they are considered to be two supporting fighters",-,-,Leaders
+Leaders,497,60,Tyrant's Lash,Universal,Upgrade,"Reaction: After an adjacent friendly fighter’s Attack action that fails, that fighter takes 2 damage. If they survive, they can make another Attack action",-,Leader,Leaders
