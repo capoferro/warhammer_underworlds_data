@@ -1,6 +1,7 @@
 import csv
 import json
 import requests
+import os
 
 locales = ['en_UK']
 
@@ -36,6 +37,17 @@ def main():
 
     with open('cards-en_UK.json', 'w+') as jsonfile:
         json.dump(csv_name_map.values(), jsonfile, sort_keys=True, indent=2)
+
+    for c in csv_name_map.values():
+        response = requests.get(c["image_url"], allow_redirects=True)
+        image_folder = os.path.join('card_images')
+        if not os.path.isdir(image_folder):
+            os.makedirs(image_folder)
+        filepath = os.path.join(image_folder, c["image_filename"])
+        if not os.path.exists(filepath):
+            with open(filepath, 'wb') as imgfile:
+                imgfile.write(response.content)
+
 
     
 
@@ -76,6 +88,7 @@ def create_card_from_gw(gw):
         "gw_warband_id": gw["warbands"][0],
         "gw_number": gw["acf"]["card_number"],
         "image_url": gw["acf"]["card_image"]["url"],
+        "image_filename": gw["acf"]["card_image"]["filename"],
         "is_new": gw["acf"]["is_new"]
     }
 
