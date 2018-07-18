@@ -40,7 +40,7 @@ def main():
                 writer.writerow(c)
 
     with open('cards-en_UK.json', 'w+') as jsonfile:
-        json.dump(csv_name_map.values(), jsonfile, sort_keys=True, indent=2)
+        json.dump(list(csv_name_map.values()), jsonfile, sort_keys=True, indent=2)
 
     for c in csv_name_map.values():
         image_folder = os.path.join('card_images')
@@ -56,7 +56,7 @@ def main():
     
 
 def hydrate_card_with_gw_data(card, gw):
-    for key, value in gw.iteritems():
+    for key, value in gw.items():
         # we skip "name" here cause that's our identifier. We don't want to stomp it, ever.
         if key != "name" and key in card and card[key] != gw[key]:
             print("GW data for '{}' differs from data stored in CSV:\n  GW:  {}: {}\n  CSV: {}: {}".format(card["name"], key, gw[key], key, card[key]))
