@@ -13,6 +13,11 @@ set_prefixes = {
     143: "L"
 }
 
+int_fields = [
+    "glory",
+    "id"
+]
+
 def main():
     gw_data = fetch_gw_data()
     cards = gw_to_cards(gw_data)
@@ -28,7 +33,12 @@ def main():
             name = gw_name_inaccuracies[name]
         if name not in gw_name_map:
             print("{} was not found in GW data!".format(name))
-        hydrate_card_with_gw_data(c, gw_name_map[name])        
+        hydrate_card_with_gw_data(c, gw_name_map[name])
+        for field in int_fields:
+            try:
+                c[field] = int(c[field])
+            except:
+                c[field] = 0
         csv_name_map[name] = c
     
     with open('cards-Missing.csv', 'w+') as missing_cards_csvfile:
