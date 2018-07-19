@@ -459,7 +459,7 @@ Leaders,456,19,Fearless Leader,Universal,Objective,Score this in an end phase if
 Leaders,457,20,Great Slayer,Universal,Objective,Score this immediately if your leader takes three or more enemy fighters out of action in this phase,2,-,Leaders
 Leaders,458,21,Impervious,Universal,Objective,Score this in an end phase if your leader is on the battlefield and was the target of three or more Attack actions in the preceding action phase,2,-,Leaders
 Leaders,459,22,Linchpin,Universal,Objective,Score this immediately if your leader was a supporting fighter during three or more Attack actions in this phase,1,-,Leaders
-Leaders,460,23,Neutralise,Universal,Objective,Score this in the first end phase if an enemy leaders is out of action,2,-,Leaders
+Leaders,460,23,Neutralise,Universal,Objective,Score this in the first end phase if an enemy leader is out of action,2,-,Leaders
 Leaders,461,24,Shining Example,Universal,Objective,Score this in an end phase if your leader is on the battlefield and Inspired,1,-,Leaders
 Leaders,462,25,Slayer,Universal,Objective,Score this immediately if your leader takes two or more enemy fighters out of action in this phase,1,-,Leaders
 Leaders,463,26,Sufficient,Universal,Objective,Score this in an end phase if your leader is the only friendly fighter on the battlefield,1,-,Leaders
