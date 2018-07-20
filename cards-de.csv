@@ -1,0 +1,438 @@
+set,id,number,name,description
+Shadespire,1,1,Ein würdiger Schädel,"Werte in einer Endphase, wenn deine Kriegerschar in der vorherigen Aktionsphase einen feindlichen Anführer ausgeschaltet hat."
+Shadespire,2,2,Blut für den Blutgott!,"Werte sofort, wenn in dieser Phase drei oder mehr deiner Kämpfer eine Angriffsaktion ausgeführt haben."
+Shadespire,3,3,Feigling!,"Werte sofort, wenn ein feindlicher Kämpfer eine Bewegungsaktion angrenzend zu einem deiner Kämpfer beginnt und an keinen deiner Kämpfer angrenzend beendet."
+Shadespire,4,4,Den Blick des Khorne anziehen,"Werte sofort, wenn deine Kriegerschar in dieser Phase zwei oder mehr feindliche Kämpfer ausgeschaltet hat."
+Shadespire,5,5,Es beginnt,"Werte in einer Endphase, wenn mindestens ein Kämpfer jeder Kriegerschar ausgeschaltet ist."
+Shadespire,6,6,Khornekümmert es nicht,"Werte in einer Endphase, wenn fünf oder mehr Kämpfer ausgeschaltet sind."
+Shadespire,7,7,Champion des ­Khorne,"Werte in der dritten Endphase, wenn alle Kämpfer außer einem deiner Kämpfer ausgeschaltet sind."
+Shadespire,8,8,Lass das Blut ­fließen,"Werte sofort, wenn drei oder mehr deiner Kämpfer in dieser Phase eine erfolgreiche Attackenaktion ausgeführt haben."
+Shadespire,9,9,Es gibt nur Gemetzel,"Werte in einer Endphase, wenn kein Kämpfer ein Missionsziel kontrolliert."
+Shadespire,10,10,Blutopfer,Wähle einen befreundeten Kämpfer. Er erleidet 1 Schaden. Wirf für seine erste Attackenaktion bei der nächsten Aktivierung zwei Attackenwürfel zusätzlich.
+Shadespire,11,11,Blutregen,"Alle Attackenaktionen während der nächsten Aktivierung haben das Symbol Schwerter, selbst wenn sie normalerweise das Symbol Hammer haben."
+Shadespire,12,12,Gabe des Khorne,"Reaktion: Spiele diese Karte, nachdem die Attackenaktion eines befreundeten Kämpfers einen feindlichen Kämpfer ausgeschaltet hat. Entferne alle Wundmarker von einem befreundeten Kämpfer."
+Shadespire,13,13,Schänden,"Entferne einen Missionsmarker, den du kontrollierst, vom Schlachtfeld."
+Shadespire,14,14,Letzter Schlag,"Reaktion: Spiele diese Karte nach der Attackenaktion einen feindlichen Kämpfers, die einen benachbarten befreundeten Kämpfer ausschaltet. Der Attackierende erleidet 1 Schaden."
+Shadespire,15,15,Vom Gemetzel getrieben,"Reaktion: Spiele diese Karte nach einer Attackenaktion oder einer List, die einen Kämpfer ausschaltet. Ein befreundeter Kämpfer kann eine Attackenaktion ausführen."
+Shadespire,16,16,Empfindungslos,"Der nächste befreundete Kämpfer, der während der nächsten Aktivierung Schaden erleidet, erleidet nur 1 Schaden."
+Shadespire,17,17,Khorne ruft,Für deine erste Attackenaktion bei der nächsten Aktivierung wirfst du einen Attackenwürfel zusätzlich.
+Shadespire,18,18,Neugeburt in Blut,"Reaktion: Spiele diese Karte nach einer Attackenaktion oder List, die deinen letzten Kämpfer ausgeschaltet hat. Wirf einen Verteidigungswürfel. Wenn du Schild oder Kritisch würfelst, entferne alle Wundmarker von ihm und stelle ihn in einem Starthexfeld in deinem Territorium auf."
+Shadespire,19,19,Schädel für den Schädelthron!,"Reaktion: Spiele diese Karte, nachdem die Attackenaktion eines befreundeten Kämpfers einen feindlichen Kämpfer ausgeschaltet hat. Ziehe bis zu zwei Kraftkarten."
+Shadespire,20,20,Berserkerangriff,"Die Symbole Schwerter und Hammer sind Erfolge, wenn dieser Kämpfer eine Angriffsaktion ausführt. Nur für: Saek"
+Shadespire,21,21,Glitschig vom Blut,+1 Verteidigung Nur für: Garrek
+Shadespire,22,22,Tödliche Drehung,Hat alle angrenzenden feindlichen Kämpfer als Ziel - würfle für jeden. Nur für: Targor
+Shadespire,23,23,Immer vorwärts,"Reaktion: Wenn dieser Kämpfer während einer Attackenaktion zurückgetrieben werden dürfte (ob dein Gegner sich dafür entscheidet oder nicht), kannst du ihn stattdessen ein Hexfeld weit schieben. Nur für: Garrek"
+Shadespire,24,24,Raserei,"Wirf einen Attackenwürfel zusätzlich, wenn dieser Kämpfer eine Angriffsaktion ausführt."
+Shadespire,25,25,Grausige Trophäe,"Wenn dieser Kämpfer einen feindlichen Kämpfer ausschaltet, erhältst du einen zusätzlichen Ruhmespunkt. Nur für: Garrek"
+Shadespire,26,26,Furchtbares Heulen,Aktion: Schiebe jeden angrenzenden feindlichen Kämpfer ein Hexfeld weit. Nur für: Karsus
+Shadespire,27,27,Unaufhaltbar,"Wenn dieser Kämpfer eine Angriffsaktion ausführt, kann er sich durch andere Kämpfer bewegen, aber er muss seine Bewegung in einem leeren Hexfeld beenden. Nur für: Saek"
+Shadespire,28,28,Todeswirbelwind,+1 Schaden für alle Attackenaktionen mit Reichweite 1 oder 2 Nur für: Karsus
+Shadespire,29,29,Gemeine Klinge,"Wenn du mindestens ein Kritisch würfelst, hat diese Attackenaktion Spalten. Nur für: Arnulf"
+Shadespire,30,30,Ehrwürdig,"Werte sofort, webb deine Kriegerschar in dieser Phase zwei oder mehr Kämpfer ausgeschaltet hat."
+Shadespire,31,31,Säuberung,"Werte in einer Endphase, wenn du alle Missionsziele im gegnerischen Territorium kontrollierst."
+Shadespire,32,32,Geweihter Bereich,"Werte in einer Endphase, wenn keine feindlichen Kämpfer an deine Kämpfer angrenzen."
+Shadespire,33,33,Ewige,"Werte in der dritten Endphase, wenn keiner deiner Kämpfer ausgeschaltet ist."
+Shadespire,34,34,Unbeweg­­­liches ­Objekt,"Werte in einer Endphase, wenn derselbe befreundete Kämpfer am Ende von zwei aufeinanderfolgenden Aktionsphasen dasselbe Missionsziel kontrolliert."
+Shadespire,35,35,Blitzschläge,"Werte sofort, nachdem ein feindlicher Kämpfer durch eine Angriffsaktion eines deiner Kämpfer ausgeschaltet wurde."
+Shadespire,36,36,Einnehmen,"Werte in einer Endphase, wenn du ein Missionsziel in feindlichem Territorium kontrollierst."
+Shadespire,37,37,SigmarsBollwerk,"Werte in einer Endphase, wenn in der vorangegangenen Aktionsphase keiner deiner Kämpfer Schaden erlitten hat."
+Shadespire,38,38,Töter der Tyrannen,"Werte in einer Endphase, wenn deine Kriegerschar in der vorangegangenen Aktionsphase einen feindlichen Anführer ausgeschaltet hat."
+Shadespire,39,39,Heroische Wacht,Wähle einen befreundeten Kämpfer und lass ihn Verteidigungsstellung einnehmen.
+Shadespire,40,40,Donnergrollen,Wähle einen feindlichen Kämpfer und schiebe ihn ein Hexfeld weit in eine beliebige Richtung.
+Shadespire,41,41,Gerechter Eifer,+1 Schaden für die erste Attackenaktion mit Reichweite 1 oder 2 während der nächsten Aktivierung.
+Shadespire,42,42,Sigmarite-Wall,Wähle zwei aneinander angrenzende Kämpfer und lass sie Verteidigungsstellung einnehmen.
+Shadespire,43,43,Sturmgeschmiedeter Widerstand,Befreundete Kämpfer können durch die erste Attackenaktion während der nächsten Aktivierung nicht zurückgetrieben werden.
+Shadespire,44,44,Sturmtaktiken,"Während der nächsten Aktivierung kannst du die folgende Reaktion ausführen. Reaktion: Wähle nach der Attackenaktion eines feindlichen Kämpfers, die misslungen ist, bis zu zwei befreundete Kämpfer und schiebe sie jeweils ein Hexfeld weit."
+Shadespire,45,45,Unermüdlich,"Reaktion: Spiele diese Karte nach einer Attackenaktion eines befreundeten Kämpfers, die misslungen ist. Dieser Kämpfer kann eine weitere Attackenaktion ausführen, die denselben Kämpfer als Ziel hat."
+Shadespire,46,46,Unverzagt,"Reaktion: Spiele diese Karte nach einer Attackenaktion oder List, die einen befreundeten Kämpfer ausschaltet, sodass nur noch ein befreundeter Kämpfer auf dem Schlachtfeld verbleibt. Entferne alle Wundmarker von dem überlebenden Kämpfer."
+Shadespire,47,47,Unaufhaltsam,Die erste Attackenaktion während der nächsten Aktivierung hat die Fähigkeit Spalten.
+Shadespire,48,48,Beherzter Angriff,Feindliche Kämpfer können das Ziel der ersten Attackenaktion während der nächsten Aktivierung nicht unterstützen.
+Shadespire,49,49,Von Sigmar gesegnet,+1 Wundenwert
+Shadespire,50,50,Abblocken,Aktion: Dieser Kämpfer und alle angrenzenden befreundeten Kämpfer nehmen Verteidigungsstellung ein. Nur für: Glanzschild
+Shadespire,51,51,Mutiger Schlag,"Wirf einen Attackenwürfel zusätzlich, wenn keine befreundeten Kämpfer angrenzen."
+Shadespire,52,52,Tödliche Riposte,"Reaktion: Während einer Attackenaktion, die diesen Kämpfer als Ziel hat und misslingt, wirf einen Attackenwürfel. Wenn du Hammer oder Kritisch würfelst, kann dieser Kämpfer nicht zurückgetrieben werden und darf eine Attackenaktion ausführen. Diese muss den Attackierenden als Ziel haben. Nur für: Stahlherz"
+Shadespire,53,53,Heroische Macht,"Die Attackenaktionen dieses Kämpfers erhalten die Fähigkeit Spalten. Nur für: Stahlherz, Obryn"
+Shadespire,54,54,Heroischer Schritt,"Reaktion: Nachdem ein feindlicher Kämpfer seine Aktivierung innerhalb von zwei Hexfeldern um diesen Kämpfer beendet hat, kannst du diesen Kämpfer ein Hexfeld schieben. Nur für: Stahlherz"
+Shadespire,55,55,Blitzklinge,Bei einem kritischen Treffer hat diese Attackenaktion +1 Schaden. Nur für: Stahlherz
+Shadespire,56,56,Kettenblitz,"Wenn dieser Kämpfer einen kritischen Treffer erzielt, fügt er zusätzlich jedem feindlichen Kämpfer, der dem Hexfeld des Ziels benachbart ist, 1 Schaden zu. Nur für: Obryn"
+Shadespire,57,57,Gerechter Schlag,"Reaktion: Nach dieser Attackenaktion, wenn sie misslungen ist und das Ziel ein feindlicher Anführer war, führe sie erneut aus. Nur für: Glanzschild"
+Shadespire,58,58,Schildschlag,"Reaktion: Während der Attackenaktion eines angrenzenden Kämpfers, die diesen Kämpfer als Ziel hat und misslingt, kann dieser Kämpfer nicht zurückgedrängt werden und du darfst den Attackierenden ein Hexfeld weit schieben. Nur für: Glanzschild"
+Shadespire,59,59,Kampfohne Ende,"Werte in einer Endphase, wenn zwei oder mehr befreundete Kämpfer in der vorhergehenden Aktionsphase auf das Schlachtfeld zurückgekehrt sind."
+Shadespire,60,60,Fordert die Stadt ein,"Werte in einer Endphase, wenn du alle Missionsziele kontrollierst."
+Shadespire,61,61,Furchtlos im Tod,"Werte in der dritten Endphase, wenn sich nur ein befreundeter Kämpfer auf dem Schlachtfeld befindet."
+Shadespire,62,62,Marsch der Toten,"Werte in einer Endphase, wenn in der vorhergehenden Aktionsphase alle deine überlebenden Kämpfer (mindestens fünf) eine Bewegungsaktion ausgeführt haben."
+Shadespire,63,63,Mehr geeignete Leiber,"Werte in einer Endphase, wenn deine Kriegerschar in der vorhergehenden Aktionsphase zwei oder mehr feindliche Kämpfer ausgeschaltet hat."
+Shadespire,64,64,Unvergleichlicher General,"Werte in der dritten Endphase, wenn du vier oder mehr Überlebende Kämpfers, von denen keiner angespornt ist"
+Shadespire,65,65,Unvergessene Fähigkeiten,"Werte sofort, wenn dein Anführer einen feindlichen Kämpfer ausschaltet."
+Shadespire,66,66,Die beliebten Toten,"Werte in der dritten Endphase, wenn alle deine überlebenden Kämpfer (mindestens drei) angespornt sind."
+Shadespire,67,67,Untoter Schwarm,Werte in einer Endphase wenn jeder feindliche Kämpfer an mindestens zwei befreundete Kämpfer angrenzt.
+Shadespire,68,68,Knochenschrapnell,"Reaktion: Spiele diese Karte nach einer Attackenaktion, die einen befreundeten Kämpfer ausgeschaltet hat. Der Kämpfer, der ihn ausgeschaltet hat, erleidet 1 Schaden."
+Shadespire,69,69,Unablässige Attacken,Reaktion: Spiele diese Karte nach einer Attackenaktion eines befreundeten Kämpfers. Führe mit einem anderen befreundeten Kämpfer eine Attackenaktion aus.
+Shadespire,70,70,Kratzende Hände,"Jeder befreundete Kämpfer, der sich nicht auf dem Schlachtfeld befindet, gilt für die erste Attackenaktion während der nächsten Aktivierung als unterstützend."
+Shadespire,71,71,Totentanz,"Jeder befreundete Kämpfer, der während der nächsten Aktivierung eine Bewegungsaktion ausführt, kann sich ein Hexfeld zusätzlich bewegen."
+Shadespire,72,72,Greifende Hände,"Reduziere den Bewegungswert des ersten Kämpfers, der während der nächsten Aktivierung aktiviert wird, um die Anzahl der befreundeten Kämpfer, die sich nicht auf dem Schlachtfeld befinden (bis zu einem Minimum von 0)."
+Shadespire,73,73,Rastlose Tote,"Stelle einen befreundeten Kämpfer (außer den Grabwächter), der ausgeschaltet wurde, auf ein Start Hexfeld in deinem Territorium."
+Shadespire,74,74,Spektrale Gestalt,"Alle befreundeten Kämpfer, die während der nächsten Aktivierung eine Bewegungsaktion ausführen, können sich durch andere Kämpfer bewegen, müssen ihre Bewegung aber auf einem leeren Hexfeld beenden."
+Shadespire,75,75,Rasches ausweichen,Wähle einen befreundeten Kämpfer und schiebe ihn bis zu zwei Hexfeld weit. Seine neue Position muss weiter von allen feindlichen Kämpfern entfernt sein als seine Ausgangsposition.
+Shadespire,76,76,Entsetzliche Schreie,Wähle einen feindlichen Kämpfer und schiebe ihn ein Hexfeld weit.
+Shadespire,77,77,Der Nekromant befiehlt,"Reaktion: Spiele dieser Karte nach einer Attackenaktion eines befreundeten Kämpfers, die misslungen ist. Führe die Attackenaktion erneut aus."
+Shadespire,78,78,Uralter Befehlshaber,"Aktion: Wähle drei andere befreundete Kämpfer. Führe mit diesen Kämpfern Bewegungsaktionen aus. Dies erlaubt einem Kämpfer nicht, sich zweimal in einer Phase zu bewegen. Nur für: Grabwächter"
+Shadespire,79,79,Befehlsgewalt,"Jeder befreundete Kämpfer, der diesen Kämpfer unterstützt, gilt als zwei unterstützende Kämpfer. Nur für: Staubprinz"
+Shadespire,80,80,Tödlicher Ansturm,"Die Attackenaktion dieses Kämpfers mit einer Reichweite von eins oder zwei verursachen in einer Phase, in der er eine Angriffsaktion ausführt, +1 Schaden. Nur für: Champion"
+Shadespire,81,81,Tödlicher Schlag,"Reaktion: Führe diese Attackenaktion während einer Attackenaktion aus, die diesen Kämpfer ausschaltet, bevor er vom Schlachtfeld entfernt wird. Sie muss den Attackierenden als Ziel haben. Nur für: Champion"
+Shadespire,82,82,Konzentrierte Attacke,"Wenn du mindestens ein kritisch würfelst, hat diese Attackenaktion die Fähigkeit spalten. Nur für: Schnitter"
+Shadespire,83,83,Beängstigende Geschwindigkeit,"+2 Bewegungswert Nur für: Schnitter, Champion, Staubprinz"
+Shadespire,84,84,Finsteres Spalten,Die Attackenaktion dieses Kämpfers erhalten die Fähigkeit Spalten. Nur für: Schnitter
+Shadespire,85,85,Tödlicher Ausfall,Spalten Nur für: Grabwächter
+Shadespire,86,86,Erinnerter Schild,"der Verteidigung Wert dieses Kämpfers ändert sich zu Schild. Nur für: Grabwächter, Staubprinz, Bittsteller"
+Shadespire,87,87,Unsterblich,+1 Wundenwert
+Shadespire,88,88,Eisänhart,"Werte in der dritten Endphase, wenn keiner deiner Kämpfe ausgeschaltet ist."
+Shadespire,89,89,Da Größtä un’ da Bestä,"Werte in einer Endphase, wenn dein Anführer in der vorhergehenden Aktionsphase einen feindlichen Kämpfer ausgeschaltet hat."
+Shadespire,90,90,Ruf des Waaagh!,"Werte sofort, wenn drei oder mehr deiner Kämpfer in dieser Phase eine Angriffsaktion ausgeführt haben."
+Shadespire,91,91,Ächt klävva,"Werte sofort, wenn ein befreundeter Kämpfer zwei unterstützende Kämpfer mehr hat als sein Ziel, wenn er eine Attackenaktion ausführt."
+Shadespire,92,92,Da sin’ mehr von uns,"Werte in einer Endphase, wenn du mehr Kämpfe auf dem Schlachtfeld hast als dein Gegner."
+Shadespire,93,93,Schnappt den Boss,"Werte in einer Endphase, wenn deine Kriegerschar in der vorhergehenden Aktionsphase einen feindlichen Anführer ausgeschaltet hat."
+Shadespire,94,94,Guta Kampf,"Werte in einer Endphase, wenn in deiner vorhergehenden Aktionsphase drei oder mehr Kämpfe ausgeschaltet wurden."
+Shadespire,95,95,Keilerei,"Werte in einer Endphase, wenn in der vorhergehenden Aktionsphase jeder deiner überlebenden Kämpfer (mindestens zwei) eine Attackenaktion gegen einen anderen feindlichen Kämpfer ausgeführt hat."
+Shadespire,96,96,Zu dumm zum Sterben,"Werte sofort, wenn ein befreundeter Kämpfer durch eine einzige Attacke drei oder mehr Schaden erleidet und nicht ausgeschaltet wird."
+Shadespire,97,97,Mit Spaß dabei,"wähle einen Kämpfer und wirf einen Attackenwürfel. Wenn du Hammer oder kritisch würfelst, darf er eine Attackenaktion ausführen."
+Shadespire,98,98,"Brutal, aba klävva",Reaktion: Spiele dieser Karte nach einer Attackenaktion eines befreundeten Kämpfers. Du darfst diesen befreundeten Kämpfer bis zu drei Hexfelder schieben.
+Shadespire,99,99,Lautes Gebrüll,"wähle einen feindlichen Kämpfer, der an einen deiner Kämpfe angrenzt. Schiebe den gewählten Kämpfer ein Hexfeld weit."
+Shadespire,100,100,Gorkamorkas Segen,Die erste Attackenaktion mit einer Reichweite von eins oder zwei während der nächsten Aktivierung verursacht +1 Schaden.
+Shadespire,101,101,"Klävva, aba brutal",Reaktion: Spiele diese Karte nach einer Bewegungsaktion eines befreundeten Kämpfers. Dieser Kämpfer darf eine Attackenaktion ausführen. Du darfst diese Karte nicht während einer Angriffsaktion ausspielen.
+Shadespire,102,102,Letzter Ausfall,"Reaktion: Spiele dieser Karte während einer Attackenaktion oder List, die einen befreundeten Kämpfer ausschalten wird, bevor er vom Schlachtfeld entfernt wird. Wirf einen Attackenwürfel. Bei Hammer oder kritisch darfst du eine Attackenaktion mit diesem Kämpfer ausführen. Sie muss den Attackierenden als Ziel haben."
+Shadespire,103,103,Gutäs Vorbild,"Reaktion: Spiele diese Karte nach einer Attackenaktion deines Anführers, die einen feindlichen Kämpfer ausgeschaltet hat. Ein anderer befreundeter Kämpfer, der noch keine Bewegungs- oder Angriffsaktion ausgeführt hat, darf eine Angriffsaktion ausführen."
+Shadespire,104,104,Mehr kloppen,Wirf für die erste Attackenaktion während der nächsten Aktivierung einen Attackenwürfel zusätzlich.
+Shadespire,105,105,Beute,"Entferne ein Missionsziel, dass du kontrolliert, vom Schlachtfeld."
+Shadespire,106,106,Murkst ’se ab,"Jeder befreundete Kämpfer, der während der nächsten Aktivierung die erste Attackenaktion unterstützt, gilt als zwei unterstützende Kämpfer."
+Shadespire,107,107,Harta Schädel,"wenn dieser Kämpfer Schaden erleidet, reduziere den Schaden um eins (bis zu einem Minimum von eins). Nur für: Hakka, Kloppa"
+Shadespire,108,108,Aufstrebender Boss,"Reaktion: Während einer Attackenaktion dieses Kämpfers, die einen feindlichen Anführer als Ziel hat und misslingt, darfst du einen Attackenwürfel erneut werfen. Nur für: Hakka"
+Shadespire,109,109,Brutale Raserei,"Wirf einen Attackenwürfel zusätzlich, wenn dieser Kämpfer eine Angriffsaktion ausführt. Nur für: Hakka, Kloppa"
+Shadespire,110,110,Brutaler Schwinger,Hat alle angrenzenden feindlichen Kämpfer als Ziel – würfle für jeden. Nur für: Knochenschneida
+Shadespire,111,111,Zerschmettern,"Die Attackenaktionen dieses Kämpfers haben die Fähigkeit Spalten. Nur für: Gurzag, Knochenschneida"
+Shadespire,112,112,Hart wie Stein,"Dieser Kämpfer darf nur bei einem kritischen Treffer zurück getrieben werden. Nur für: Gurzag, Knochenschneida"
+Shadespire,113,113,Koppstoss,"Wenn diese Attackenaktion erfolgreich ist, kann das Ziel für den Rest der Phase nicht aktiviert werden. Nur für: Gurzag"
+Shadespire,114,114,Mit dem Kopf voran,"Die Attackenaktionen dieses Kämpfers haben in einer Phase, in der er eine Angriffsaktion ausführt, die Fähigkeit Zurückstoßen 1. Nur für: Kloppa"
+Shadespire,115,115,Nicht zu töten,"Reaktion: Wir während einer Attackenaktion oder List, die diesen Kämpfer ausschaltet, einen Verteidigungswürfel. Bei Schild oder kritisch erleidet er keinen Schaden und wird nicht ausgeschaltet und du wirfst diese Verbesserung ab. Nur für: Gurzag"
+Shadespire,116,116,Waaagh!,"Die Attackenaktionen dieses Kämpfers mit Reichweite eins oder zwei verursachen in einer Phase, in der er eine Angriffsaktion ausführt, +1 Schaden."
+Shadespire,117,117,Wiedergewonnener Anspruch,"Werte in einer Endphase, wenn ein befreundeter Kämpfer in Missionsziel kontrolliert, dass ein feindlicher Kämpfer zu Beginn der vorhergehenden Aktionsphase kontrolliert hat."
+Shadespire,118,118,Ein grimmiges Versprechen,"Werte in einer Endphase, wenn deine Kriegerschar in der vorhergehenden Aktionsphase einen feindlichen Anführer ausgeschaltet hat."
+Shadespire,119,119,Wilder Angriff,"Werte sofort, wenn ein befreundeter Kämpfer einen feindlichen Kämpfer mit einer Angriffsaktion ausgeschaltet hat."
+Shadespire,120,120,Für das Ur-Gold,"Werte in einer Endphase, wenn alle deine überlebenden Kämpfer (mindestens drei) angespornt sind."
+Shadespire,121,121,Wut der Loge,"Werte in einer Endphase, wenn all deine überlebenden Kämpfer (mindestens drei) in der vorherigen Aktionsphase eine Angriffsaktion ausgeführt haben."
+Shadespire,122,122,Sammler,"Werte in einer Endphase, wenn all deine Kämpfe und keine feindlichen Kämpfer Missionsziele kontrollieren."
+Shadespire,123,123,Offene Eide,"Werte in der dritten Endphase, wenn keiner deiner Kämpfe ausgeschaltet ist."
+Shadespire,124,124,Grimnirs Spross,"Werte sofort, wenn dein Anführer einen feindlichen Kämpfer ausschaltet."
+Shadespire,125,125,Unaufhaltsamer Vormarsch,"Werte in einer Endphase, wenn sich alle deine überlebenden Kämpfer in feindlichem Territorium befinden."
+Shadespire,126,126,Berserkerwut,"Wenn ein befreundeter Kämpfer in der nächsten Aktivierung zum ersten Mal Schaden erleidet, wirft einen Verteidigungswürfel. Ist das Ergebnis Schild, dann erleidet er keinen Schaden."
+Shadespire,127,127,Unbezwingbar,"Wenn ein befreundeter Kämpfer zum ersten Mal in der Aktivierung Schaden erleidet, erleidet er nur 1 Schaden."
+Shadespire,128,128,Lebender Wall,wähle zwei befreundete Kämpfer und schiebe jeden von Ihnen bis zu ein Hexfeld weit. Sie müssen dann nacheinander angrenzen.
+Shadespire,129,129,Eidverschworen,Reaktion: Spiele diese Karte nach einer fehlgeschlagenen Attackenaktion eines befreundeten Kämpfers. Dieser Kämpfer darf eine weitere Attackenaktion gegen denselben Kämpfer ausführen.
+Shadespire,130,130,Bohrender Blick,Wähle einen feindlichen Kämpfer. Er darf in der nächsten Aktivierung keine Attackenaktion oder Angriffsaktion ausführen.
+Shadespire,131,131,Tötender Hieb,"Wenn die erste Attackenaktion in der nächsten Aktivierung ein kritischer Treffer ist, verdoppelt sich der Schadenswert."
+Shadespire,132,132,Die Erde erzittert,Will ein Kämpfer und schiebe ihn ein Hexfeld weit.
+Shadespire,133,133,Schatzgier,Wähle einen befreundeten Kämpfer und schiebe ihn bis zu drei Hexfelder weit. Er muss am Ende dieser Bewegung ein Missionsziel kontrollieren.
+Shadespire,134,134,Ur-Gold-Segen,Wähle einen befreundeten Kämpfer und wirf einen Verteidigungswürfel. Bei einem Wurf von Schild oder kritisch entfernst du zwei Wundenmarker von ihm. Andernfalls entfernst du einen Wundenmarker von ihm.
+Shadespire,135,135,Wir bleiben stehen,"Befreundete Kämpfer, die Missionsziele kontrollieren, können von der ersten Attackenaktion in der nächsten Aktivierung nicht zurückgetrieben werden."
+Shadespire,136,136,Aktivierte Runen,"Jedes Mal, wenn dieser Krieger eine Attackenaktion ausführt, darfst du einen einzelnen Wurf wiederholen."
+Shadespire,137,137,Brutale Kraft,Die Attackenaktion dieses Kämpfers erhalten Zurückstoßen 1.nur für: Tefk
+Shadespire,138,138,Trotziger Hieb,Reaktion: Während einer erfolgreichen Attackenaktion gegen diesen Kämpfer kann dieser Kämpfer nicht zurückgetrieben werden und für diese Attackenaktion aus. Der Attackierende muss das Ziel sein. Nur für: Tefk
+Shadespire,139,139,Schlaghagel,Nur für: Maegrim
+Shadespire,140,140,Großer Schwung,Hat alle angrenzenden feindlichen Kämpfer zum Ziel – würfle für jeden. Nur für: Vol
+Shadespire,141,141,Grimnirs Segen,"Reaktion: Während einer Attackenaktion oder List, die diesen Kämpfer ausschalten würde, wirf einen Verteidigungswürfel. Wenn du Schild würfelst, wird der Schaden, den dieser Kreditkämpfe erleidet, ignoriert. Nur für: Fjul-Grimnir"
+Shadespire,142,142,Grimnirs Widerstand,+1 Verteidigung Nur für: Fjul-Grimnir
+Shadespire,143,143,Grimnirs Geschwindigkeit,+2 Bewegung Nur für: Fjul-Grimnir
+Shadespire,144,144,Rückkehrende Axt,Bei einem kritischen Treffer erhöht sich der Schaden dieser Attackenaktion um +1. Nur für: Maegrim
+Shadespire,145,145,Kriegslied,"Wenn dieser Kämpfer unterstützt, gilt er als zwei unterstützende Kämpfer statt als nur einer. Nur für: Vol"
+Shadespire,146,146,Armeslänge,"Werte sofort, wenn deine Kriegerschar einen feindlichen Kämpfer ausschaltet, der an keinen deiner Kämpfe angrenzt."
+Shadespire,147,147,"Gut, sehr gut!","Werte in einer Endphase, wenn du in der vorhergehenden Aktionsphase zwei oder mehr andere Missionskarten gewertet hast."
+Shadespire,148,148,Rattenschmaus,"Werte in einer Endphase, wenn alle feindlichen Kämpfe ausgeschaltet sind."
+Shadespire,149,149,Überlebensinstinkt,"Werte in einer Endphase, wenn in der vorhergehenden Aktionsphase kein befreundeter Kämpfer ausgeschaltet wurde."
+Shadespire,150,150,Führen von hinten,"Werte in der dritten Endphase, wenn sich dann Anführer in deinem Territorium befindet und kein Feind an ihn angrenzt."
+Shadespire,151,151,Kämpfe an einem anderen Tag,"Werte in der dritten Endphase, wenn der einzige Überlebende befreundete Kämpfer dein Anführer ist."
+Shadespire,152,152,Leben sind billig,"Werte in einer Endphase, wenn in der vorhergehenden Aktionsphase zwei oder mehr befreundete Kämpfer ausgeschaltet wurden."
+Shadespire,153,153,Zahlloser Schwarm,"Werte in der dritten Endphase, wenn sich fünf befreundete Kämpfer auf dem Schlachtfeld befinden."
+Shadespire,154,154,"Skritch ist der Größte, ja-ja","Werte sofort, wenn dein Anführer einen feindlichen Kämpfer ausgeschaltet hat."
+Shadespire,155,155,Abneigung gegen den Tod,"Reaktion: Spiele diese Karte, nachdem eine Attackenaktion einen befreundeten Kämpfer ausgeschaltet hat. Schiebe bis zu zwei befreundete Kämpfer je ein Hexfeld weit."
+Shadespire,156,156,Wildes zustechen,Die erste Attackenaktion mit Reichweite eins oder zwei in der nächsten Aktivierung hat +1 Schaden.
+Shadespire,157,157,Erhöhte Vorsicht,"Für den ersten befreundeten Kämpfer, der in der nächsten Aktivierungsziel einer Attackenaktion ist, wirfst du einen zusätzlichen Verteidigungswürfel."
+Shadespire,158,158,Augenblick des Mutes,"Wähle einen befreundeten Kämpfer, der an zwei oder mehr befreundete Kämpfer angrenzt. Der gewählte Kämpfer führt eine Akt Angriffsaktion aus."
+Shadespire,159,159,Der Duft der Angst,Wähle einen befreundeten Kämpfer. Der gewählte Kämpfer nimmt Verteidigungsstellung ein.
+Shadespire,160,160,Nervöses hin und her,Wähle einen befreundeten Kämpfer. Der gewählte Cam vertauscht den Platz mit einem beliebigen angrenzenden Kämpfer.
+Shadespire,161,161,Kratzen im Schatten,Wähle einen feindlichen Kämpfer und schiebe ihn ein Hexfeld weit.
+Shadespire,162,162,Skavenmut,"Spiele dieser Karte, wenn mindestens drei befreundete Kämpfer an denselben feindlichen Kämpfer angrenzen. Einer dieser befreundeten Kämpfer darf eine Attackenaktion ausführen."
+Shadespire,163,163,Flinker Sprint,"Verdoppelte den Bewegungswert des ersten befreundeten Kämpfers, der in der nächsten Aktivierung eine Bewegungsaktion ausführt. Er darf keine Angriffsaktion ausführen. Nach der Bewegung darf er in der Phase nicht erneut aktiviert werden."
+Shadespire,164,164,Es gibt immer noch mehr,"Wähle einen befreundeten Kämpfer, der ausgeschaltet ist (außer Skritch und Krrk). Entferne alle Wundmarker von ihm und platziere ihn auf einem Start Hexfeld."
+Shadespire,165,165,Schwarzer Hunger,Die Attacken Aktionen mit Reichweite eins dieses Kriegers haben +1 Schaden und haben alle angrenzenden Kämpfer zum Ziel (Freund und Feind) – würfle für jeden. Bei Attacken Aktionen gegen befreundete Modelle unterstützen Kämpfer nicht (weder bei der Attacke noch defensiv). Nur für: Hungernder Skaven
+Shadespire,166,166,Gedungener Leibwächter,"Wenn Skritch an diesen Kämpfe angrenzt, ist Skritch in Verteidigungsstellung (selbst wenn Scritch in dieser Phase eine Angriffsaktion durchgeführt hat). Nur für: Krrk"
+Shadespire,167,167,Entbehrlich,"Reaktion: Während einer Attackenaktion, die diesem Kämpfer Schaden zufügen wird, darfst du ihn vom Schlachtfeld nehmen und dem Attackierenden 1 Schaden zufügen. Nur für: Lauernder Skaven, Hungernder Skaven, Schwärender Skaven"
+Shadespire,168,168,Schwärende Klingen,Bei einem kritischen Treffer haben die Attackenaktion mit Reichweite eins oder zwei dieses Kämpfers +2 Schaden. Nur für: Schwärender Skaven
+Shadespire,169,169,Flucht,Aktion: Dieser Kämpfer und ein angrenzender befreundeter Kämpfer dürfen eine Bewegungsaktion ausführen. Beide Kämpfer müssen die Bewegung weiter von allen feindlichen Kämpfern entfernt beenden. Nur für: Skritch
+Shadespire,170,170,Skavenhuschen,"Reaktion: Nach jeder Aktion, die dieser Kämpfer ausführt, darfst du diesen Kämpfer ein Hexfeld weit schieben. Nur für: Skritch, Krrk"
+Shadespire,171,171,Fies niederstechen,"Bevor dieser Kämpfer eine Attackenaktion ausführt, darfst du ihn ein Hexfeld weit schieben, allerdings nicht, wenn er eine Angriffsaktion ausführt."
+Shadespire,172,172,Rattenschwarm,Hat alle angrenzenden feindlichen Kämpfer zum Ziel – Würfel für jeden. Nur für: Krrk
+Shadespire,173,173,Wurfsterne,Nur für: Lauernder Skaven
+Shadespire,174,174,Wirbelnde Hellebarde,Hat alle angrenzenden feindlichen Kämpfer zum Ziel – Würfel für jeden. Nur für: Skritch
+Shadespire,175,175,Umso besser kann man sie töten,"Werte sofort, wenn alle befreundeten Kämpfer (mindestens drei) sich angrenzend zu unterschiedlichen feindlichen Kämpfern befinden."
+Shadespire,176,176,Verderben der Champions,"Werte sofort, wenn Reißzahn einen feindlichen Anführer ausschaltet."
+Shadespire,177,177,Blutige Auslöschung,"Werte in einer Endphase, wenn alle feindlichen Kämpfer ausgeschaltet wurden."
+Shadespire,178,178,Khorne sieht uns,"Werte sofort, wenn deine Kriegerschar in einer Phase zwei oder mehr feindliche Kämpfer ausschaltet."
+Shadespire,179,179,Töten! Weiter töten!,"Werte in einer Endphase, wenn mindestens zwei Kämpfer jeder Kriegerschar ausgeschaltet sind."
+Shadespire,180,180,Kein Entkommen,"Werte sofort, wenn drei oder mehr deiner Kämpfer in dieser Phase eine Angriffsaktion ausgeführt haben."
+Shadespire,181,181,Ströme aus Blut,"Werte in einer Endphase, wenn alle deine noch lebenden Kämpfer (mindestens vier) verwundet sind."
+Shadespire,182,182,Aufgespart,"Werte in einer Endphase, wenn ein feindlicher Anführer der einzige noch lebende feindliche Kämpfer ist."
+Shadespire,183,183,Zeichen der Stärke,"Werte sofort, wenn dein Anführer einen feindlichen Kämpfer ausschaltet."
+Shadespire,184,184,Blutrausch,"Reaktion: Spiele diese Karte, nachdem ein Kämpfer durch eine Attackenaktion oder eine List ausgeschaltet wurde. Wir für die erste Attackenaktion während der nächsten Aktivierung einen zusätzlichen Attackenwürfel. Für diese Attackenaktion gelten sowohl Hammer als auch Schwerter als Erfolge."
+Shadespire,185,185,Vom Blut rutschiger Boden,Während der nächsten Aktivierung wird der Bewegungswert der feindlichen Kämpfer um zwei verringert.
+Shadespire,186,186,Blutige Rache,"Reaktion: Spiele diese Karte nach einer Attackenaktion, die einen befreundeten Kämpfer ausgeschaltet hat. Ein zum Attackierenden angrenzender befreundeter Kämpfer darf eine Attackenaktion gegen diesen ausführen."
+Shadespire,187,187,Das Gemetzel geht weiter,"Reaktion: Spiele diese Karte, nachdem ein Kämpfer durch eine Attackenaktion oder eine List ausgeschaltet wurde. Der Schadenswert der ersten Attackenaktion während der nächsten Aktivierung wird um +1 erhöht."
+Shadespire,188,188,Dämonisch zäh,"Der erste befreundete Kämpfer, der während der nächsten Aktivierung eine beliebige Menge Schaden erleidet, erleidet nur 1 Schaden"
+Shadespire,189,189,Blutfontäne,"Reaktion: Spiele diese Karte, nachdem ein Kämpfer durch eine Attackenaktion oder eine List ausgeschaltet wurde. Für die nächste Aktivierung wird der Verteidigungswert aller befreundeten Kämpfer um +1 erhöht."
+Shadespire,190,190,Wütende Ansporn,Wähle einen befreundeten Kämpfer. Er wird angespornt.
+Shadespire,191,191,Ruhm für Khorne,"Wirft bei der ersten Attackenaktion, die ein befreundeter Kämpfer während der nächsten Aktivierung ausführt, einen Würfel zusätzlich."
+Shadespire,192,192,Entsetzliches Geheul,"Wähle einen feindlichen Kämpfer, der sich angrenzend zu einem befreundeten Kämpfer befindet, und schiebe ihn bis zu zwei Hexfelder weit."
+Shadespire,193,193,Dem Sieger die Beute,"Reaktion: Spiele diese Karte nach einer Attackenaktion eines befreundeten Kämpfers, die einen feindlichen Kämpfer mit einem Wundenwert von drei oder mehr ausgeschaltet hat. Ziehe drei Kraftkarten."
+Shadespire,194,194,Brutaler Ansturm,"Wirf einen zusätzlichen Attackenwürfel, wenn dieser Kämpfer eine Angriffsaktion ausführt. Nur für: Magore, Ghartok, Zharkus"
+Shadespire,195,195,Dämonisches Maul,"Wenn diese Attackenaktion erfolgreich ist, entferne einen wunden Marker von diesem Kämpfer. Nur für: Magore"
+Shadespire,196,196,Rasender Angriff,"Wenn dieser Kämpfer eine Angriffsaktion ausführt, zählen sowohl Hammer als auch Schwerter als Erfolge. Nur für: Zharkus"
+Shadespire,197,197,Keine Atempause,"Reaktion: Während einer Attackenaktion oder einer List, die diesen Kämpfer ausschalten wird, kannst du eine Attackenaktion mit ihm ausführen. Nur für: Magore, Ghartok, Zharkus"
+Shadespire,198,198,Raubtiersprung,"Wenn dieser Kämpfer ein Angriffsaktion ausführt, kann er sich durch andere Kämpfer bewegen, muss aber seine Bewegung in einem leeren Hexfeld beenden. Nur für: Reißzahn"
+Shadespire,199,199,Vom Zorn getriebene Attacken,Die Attackenaktionen dieses Kämpfers mit Reichweite eins oder zwei haben +1 Schadenswert. Nur für: Zharkus
+Shadespire,200,200,Herumschütteln,Zusätzlich zum verursachten Schaden können erfolgreiche Attackenaktion des Kämpfers mit Reichweite eins das Ziel ein Hexfeld weit schieben (statt es zurück zu treiben). Nur für: Reißzahn
+Shadespire,201,201,Trophäenjäger,"Wenn dieser Kämpfer einen feindlichen Kämpfer ausschaltet, erhältst du 1 zusätzlichen Ruhmespunkt. Nur für: Magore"
+Shadespire,202,202,Nicht abzuschütteln,"Reaktion: Während einer Attackenaktion, die diesen Kämpfer zurück treiben könnte (egal ob dein Gegner sich dazu entscheidet oder nicht), kannst du ihn stattdessen ein Hexfeld weit schieben. Nur für: Reißzahn"
+Shadespire,203,203,Zornige Hiebe,Alle Attackenaktionen dieses Kämpfers haben +1 Würfel. Nur für: Ghartok
+Shadespire,204,204,Den Kopf der Bestie abschlagen,"Werte in einer Endphase, wenn deine Kriegerschar in der vorangegangenen Aktionsphase den feindlichen Anführer ausgeschaltet hat."
+Shadespire,205,205,"Mutig, aber vorsichtig","Werte in einer Endphase, wenn du mindestens noch einen lebenden Kämpfer hast und keiner deiner Kämpfe in der vorangegangenen Aktionsphase Schaden erlitten hat."
+Shadespire,206,206,Nah am Feind,"Werte in einer Endphase, wenn sich drei befreundete Kämpfer angrenzend zu feindlichen Kämpfern befinden."
+Shadespire,207,207,Ewige Überlegenheit,"Werte in einer Endphase, wenn du drei oder mehr Missionsziele kontrolliert."
+Shadespire,208,208,Blitzartiger Vorstoß,"Werte in einer Endphase, wenn sich alle deine  noch lebenden Kämpfer (mindestens zwei) in feindlichem Territorium befinden."
+Shadespire,209,209,Sorgfältige Vernichtung,"Werte in einer Endphase, wenn alle feindlichen Kämpfer ausgeschaltet wurden."
+Shadespire,210,210,Verheerende Salven,"Werte in einer Endphase, wenn du in der vorangegangenen Aktionsphase mindestens drei erfolgreiche Attackenaktion mit Bolzensturmpistolen oder überladenen Bolzensturmpistolen ausgeführt hast."
+Shadespire,211,211,Ranger Schlag,"Werte sofort, wenn deine Kriegerschar in dieser Phase zwei oder mehr feindliche Kämpfer ausgeschaltet hat."
+Shadespire,212,212,Sigmars beste,"Werte in einer Endphase, wenn deine noch lebenden Kämpfer (mindestens einer) verglichen mit den noch lebenden feindlichen Kämpfern mindestens drei zu eins in Unterzahl sind."
+Shadespire,213,213,Furchterregendes Brüllen,"Wähle einen feindlichen Krieger, der an einen befreundeten Krieger angrenzt. Schiebe ihn ein Hexfeld weit."
+Shadespire,214,214,Fester Stand,"Wirf nach der nächsten Aktivierung einen zusätzlichen Verteidigungswürfel für befreundete Kämpfer, die ein Missionsziel kontrollieren."
+Shadespire,215,215,Blitzartiger Streich,Die erste Attackenaktion während der nächsten Aktivierung hat einen um +1 erhöhten Schadenswert.
+Shadespire,216,216,Blitzschritt,"Verdoppelte den Bewegungswert des ersten befreundeten Kämpfers, der während der nächsten Aktivierung eine Bewegungsaktion ausführt. Er darf keine Angriffsaktion ausführen. Wenn er sich bewegt hat, kann er in dieser Phase nicht noch einmal aktiviert werden."
+Shadespire,217,217,Geduldige Abwehr,"Der Verteidigungswert des ersten befreundeten Kämpfers, der während der nächsten Aktivierungsziel einer Attackenaktion ist, wird um +1 erhöht."
+Shadespire,218,218,"Rangers, vorrücken",Wähle zwei befreundete Kämpfer und schiebe sie ein Hexfeld weit.
+Shadespire,219,219,Schnellfeuer,"Reaktion: Spiele diese Karte sofort nach einer Attackenaktion eines befreundeten Kämpfers mit einer Bolzensturmpistole oder einer überladenen Bolzensturmpistole. Dieser Kämpfer kann eine weitere Attackenaktion mit einer Bolzensturmpistole oder einer überladenen Bolzensturmpistole ausführen, die denselben Kämpfer zum Ziel hat."
+Shadespire,220,220,Vergeltung,"Reaktion: Spieler dieser Karte nach einer Attackenaktion, die bei einem befreundeten Kämpfer Schaden verursacht. Dieser Kämpfer darf eine Attackenaktion ausführen, die den Attackierenden zum Ziel haben muss."
+Shadespire,221,221,Ruhige Hand,"Der erste befreundete Kämpfer, der während der nächsten Aktivierung eine Attackenaktion mit einer Bolzensturmpistole oder einer überladenen Bolzensturmpistole ausführt, darf davor ein Hexfeld weit geschoben werden."
+Shadespire,222,222,Warnruf,Wähle einen befreundeten Kämpfer. Der gewählte Kämpfer nimmt Verteidigungsstellung ein.
+Shadespire,223,223,Äthergang,"Dieser Kämpfer kann sich während einer Bewegungsaktion durch andere Kämpfer bewegen, muss seine Bewegung aber in einem leeren Hexfeld beenden. Nur für: Weitläufer"
+Shadespire,224,224,Deckungsfeuer,"Dieser Kämpfer kann einen angrenzenden befreundeten Kämpfer unterstützen, der Ziel einer Attackenaktion ist, selbst wenn der Kämpfer sich nicht angrenzend zum Attackierenden befindet."
+Shadespire,225,225,Blitzende Handaxt,Spalten Nur für: Weitläufer
+Shadespire,226,226,Wütender Hieb,"Reaktion: Während einer Attackenaktion, die diesen Kämpfer zum Ziel hat und misslungen ist, kann der Kämpfer nicht zurückgetrieben werden und darf eine Attackenaktion ausführen. Diese muss den Attackierenden als Ziel haben. Nur für: Adlerauge"
+Shadespire,227,227,Einsamer Kämpfer,"Wenn dieser Kämpfer Ziel einer Attackenaktion ist, zählt für ihn das Wurfergebnis einzelner Unterstützung auch dann als Erfolg, wenn er sich nicht angrenzend zu befreundeten Kämpfern befindet."
+Shadespire,228,228,Überladene Bolzensturmpistole,Spalten
+Shadespire,229,229,Scharfe Augen,Die Attackenaktionen dieses Kämpfers haben die Fähigkeit spalten. Nur für: Adlerauge
+Shadespire,230,230,Wirbelschlag,Hat alle angrenzenden feindlichen Kämpfer zum Ziel – Würfel für jeden. Nur für: Flinkklinge
+Shadespire,231,231,Schnellen Schrittes,+2 Bewegung
+Shadespire,232,232,Geschickter Ausfall,Spalten Nur für: Flinkklinge
+Shadespire,233,233,Akzeptiere das unvermeidliche,"Werte in der dritten Endphase, wenn alle deine Kämpfe ausgeschaltet sind."
+Shadespire,234,234,Vorrücken und zuschlagen,"Werte sofort, wenn deine Kriegerschar einen feindlichen Kämpfer ausschaltet, der sich im feindlichen Territorium befindet."
+Shadespire,235,235,Alleine in der Dunkelheit,"Werte in einer Endphase, wenn es auf dem Schlachtfeld keine angrenzenden Kämpfer gibt."
+Shadespire,236,236,Auslöschung,"Werte in einer Endphase, wenn alle feindlichen Kämpfer ausgeschaltet sind."
+Shadespire,237,237,Attentat,"Werte in einer Endphase, wenn deine Kriegerschar in der vorherigen Aktionsphase einen feindlichen Anführer ausgeschaltet hat."
+Shadespire,238,238,Mächtegleichgewicht,"Werte sofort, wenn du eine Attackenaktion ausführst, bei der der Attackierende und das Ziel jeweils durch zwei Kämpfer unterstützt werden."
+Shadespire,239,239,Blut gelassen,"Werte in einer Endphase, wenn alle deine überlebenden Kämpfer (mindestens drei) mindestens einen Wundmarker haben."
+Shadespire,240,240,Unblutig,"Werte in einer Endphase, wenn in der vorhergehenden Aktionsphase kein Kämpfer Schaden erlitten hat."
+Shadespire,241,241,Handgemenge,"Werte in einer Endphase, wenn alle befreundeten Kämpfer (mindestens drei) an feindliche Kämpfer angrenzen."
+Shadespire,242,242,Blutbad,"Werte in einer Endphase, wenn eine Kriegerschar in der vorhergehenden Aktionsphase drei oder mehr feindliche Kriege ausgeschaltet hat."
+Shadespire,243,243,Geänderte Taktik,"Werte sofort, wenn ein befreundeter Kämpfer in Verteidigungsstellung eine Angriffsaktion ausführt."
+Shadespire,244,244,Auserwählter Champion,"Werte in einer Endphase, wenn ein noch lebender befreundeter Kämpfer drei oder mehr Verbesserungen hat."
+Shadespire,245,245,Vollständiger Sieg,"Werte in der dritten Endphase, wenn keiner deiner Kämpfer ausgeschaltet ist."
+Shadespire,246,246,Gemeinsame Attacke,"Werte sofort, wenn in dieser Phase drei oder mehr befreundete Kämpfer eine Attackenaktion gegen denselben feindlichen Kämpfer ausgeführt haben."
+Shadespire,247,247,Eroberung,"Werte in der dritten Endphase, wenn alle deine überlebenden Kämpfer im Territorium deines Gegners sind."
+Shadespire,248,248,Festgehalten,"Werte in der dritten Endphase, wenn alle Überlebenden feindlichen Kämpfer in ihrem Territorium sind."
+Shadespire,249,249,Weiter Weg,"Werte sofort, wenn ein befreundeter Kämpfer mit einer Bewegungsaktion sechs oder mehr Hexfelder zurücklegt."
+Shadespire,250,250,Vernichtende Kraft,"Werte sofort, wenn ein befreundeter Kämpfer eine erfolgreiche Attacke ausführt, die mindestens doppelt so viel Schaden verursacht, wie nötig ist, um das Ziel auszuschalten."
+Shadespire,251,251,Beherzt,"Werte in einer Endphase, wenn deine Kämpfer mindestens drei zu eins unterlegen sind."
+Shadespire,252,252,Defensivschlag,"Werte sofort, wenn deine Kriegerschar einen feindlichen Kämpfer ausschaltet, der sich in deinem Territorium befindet."
+Shadespire,253,253,Verweigerung,"Werte in der dritten Endphase, wenn sich keine feindlichen Kämpfer in deinem Territorium befinden."
+Shadespire,254,254,Entschlossener Verteidiger,"Werte in einer Endphase, wenn derselbe befreundete Kämpfer am Ende von zwei aufeinanderfolgenden Aktionsphasen dasselbe Missionsziel kontrollierte."
+Shadespire,255,255,Teile und herrsche,"Werte in einer Endphase, wenn jeder Spieler mindestens einen Kämpfer in seinem eigenen Territorium und mindestens einen Kämpfer in feindlichem Territorium hat."
+Shadespire,256,256,Endloses Gemetzel,"Werte in der dritten Endphase, wenn fünf oder mehr feindliche Kämpfer ausgeschaltet sind."
+Shadespire,257,257,Eskalation,"Werte in einer Endphase, wenn in der vorhergehenden Aktionsphase drei oder mehr Verbesserungskarten gespielt wurden."
+Shadespire,258,258,Furchtlos,"Werte in einer Endphase, wenn mindestens drei feindliche Kämpfer an denselben befreundeten Kämpfer angrenzen."
+Shadespire,259,259,Fehlerlos Strategie,"Werte in einer Endphase, wenn du in dieser Phase zwei oder mehr andere Missionskarten gewertet hast."
+Shadespire,260,260,Zum Krieg gerüstet,"Werte in einer Endphase, wenn jeder deiner überlebenden Kämpfer (mindestens drei) mindestens eine Verbesserung hat."
+Shadespire,261,261,Allesamt Helden,"Werte in einer Endphase, wenn alle deine noch lebenden Kämpfer (mindestens drei) angespornt sind."
+Shadespire,262,262,Heldentat,"Werte sofort, wenn eine Attackenaktion eines befreundeten Kämpfers erfolgreich ist, obwohl das Ziel von zwei oder mehr Kämpfern mehr unterstützt wird als der Attackierenden."
+Shadespire,263,263,Kontrolliere Missionsziel 1,"Werte in einer Endphase, wenn du Missionsziel 1 kontrollierst."
+Shadespire,264,264,Kontrolliere Missionsziel 2,"Werte in einer Endphase, wenn du Missionsziel 2 kontrollierst."
+Shadespire,265,265,Kontrolliere Missionsziel 3,"Werte in einer Endphase, wenn du Missionsziel 3 kontrollierst."
+Shadespire,266,266,Kontrolliere Missionsziel 4,"Werte in einer Endphase, wenn du Missionsziel 4 kontrollierst."
+Shadespire,267,267,Kontrolliere Missionsziel 5,"Werte in einer Endphase, wenn du Missionsziel 5 kontrollierst."
+Shadespire,268,268,Ehrenhafter Gegner,"Werte in einer Endphase, wenn du in der vorherigen Aktionsphase keine List Karten gespielt hast."
+Shadespire,269,269,Schlachthaus,"Werte in einer Endphase, wenn in der vorangegangenen Phase mindestens ein Kämpfer in feindlichem Territorium, in deinem Territorium und in niemandes Territorium ausgeschaltet wurde."
+Shadespire,270,270,Eine Erklärung abgeben,"Werte in einer Endphase, wenn du alle Missionsziele im Territorium deines Gegners (mindestens eins) kontrollierst."
+Shadespire,271,271,Gewaltiger Ansturm,"Werte sofort, wenn deine Kämpfer in einer Aktionsphase sieben oder mehr Schaden verursachen (inklusive Schaden, der den Wundenwert eines Kämpfers übersteigt)."
+Shadespire,272,272,Kriegsmeister,"Werte in einer Endphase, wenn du in dieser Runde eine Missionskarte gewertet, eine Listkarte gespielt und eine Verbesserungskarte gespielt hast."
+Shadespire,273,273,Meisterstück,"Werte sofort, wenn ein feindlicher Kämpfer durch eine als Reaktion ausgeführte Attackenaktion deiner Kriegerschar oder einer Reaktion deiner Kriegerschar, die Schaden verursacht, ausgeschaltet wird."
+Shadespire,274,274,Wundersames entrinnen,"werde sofort, wenn einer deiner Kämpfer Ziel einer feindlichen Attackenaktion mit einem Würfelwert von 3 oder mehr ist und die Attackenaktion misslingt."
+Shadespire,275,275,Mehrere Fronten,"Werte in einer Endphase, wenn deine Kriegerschar in der vorangegangenen Phase drei oder mehr feindlichen Kämpfern Schaden zugefügt hat."
+Shadespire,276,276,Keine Tricks mehr,"Werte in einer Endphase, wenn du keine Grafikkarten mehr auf der Hand hast."
+Shadespire,277,277,Keine Gnade,"werde sofort, wenn einer deiner Kämpfer ein feindlichen Kämpfer mit einer Attackenaktion ausschaltet, deren Schadenswert höher ist als der Wundenwert des Ziels"
+Shadespire,278,278,Der einzige Weg nach draußen,"Werte in einer Endphase, wenn du drei oder mehr Missionsziele kontrollierst."
+Shadespire,279,279,Überdehnt,"Werte in einer Endphase, wenn du jedes Missionsziel hältst."
+Shadespire,280,280,Perfekte Planung,"Werte in einer Endphase, wenn keiner deiner Kämpfer in der vorherigen Aktionsphase eine Bewegungsaktion ausgeführt hat."
+Shadespire,281,281,Standarte Aufpflanzen,"Werte in einer Endphase, wenn dein Anführer ein Missionsziel in feindlichem Territorium kontrolliert."
+Shadespire,282,282,Meister der Listen,"Werte in einer Endphase, wenn du in der vorhergehenden Aktionsphase drei oder mehr List Karten gespielt hast."
+Shadespire,283,283,Bereits zum zuschlagen,"Werte in einer Endphase, wenn sich mindestens drei befreundete Kämpfer angrenzend zum selben feindlichen Kämpfer befinden."
+Shadespire,284,284,Präzise Gewaltanwendung,"Werte sofort, wenn ein befreundeter Kämpfer ein erfolgreicher Attackenaktion ausführt, die genau genug Schaden anrichtet, um das Ziel auszuschalten."
+Shadespire,285,285,Blutbad,"Werte in der dritten Endphase, wenn sieben oder mehr Kämpfer ausgeschaltet sind."
+Shadespire,286,286,Bereit für eine Herausforderung,"Werte in einer Endphase, wenn alle verbliebenen feindlichen Kämpfern (mindestens drei) je mindestens eine Verbesserung haben."
+Shadespire,287,287,Sensenmann,"Werte sofort, wenn die Attacke eines befreundeten Kämpfers zwei oder mehr feindliche Kämpfer ausschaltet."
+Shadespire,288,288,Geruch des Sieges,"Werte in einer Endphase, wenn alle Überlebenden feindlichen Kämpfer (mindestens drei) mindestens einen Wundmarker haben."
+Shadespire,289,289,Gefahr umgehen,"Werte in einer Endphase, wenn alle noch lebenden befreundeten Kämpfer (mindestens zwei) auf Rand Hexfeldern stehen."
+Shadespire,290,290,Gehindert,"Werte in einer Endphase, wenn in der vorhergehenden Aktionsphase dein Gegner keine Kraftkarten gespielt hat."
+Shadespire,291,291,Überlegener Taktiker,"Werte in der dritten Endphase, wenn du sechs oder mehr andere Missionskarten gewertet hast."
+Shadespire,292,292,Vormacht,"Werte in einer Endphase, wenn du drei oder mehr Missionsziele kontrollierst."
+Shadespire,293,293,Schneller Vormarsch,"wird in einer Endphase, wenn sich alle deine überlebenden Kämpfer in feindlichem Territorium befinden."
+Shadespire,294,294,Taktisches Genie 1-3,"Werte in einer Endphase, wenn du die Missionsziele 1,2 und 3 kontrollierst."
+Shadespire,295,295,Taktisches Genie 3-5,"Werte in einer Endphase, wenn du Missionsziele 3,4 und 5 hältst."
+Shadespire,296,296,Taktische Überlegenheit 1-2,"Werte in einer Endphase, wenn du die Missionsziele 1 und 2 kontrollierst."
+Shadespire,297,297,Taktische Überlegenheit 3-4,"Werte in einer Endphase, wenn du die Missionsziele 3 und 4 kontrollierst."
+Shadespire,298,298,Je größer …,"Werte sofort, wenn ein befreundeter Kämpfer einen feindlichen Kämpfer mit einer Attackenaktion ausschaltet, die einen Schadenswert von 1 hat."
+Shadespire,299,299,Die Ernte beginnt,"werde sofort, wenn ein befreundeter Kämpfer eine Attackenaktion ausführt, die drei oder mehr feindlichen Kämpfern Schaden zufügt."
+Shadespire,300,300,Totale Auslöschung,"Werte in der ersten oder zweiten Endphase, wenn alle feindlichen Kämpfer ausgeschaltet wurden."
+Shadespire,301,301,Gefangen,"Werte sofort, wenn ein feindlicher Kämpferschaden durch eine Attackenaktion eines befreundeten Kämpfers nimmt, weil er nicht zurück getrieben werden kann."
+Shadespire,302,302,Zwielichtseroberer,"Werte in einer Endphase, wenn alle deine überlebenden Kämpfer (mindestens drei) weder in deinem noch in feindlichem Territorium sind."
+Shadespire,303,303,Ungebrochener Wall,"Werte in einer Endphase, wenn alle befreundeten überlebenden Kämpfer (mindestens drei) eine einzelne Gruppe bilden, in der jeder befreundete Kämpfer an mindestens einen anderen befreundeten Kämpfer angrenzt."
+Shadespire,304,304,Unabwendbar,"Werte sofort, wenn einer deiner Kämpfer eine erfolgreiche Attackenaktion gegen einen feindlichen Kämpfer in Verteidigungsstellung ausführt."
+Shadespire,305,305,Siegreiches Duell,"Werte sofort, wenn ein Anführer einen feindlichen Anführer ausschaltet."
+Shadespire,306,306,Sieg um Sieg,"Werte in einer Endphase, wenn du in dieser Runde drei oder mehr Missionskarten gewertet hast."
+Shadespire,307,307,Abnutzungskrieg,"Werte in einer Endphase, wenn die gleiche Anzahl Kämpfer (mindestens eine) jeder Kriegerschar ausgeschaltet ist."
+Shadespire,308,308,Wie erwartet,Spiele diese Karte nach der letzten Aktivierung in einer Aktionsphase. Nenne eine Missionskarte. Wenn dein Gegner dieser Missionskarte in der Endphase wertet. Erhältst du einen Ruhmespunkt.
+Shadespire,309,309,Blendendes Licht,Reaktion: Spiele diese Karte bei einer Attackenaktion mit Reichweite drei oder mehr (bevor Würfel geworfen werden). Der Attackenwert der Attackenaktion ändert sich zu Schwert 1.
+Shadespire,310,310,Verwirrung,Tausche zwei aktuell kontrollierte Missionsziele.
+Shadespire,311,311,Verwirrung,Welle zwei aneinander angrenzende Kämpfer und lasse sie die Plätze tauschen.
+Shadespire,312,312,Grausamer Spott,Wähle einen feindlichen Kämpfer und wirf einen Attackenwürfel. Bei einem Wurf von Hammer oder kritisch ist er nicht mehr angespornt und kann in diesem Spiel nicht wieder angespornt werden.
+Shadespire,313,313,Kuriose Inversion,Bei der ersten Attackenaktion in der nächsten Aktivierung werden Profilwerte von Hammer zu Schwerter und umgekehrt und Profilwerte von Ausweichen zu Schild und umgekehrt.
+Shadespire,314,314,Plötzliche Dunkelheit,Die erste Attackenaktion in der nächsten Aktivierung hat eine Reichweite von 1.
+Shadespire,315,315,Beutelschneiderei,"Wirf einen Attackenwürfel. Wenn du Hammer oder kritisch würfelst, nimm einen noch nicht ausgegebenen Ruhmespunkt deines Gegners."
+Shadespire,316,316,Todeszuckungen,"Reaktion: Spiele dieser Karte wären eine Attackenaktion oder List, die einen befreundeten Kämpfer ausschaltet. Wähle einen feindlichen Kämpfer, der an das Ziel angrenzt. Er erleidet 1 Schaden."
+Shadespire,317,317,Die Knochen werfen,"Wenn die erste Attackenaktion in der nächsten Aktivierung abgehandelt wird, würfeln dein Gegner und du gegeneinander. Der Gewinner entscheidet, ob die Attackenaktion misslingt oder erfolgreich ist."
+Shadespire,318,318,Ablenkung,Wähle einen feindlichen Kämpfer und schiebe ihn ein Hexfeld weit.
+Shadespire,319,319,Doppelschlag,"Ein Kämpfer, der die erste Attackenaktion während der nächsten Aktivierung unterstützt, zählt als zwei unterstützende Kämpfer."
+Shadespire,320,320,Duell des Verstands,"Reaktion: Spiele diese Karte, wenn ein Gegner eine Listkarte spielt. Ziel zwei Kraftkarten."
+Shadespire,321,321,Erdbeben,"Schiebe alle Kämpfer ein Hexfeld weit. Du musst alle in die gleiche Richtung schieben. Alle, die auf diese Weise nicht geschoben werden können, werden nicht geschoben."
+Shadespire,322,322,Flüchtiger Schild,"Der Verteidigungswert des ersten befreundeten Kämpfers, der während der nächsten Aktivierung das Ziel einer Attackenaktion ist, wird um +1 erhöht."
+Shadespire,323,323,Flackernder Schritt,"Wir acht Würfel. Wähle einen befreundeten Kämpfer und schiebe ihn eine Anzahl von Hexfeldern weit, diese Anzahl der gewürfelten kritisch entspricht."
+Shadespire,324,324,Forsche Verweigerung,"Reaktion: Spiele diese Karte, wenn ein Gegner eine List Karte ausspielt. Wirf einen Verteidigungswürfel. Wenn du Schild oder kritisch würfelst, hat die List keinen Effekt."
+Shadespire,325,325,Befestigen,"Befreundete Kämpfer, die Missionsziele kontrollieren, haben +1 Verteidigung für die nächste Aktivierung."
+Shadespire,326,326,Im Augenblick gefangen,Wähle einen feindlichen Kämpfer und wirf einen Verteidigungswürfel. Bei Schild oder kritisch kann der Kämpfer in dieser Phase weder Aktionen ausführen noch Schaden erleiden.
+Shadespire,327,327,Von Wut befeuert,In der nächsten Aktivierung darfst du beliebige Attackenwürfel für die erste Attackenaktion eines befreundeten Kämpfers wiederholen.
+Shadespire,328,328,Packen,"Reaktion: Spiele diese Karte, nachdem ein angrenzender feindlicher Kämpfer eine Attackenaktion ausgeführt hat, durch die ein befreundeter Kämpfer zurückgetrieben wurde. Schiebe den Attackierenden in das Hexfeld, aus dem der befreundete Kämpfer zurückgetrieben wurde."
+Shadespire,329,329,Mächtiger Einschlag,"Wähle ein Hexfeld auf dem Schlachtfeld, dann schiebe alle Kämpfer ein Hexfeld weit (in von dir gewählte Reihenfolge). Dadurch müssen sie sich von dem gewählten Hexfeld wegbewegen. Wenn es kein Hexfeld gibt, in das du einen Kämpfer schieben könntest, wird er nicht geschoben."
+Shadespire,330,330,Heiltrank,"Wähle einen befreundeten Kämpfer und wirf einen Verteidigungswürfel. Wenn du Schild oder kritisch würfelst, entferne bis zu zwei Wundmarker von ihm. Andernfalls entferne einen Wundmarker von ihm."
+Shadespire,331,331,Verborgene Pfade,"Wähle einen befreundeten Kämpfer, der in dieser Phase noch keine Bewegungsaktion ausgeführt hat und sich auf einem Rand Hexfeld befindet. Stelle ihn auf ein beliebiges anderes Rand Hexfeld. Er wird behandelt als hätte er eine Bewegungsaktion ausgeführt."
+Shadespire,332,332,Scheinhafter Kämpfer,Wähle einen deiner Kämpfer auf dem Schlachtfeld. Stelle ihn auf ein Start Hexfeld in deinem Territorium.
+Shadespire,333,333,Improvisation,Wirf alle Kraftkarten auf deiner Hand ab und ziehe drei Kraftkarten.
+Shadespire,334,334,Inspiration,Wähle einen befreundeten Kämpfer. Er wird angespornt.
+Shadespire,335,335,Unsichtbare Wände,Der Bewegungswert aller Kämpfer wird für die nächste Aktivierung auf eins reduziert.
+Shadespire,336,336,Letzte Chance,"Reaktion: Spiele diese Karte bei einer Attackenaktion, die einen befreundeten Kämpfer ausschalten würde. Wirf einen Verteidigungswürfel. Falls das Ergebnis für den Kämpfer normalerweise kein Erfolg wäre, wird der Schaden der Attackenaktion gegen den Kämpfer ignoriert."
+Shadespire,337,337,Vermächtnis,"Reaktion: Spiele diese Karte nach einer Attackenaktion oder List, die einen befreundeten Kämpfer ausschaltet. Wähle eine seiner allgemeinen Verbesserungen und gibt sie an einen angrenzenden befreundeten Kämpfer weiter."
+Shadespire,338,338,Tödlicher Schlag,"Wenn die erste Attackenaktion bei der nächsten Aktivierung zu einem kritischen Treffer führt, wird der Schadenswert für diese Attackenaktion verdoppelt."
+Shadespire,339,339,Mächtiger Schwung,Deine erste Attackenaktion mit einer Reichweite von eins während der nächsten Aktivierung hat alle angrenzenden feindlichen Kämpfer als Ziel. Würfel für jeden.
+Shadespire,340,340,Schelmische Geister,"Abwechselnd mit deinem Gegner (bzw. reihum mit deinen Gegnern), im Uhrzeigersinn und beginnend bei dir, bewegt ihr jedes Missionsziel ein Hexfeld weit. Ein Missionsziel kann nicht in ein Hexfeld mit einem anderen Missionsziel bewegt werden."
+Shadespire,341,341,Irreführung,"Reaktion: Spiele diese Karte, wenn ein befreundeter Kämpfer als Ziel einer List gewählt wird. Wähle einen anderen befreundeten Kämpfer, der von dieser List als Ziel gewählt werden könnte. Dieser Kämpfer wird stattdessen als Ziel gewählt."
+Shadespire,342,342,Temporärer Wahn,"Wähle einen feindlichen Kämpfer und wirf einen Angriffswürfel. Wenn du Hammer oder kritisch würfelst, führe eine Attackenaktion mit ihm aus, als wäre er ein befreundeter Kämpfer. Bei dieser Attackenaktion unterstützen Kämpfer nicht (weder bei der Attacke noch defensiv)."
+Shadespire,343,343,Jetzt bin ich dran,"Reaktion: Spiele diese Karte, nachdem eine Attackenaktion oder eine List einem befreundeten Kämpfer Schaden zugefügt hat. Schiebe ihn bis zu ein Hexfeld weit und führe eine Attackenaktion mit ihm aus."
+Shadespire,344,344,Keine Zeit,Bis nach der nächsten Aktivierung können keine Grafikkarten mehr gespielt werden.
+Shadespire,345,345,Auf die Beine,"Reaktion: Spiele diese Karte während einer Attackenaktion oder List, die einen befreundeten Kämpfer ausschalten würde, wenn ein befreundeter Kämpfer an ihn angrenzt. Wirf einen Verteidigungswürfel. Bei Schild oder kritisch erleidet der Kämpfer keinen Schaden und wird nicht ausgeschaltet."
+Shadespire,346,346,Parieren,"Das erste Mal, wenn einer deiner Kämpfer während der nächsten Aktivierungsziel ist, wirf einen Verteidigungswürfel zusätzlich. Wenn du deine Erfolge zählst, ignoriere einen der Verteidigungswürfel."
+Shadespire,347,347,Sofort reagiert,"Reaktion: Spiele diese Karte nach der Bewegungsaktion eines feindlichen Kämpfers. Führe mit einem befreundeten Kämpfer, der in dieser Phase noch keine Bewegungsaktion ausgeführt hat, eine Bewegungsaktion aus."
+Shadespire,348,348,Bereit,"Reaktion: Spiele diese Karte, nachdem du in einer Aktionsphase einen Kämpfer verbessert hast. Er darf eine Bewegungsaktion Attackenaktion ausführen."
+Shadespire,349,349,Abpraller,"Reaktion: Spiele diese Karte bei einer feindlichen Attackenaktion, die gelingen würde. Wirf einen Verteidigungswürfel. Bei ausweichen oder kritisch erleidet statt dem Ziel der Attackierenden den Schaden und keiner der beiden Kämpfer wird zurück getrieben."
+Shadespire,350,350,Gespiegelte Verletzung,Wähle einen befreundeten Kämpfer mit mindestens einem wunden Marker und einen angrenzenden feindlichen Kämpfer. Der feindliche Kämpfer erleidet 1 Schaden.
+Shadespire,351,351,Strategie überdenken,Wirft beliebig viele Missionskarten ab ziehe die gleiche Anzahl an Missionskarten.
+Shadespire,352,352,Bauernopfer,"Wähle einen befreundeten Kämpfer. Wird der Kämpfer in der nächsten Aktivierung ausgeschaltet, so erhältst du einen Ruhmespunkt."
+Shadespire,353,353,Leichen fleddern,"Reaktion: Spiele diese Karte nach einer Attackenaktion eines befreundeten Kämpfers, die einen angrenzenden feindlichen Kämpfer mit einer Verbesserung ausgeschaltet hat. Du erhältst einen Ruhmespunkt zusätzlich."
+Shadespire,354,354,Zweite Luft,"Wähle einen befreundeten Kämpfer, der in dieser Phase eine Angriffsaktion ausgeführt hat. Während der nächsten Aktivierung kann er aktiviert werden, als hätte er eine Bewegungsaktion anstatt einer Angriffsaktion ausgeführt."
+Shadespire,355,355,Scherbenfall,Lege einen Scherbenfallmarker in ein unbelegtes Hexfeld. Dieses Hexfeld ist bis zum Ende der Phase blockiert.
+Shadespire,356,356,Splitterhagel,Jeder Kämpfer erleidet 1 Schaden.
+Shadespire,357,357,Zersplitternder Boden,"Jeder Kämpfer, der während der nächsten Aktivierung eine Bewegungsaktion ausführt, geschoben oder zurück getrieben wird, erleidet 1 Schaden"
+Shadespire,358,358,Scherben,Wähle einen feindlichen Kämpfer und eine seiner Verbesserungen. Wirf einen Attackenwürfel. Bei Hammer oder kritisch wird die gewählte Verbesserung abgeworfen.
+Shadespire,359,359,Scherbenschiebung,Bewege ein nicht kontrolliertes Missionsziel ein Hexfeld weit. Du darfst es nicht in ein Hexfeld bewegen in dem sich bereits ein Missionsziel befindet.
+Shadespire,360,360,Ausfallschritt,Wähle einen befreundeten Kämpfer und schiebe ihn ein Hexfeld weit.
+Shadespire,361,361,Geisterschwingen,"Der erste Kämpfer, der während der nächsten Aktivierung eine Bewegungsaktion ausführt, hat dabei +2 Bewegungswert."
+Shadespire,362,362,Schlachtbeute,Spiele eine Verbesserungskarte. Sie kostet keinen Ruhmespunkt.
+Shadespire,363,363,Sprint,"Verdoppelte den Bewegungswert des ersten befreundeten Kämpfers, der während der nächsten Aktivierung eine Bewegungsaktion ausführt. Er darf keine Angriffsaktion ausführen. Wenn er sich bewegt hat, kann er in dieser Phase nicht noch einmal aktiviert werden."
+Shadespire,364,364,Stolpern,"Reaktion: Spiele diese Karte nach einer Attackenaktion eines befreundeten Kämpfers, durch die ein feindlicher Kämpfer zurückgetrieben wurde. Er wird ein zusätzliches Hexfeld in die gleiche Richtung zurück getrieben."
+Shadespire,365,365,Verdorbene Lebenskraft,"Entferne einen Wundmarker von jedem Kämpfer, der mindestens einen Wundmarker hat."
+Shadespire,366,366,Verlockende Beute,"Der erste befreundete Kämpfer, der in der nächsten Aktivierung eine Bewegungsaktion ausführt, darf sich bis zu zwei zusätzliche Hexfelder weit bewegen, wenn er seine Bewegung auf eine Missionsziel beendet."
+Shadespire,367,367,Teamarbeit,"Reaktion: Spiele diese Karte während der Attackenaktion eines befreundeten Kämpfers, bevor Würfel geworfen werden. Schiebe einen anderen befreundeten Kämpfer ein Hexfeld weit."
+Shadespire,368,368,Zeitfalle,Wähle einen Kämpfer. Er kann eine Aktion ausführen. Überspringe deine nächste Aktivierung (du kannst diese Karte nicht nach deiner vierten Aktivierung spielen).
+Shadespire,369,369,Falle,"Reaktion: Spiele diese Karte während einer Attackenaktion eines befreundeten Kämpfers, die einen feindlichen Kämpfer zurück treibt. Der feindliche Kämpfer erleidet 1 Schaden"
+Shadespire,370,370,Triumphgebrüll,Reaktion: Spiele diese Karte nach dem die Attackenaktion eines befreundeten Kämpfers einen feindlichen Kämpfer ausgeschaltet hat. Du kannst jeden an den befreundeten Kämpfer angrenzenden feindlichen Kämpfer ein Hexfeld weit schieben.
+Shadespire,371,371,Vertrau auf dein Glück,Lege eine beliebige Anzahl Kraftkarten ab und ziehe bis zu dieser Anzahl neue Kraftkarten von deinem Kraftstapel.
+Shadespire,372,372,Das Messer drehen,"Reaktion: Spiele diese Karte während der Attackenaktion eines befreundeten Kämpfers, die eine Reichweite von 1 hat und erfolgreich sein wird. Der Schadenswert für diese Attackenaktion wird um +1 erhöht."
+Shadespire,373,373,Eine Bestimmung zu erfüllen,"Wenn dieser Kämpfe am Ende der dritten Aktionsphase nicht ausgeschaltet ist, erhältst du 1 zusätzlichen Ruhmespunkt."
+Shadespire,374,374,Akrobatische,"Wenn dieser Kämpfe Verteidigungswert ausweichen oder Verteidigungswert Schild hat und Verteidigungsstellung eingenommen hat, wirfst du einen zusätzlichen Verteidigungswürfel, wenn er Ziel einer Attackenaktion ist."
+Shadespire,375,375,Ein Mann Armee,"Wenn dieser Kämpfer der letzte befreundete Kämpfer auf dem Schlachtfeld ist, hat er +1 Verteidigung und alle seine Attacken Aktionen haben +1 Würfel."
+Shadespire,376,376,Erwachte Waffe,"Jedes Mal, wenn dieser Kämpfer eine Attackenaktion ausführt, darfst du einen der Attackenwürfel erneut werfen."
+Shadespire,377,377,Gesegnete Rüstung,"Wenn du für diesen Kämpfer kritisch würfelst, wenn er das Ziel einer Attackenaktion ist, entferne einen Wundmarker von ihm, bevor etwaiger Schaden zugefügt wird."
+Shadespire,378,378,Versteckte Waffe,Bei einem kritischen Treffer wird der Schadenswert der Attackenaktion dieses Kämpfers mit Reichweite 1 um +2 erhöht.
+Shadespire,379,379,Koordinierte Attacke,"Wenn du diese Attackenaktion ausführst, wirfst du einen Würfel zusätzlich für jeden anderen befreundeten Kämpfer, der an das Ziel angrenzt."
+Shadespire,380,380,Cleverer Duellant,"Reaktion: Während einer Attackenaktion dieses Kämpfers, die gegen einen angrenzenden feindlichen Kämpfer erfolgreich ist, kannst du die beiden Kämpfer die Plätze tauschen lassen, statt das Ziel zurückzudrängen."
+Shadespire,381,381,Verfluchtes Artefakt,"+1 Verteidigung, -1 Wundenwert"
+Shadespire,382,382,Dämonische Waffe,"Jedes Mal, wenn dieser Kämpfer diese Attackenaktion ausführt erleidet er zuerst 1 Schaden."
+Shadespire,383,383,Dunkle Splitter,Spalten
+Shadespire,384,384,Zähigkeit der Toten,"-2 Bewegung, +2 Wundenwert"
+Shadespire,385,385,Zurückfallen,"Reaktion: Nach dieser Attackenaktion kannst du, wenn sie erfolgreich war, diesen Kämpfer ein Hexfeld weit schieben."
+Shadespire,386,386,Ätherischer Schild,Der Verteidigung Wert dieses Kämpfers ändert sich zu Schild.
+Shadespire,387,387,Flackerndes Bild,"Reaktion: Nach einer von diesem Kämpfer ausgeführten Attackenaktion, die einen kritischen Treffer erzielte, darfst du ihn bis zu zwei Hexfelder weit schieben."
+Shadespire,388,388,Geisterklinge,"Wenn Verteidigungswürfel geworfen werden, zählt nur kritisch als Erfolg für das Ziel dieser Attackenaktion. Diese Attackenaktion kann einem Ziel nie mehr als 1 Schaden zufügen."
+Shadespire,389,389,Standhaftigkeit,+1 Wundenwert
+Shadespire,390,390,Große Geschwindigkeit,+1 Bewegungswert
+Shadespire,391,391,Große Kraft,+1 Schaden für alle Attacken mit Reichweite 1 oder 2
+Shadespire,392,392,Sturmangriff,"Wenn dieser Kämpfer eine Angriffsaktion ausführt, erhöht sich sein Bewegungswert bis zum Ende der Aktivierung um 1."
+Shadespire,393,393,Hilfreiches Flüstern,"Wenn an diesem Kämpfer keine befreundeten Kämpfe angrenzen zählen gewürfelte einfache Unterstützung als Erfolge, wenn er eine Attackenaktion ausführt."
+Shadespire,394,394,Heldentöter,
+Shadespire,395,395,Unglaubliche Kraft,+1 Schaden wird für alle Attackenaktion mit Reichweite 1 oder 2
+Shadespire,396,396,Katophrane Gürtel,
+Shadespire,397,397,Katophrane Stiefel,
+Shadespire,398,398,Katophrane Handschuhe,
+Shadespire,399,399,Katophrane Haube,
+Shadespire,400,400,Katophrane Medaillon,
+Shadespire,401,401,Katophrane Rüstung,
+Shadespire,402,402,Legendäre Flinkheit,+1 Bewegung
+Shadespire,403,403,Leichte Rüstung,"Würfe von kritisch auf einem Verteidigungswürfel sind kein Erfolg mehr für diesen Kämpfe. Wirf einen zusätzlichen Attackenwürfel, wenn der Kämpfer eine Attackenaktion durchführt."
+Shadespire,404,404,Leichtfüßig,"Reaktion: Während einer Attackenaktion, die diesen Kämpfer zurück treiben könnte (egal ob dein Gegner sich dafür entscheidet), kannst du ihn stattdessen ein Hexfeld weit schieben."
+Shadespire,405,405,Tiefschlag,Sowohl Schwerter als auch Hammer sind für diese Attackenaktion Erfolge.
+Shadespire,406,406,Opportunist,"Reaktion: Nach einer misslungenen Attackenaktion, die diesen Kämpfer zum Ziel hat, kannst du ihn ein Hexfeld weit schieben."
+Shadespire,407,407,Regeneration,Entferne zu Beginn jeder Aktionsphase einen Wundmarker von diesem Kämpfer.
+Shadespire,408,408,Stellvertreter,"Wenn der Anführer deiner Kriegerschar ausgeschaltet wurde, gilt dieser Kämpfer als Anführer. Solange dieser Kämpfer sich auf dem Schlachtfeld befindet, können Gegner keine Missionsziele dafür erzielen, deinen Anführer ausgeschaltet zu haben."
+Shadespire,409,409,Schattenglasaxt,
+Shadespire,410,410,Schattenglasdolch,"Wenn diese Attackenaktion erfolgreich ist, wirft diese Verbesserung ab. Bei einem kritischen Treffer dieser Attackenaktion +1 Schaden."
+Shadespire,411,411,Schattenglaspfeile,Bei einem kritischen Treffer verursacht diese Attackenaktion +1 Schaden.
+Shadespire,412,412,Schattenglashammer,"Wenn diese Attackenaktion erfolgreich ist, wirf diese Verbesserung ab. Bei einem kritischen Treffer diese Attackenaktion +1 Schaden."
+Shadespire,413,413,Schattenglasspeer,"Wenn diese Attackenaktion erfolgreich ist, wirft diese Verbesserung ab. Bei einem kritischen Treffer verursacht diese Attackenaktion +1 Schaden."
+Shadespire,414,414,Schattenglasschwert,"Wenn diese Attackenaktion erfolgreich ist, wirf diese Verbesserung ab. Bei einem kritischen Treffer hat dieser Attackenaktion +1 Schaden."
+Shadespire,415,415,Schattenschritt,"Dieser Kämpfer kann sich bei einer Bewegungsaktion durch andere Kämpfer bewegen, muss seine Bewegung aber in einem freien Hexfeld beenden."
+Shadespire,416,416,Scherbenrufer,Zu Beginn jeder Aktionsphase darfst du ein von diesem Kämpfer kontrolliertes Missionsziel mit einem anderen Missionsziel vertauschen.
+Shadespire,417,417,Wechselbild,"Reaktion: Nach jeder Attackenaktion, in der du für diesen Kämpfer kritisch würfelst (mit einem Attackenwürfel oder Verteidigungswürfel), kannst du diesen Kämpfer ein Hexfeld weit schieben."
+Shadespire,418,418,Sechster Sinn,"Für deinen Gegner gelten bei Attackenaktion, die diesen Kämpfer als Ziel haben gewürfelte doppelte Unterstützung nie als Erfolg."
+Shadespire,419,419,Fester Stand,Dieser Kämpfer kann nur durch einen kritischen Treffer zurück getrieben werden.
+Shadespire,420,420,Seelenfalle,"Reaktion: Wirft während einer Attackenaktion oder List, die diesen Kämpfer ausschaltet, einen Verteidigungswürfel. Wenn du Schild oder kritisch würfelst, erleidet er keinen Schaden und wird nicht ausgeschaltet. Lege dann diese Verbesserung ab."
+Shadespire,421,421,Sprinter,+1 Bewegung
+Shadespire,422,422,Überlegene Agilität,"Reaktion: Während einer Attackenaktion, durch die dieser Kämpfer zurück getrieben werden könnte (ob dein Gegner sich dazu entscheidet oder nicht), kannst du ihn stattdessen ein Hexfeld weit schieben."
+Shadespire,423,423,Schneller Schlag,"Reaktion: Schiebe diesen Kämpfer ein Hexfeld weit, bevor er diese Attackenaktion ausführt."
+Shadespire,424,424,Angeketteter Geist,"Reaktion: Wirft während einer Attackenaktion oder List, die diesen Kämpfer ausschaltet, einen Verteidigungswürfel. Wenn du Schild oder kritisch würfelst, stelle ihn auf einem Staat Hexfeld in deinem Territorium auf, ignoriere den Schaden und wirft diese Verbesserung ab. Ist das nicht möglich, wird er ausgeschaltet."
+Shadespire,425,425,Flammender Schlüssel,"Wenn dieser Kämpfer in der dritten Endphase Missionsziel 3 kontrolliert, erhältst du 2 Ruhmespunkte."
+Shadespire,426,426,Blendender Schlüssel,"Wenn dieser Kämpfer am Ende der dritten Endphase Missionsziel 4 kontrolliert, erhältst du 2 Ruhmespunkte."
+Shadespire,427,427,Formloser Schlüssel,Wenn dieser Kämpfer in der dritten Endphase ein Missionsziel kontrolliert erhältst du 1 zusätzlichen Ruhmespunkt.
+Shadespire,428,428,Der Bruchschlüssel,"Wenn dieser Kämpfer in der dritten Endphase Missionsziel 5 hält, erhältst du 2 Ruhmespunkte."
+Shadespire,429,429,Heiliger Schlüssel,"Wenn dieser Kämpfer in der dritten Endphase Missionsziel 1 kontrolliert, erhältst du 2 Ruhmespunkte."
+Shadespire,430,430,Schattenschlüssel,"Wenn dieser Kämpfer in der dritten Endphase Missionsziel 2 kontrolliert, erhältst du 2 Ruhmespunkt."
+Shadespire,431,431,Totale Offensive,"Wenn dieser Kämpfer einer Attackenaktion ausführt (allerdings nicht, wenn der Kämpfer eine Angriffsaktion ausführt), darfst du zwei zusätzliche Attackenwürfel werfen. Tust du dies, so darf der Kämpfer in dieser Phase nicht mehr aktiviert werden."
+Shadespire,432,432,Amulett das Gauklers,"Wenn sich dieser Kämpfe auf dem Schlachtfeld befindet, kannst du zu Beginn jeder Aktionsphase eine einzelne List Karte spielen."
+Shadespire,433,433,Zuverlässiger Verteidiger,"Du darfst für diesen Kämpfer einen Verteidigungswürfel erneut werfen, wenn er Ziel einer Attackenaktion ist."
+Shadespire,434,434,Beispielloser Hieb,Für diese Attackenaktion gilt das Wurfergebnis Hammer als kritisch.
+Shadespire,435,435,Vampirische Waffe,"Wenn dieser Kämpfer einen feindlichen Kämpfer ausschaltet, entfernst du ein Wundmarker von diesen Kämpfer."
+Shadespire,436,436,Kriegsschrei,"Wenn dieser Kämpfer eine Angriffsaktion ausführt, erhalten seine Attackenaktion für diese Aktivierung die Fähigkeit zurück stoßen 1."
+Shadespire,437,437,Eifriger Verteidiger,"Solange dieser Kämpfer ein Missionsziel kontrolliert, gilt er, als würde er durch einen zusätzlichen Kämpfer unterstützt."

@@ -13,7 +13,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/001_ENG-A-Worthy-Skull.png",
     "is_new": false,
     "name": "A Worthy Skull",
-    "number": "1",
+    "number": 1,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -32,7 +32,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/002_ENG-Blood-for-the-Blood-God.png",
     "is_new": false,
     "name": "Blood for the Blood God!",
-    "number": "2",
+    "number": 2,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -51,7 +51,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/003_ENG-Coward.png",
     "is_new": false,
     "name": "Coward!",
-    "number": "3",
+    "number": 3,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -70,7 +70,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/004_ENG-Draw-the-Gaze-of-Khorne.png",
     "is_new": false,
     "name": "Draw the Gaze of Khorne",
-    "number": "4",
+    "number": 4,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -89,7 +89,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/005_ENG-It-Begins.png",
     "is_new": false,
     "name": "It Begins",
-    "number": "5",
+    "number": 5,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -108,7 +108,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/006_ENG-Khorne-Cares-Not.png",
     "is_new": false,
     "name": "Khorne Cares Not",
-    "number": "6",
+    "number": 6,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -127,7 +127,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/007_ENG-Khornes-Champion.png",
     "is_new": false,
     "name": "Khorne's Champion",
-    "number": "7",
+    "number": 7,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -146,7 +146,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/008_ENG-Let-the-Blood-Flow.png",
     "is_new": false,
     "name": "Let the Blood Flow",
-    "number": "8",
+    "number": 8,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -165,7 +165,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/009_ENG-There-is-Only-Slaughter.png",
     "is_new": false,
     "name": "There is Only Slaughter",
-    "number": "9",
+    "number": 9,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -184,7 +184,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/010-ENG-Blood-Offering.png",
     "is_new": false,
     "name": "Blood Offering",
-    "number": "10",
+    "number": 10,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -203,7 +203,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/011_ENG-Blood-Rain.png",
     "is_new": false,
     "name": "Blood Rain",
-    "number": "11",
+    "number": 11,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -222,7 +222,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/012_ENG-Boon-of-Khorne.png",
     "is_new": false,
     "name": "Boon of Khorne",
-    "number": "12",
+    "number": 12,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -241,7 +241,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/013_ENG-Desecrate.png",
     "is_new": false,
     "name": "Desecrate",
-    "number": "13",
+    "number": 13,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -260,7 +260,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/014_ENG-Final-Blow.png",
     "is_new": false,
     "name": "Final Blow",
-    "number": "14",
+    "number": 14,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -279,7 +279,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/015_ENG-Fuelled-by-Slaughter.png",
     "is_new": false,
     "name": "Fuelled by Slaughter",
-    "number": "15",
+    "number": 15,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -298,7 +298,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/016_ENG-Insensate.png",
     "is_new": false,
     "name": "Insensate",
-    "number": "16",
+    "number": 16,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -317,7 +317,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/017_ENG-Khorne-Calls.png",
     "is_new": false,
     "name": "Khorne Calls",
-    "number": "17",
+    "number": 17,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -336,7 +336,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/018_ENG-Rebirth-in-Blood.png",
     "is_new": false,
     "name": "Rebirth in Blood",
-    "number": "18",
+    "number": 18,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -355,7 +355,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/019_ENG-Skulls-for-the-Skull-Throne.png",
     "is_new": false,
     "name": "Skulls for the Skull Throne!",
-    "number": "19",
+    "number": 19,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -374,7 +374,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/020_ENG-Berserk-Charge.png",
     "is_new": false,
     "name": "Berserk Charge",
-    "number": "20",
+    "number": 20,
     "restricted": "Blooded Saek",
     "set": "Core set",
     "type": "Upgrade"
@@ -393,7 +393,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/021_ENG-Bloodslick.png",
     "is_new": false,
     "name": "Bloodslick",
-    "number": "21",
+    "number": 21,
     "restricted": "Garrek Gorebeard",
     "set": "Core set",
     "type": "Upgrade"
@@ -412,7 +412,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/022_ENG-Deadly-Spin.png",
     "is_new": false,
     "name": "Deadly Spin",
-    "number": "22",
+    "number": 22,
     "restricted": "Targor",
     "set": "Core set",
     "type": "Upgrade"
@@ -431,7 +431,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/023_ENG-Ever-Advancing.png",
     "is_new": false,
     "name": "Ever-Advancing",
-    "number": "23",
+    "number": 23,
     "restricted": "Garrek Gorebeard",
     "set": "Core set",
     "type": "Upgrade"
@@ -450,7 +450,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/024_ENG-Frenzy.png",
     "is_new": false,
     "name": "Frenzy",
-    "number": "24",
+    "number": 24,
     "restricted": "-",
     "set": "Core set",
     "type": "Upgrade"
@@ -469,7 +469,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/025_ENG-Grisly-Trophy.png",
     "is_new": false,
     "name": "Grisly Trophy",
-    "number": "25",
+    "number": 25,
     "restricted": "Garrek Gorebeard",
     "set": "Core set",
     "type": "Upgrade"
@@ -488,7 +488,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/026_ENG-Terrifying-Howl.png",
     "is_new": false,
     "name": "Terrifying Howl",
-    "number": "26",
+    "number": 26,
     "restricted": "Karsus the Chained",
     "set": "Core set",
     "type": "Upgrade"
@@ -507,7 +507,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/027_ENG-Unstoppable-Charge.png",
     "is_new": false,
     "name": "Unstoppable Charge",
-    "number": "27",
+    "number": 27,
     "restricted": "Blooded Saek",
     "set": "Core set",
     "type": "Upgrade"
@@ -526,7 +526,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/028_ENG-Whirlwind-of-Death.png",
     "is_new": false,
     "name": "Whirlwind of Death",
-    "number": "28",
+    "number": 28,
     "restricted": "Karsus the Chained",
     "set": "Core set",
     "type": "Upgrade"
@@ -545,7 +545,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/029_ENG-Wicked-Blade.png",
     "is_new": false,
     "name": "Wicked Blade",
-    "number": "29",
+    "number": 29,
     "restricted": "Arnulf",
     "set": "Core set",
     "type": "Upgrade"
@@ -564,7 +564,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/030_ENG-Awe-inspiring.png",
     "is_new": false,
     "name": "Awe-inspiring",
-    "number": "30",
+    "number": 30,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -583,7 +583,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/031_ENG-Cleanse.png",
     "is_new": false,
     "name": "Cleanse",
-    "number": "31",
+    "number": 31,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -602,7 +602,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/032_ENG-Consecrated-Area.png",
     "is_new": false,
     "name": "Consecrated Area",
-    "number": "32",
+    "number": 32,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -621,7 +621,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/033_ENG-Eternals.png",
     "is_new": false,
     "name": "Eternals",
-    "number": "33",
+    "number": 33,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -640,7 +640,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/034_ENG-Immovable-Object.png",
     "is_new": false,
     "name": "Immovable Object",
-    "number": "34",
+    "number": 34,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -659,7 +659,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/035_ENG-Lightning-Strikes.png",
     "is_new": false,
     "name": "Lightning Strikes",
-    "number": "35",
+    "number": 35,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -678,7 +678,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/036_ENG-Seize-Ground.png",
     "is_new": false,
     "name": "Seize Ground",
-    "number": "36",
+    "number": 36,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -697,7 +697,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/037_ENG-Sigmars-Bulwark.png",
     "is_new": false,
     "name": "Sigmar's Bulwark",
-    "number": "37",
+    "number": 37,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -716,7 +716,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/038_ENG-Slayers-of-Tyrants.png",
     "is_new": false,
     "name": "Slayers of Tyrants",
-    "number": "38",
+    "number": 38,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -735,7 +735,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/039_ENG-Heroic-Guard.png",
     "is_new": false,
     "name": "Heroic Guard",
-    "number": "39",
+    "number": 39,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -754,7 +754,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/040_ENG-Peal-of-Thunder.png",
     "is_new": false,
     "name": "Peal of Thunder",
-    "number": "40",
+    "number": 40,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -773,7 +773,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/041_ENG-Righteous-Zeal.png",
     "is_new": false,
     "name": "Righteous Zeal",
-    "number": "41",
+    "number": 41,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -792,7 +792,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/042_ENG-Sigmarite-Wall.png",
     "is_new": false,
     "name": "Sigmarite Wall",
-    "number": "42",
+    "number": 42,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -811,7 +811,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/043_ENG-Stormforged-Resistance.png",
     "is_new": false,
     "name": "Stormforged Resistance",
-    "number": "43",
+    "number": 43,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -830,7 +830,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/044_ENG-Stormforged-Tactics.png",
     "is_new": false,
     "name": "Stormforged Tactics",
-    "number": "44",
+    "number": 44,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -849,7 +849,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/045_ENG-Tireless-Assault.png",
     "is_new": false,
     "name": "Tireless Assault",
-    "number": "45",
+    "number": 45,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -868,7 +868,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/046_ENG-Undaunted.png",
     "is_new": false,
     "name": "Undaunted",
-    "number": "46",
+    "number": 46,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -887,7 +887,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/047_ENG-Unstoppable-Strike.png",
     "is_new": false,
     "name": "Unstoppable Strike",
-    "number": "47",
+    "number": 47,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -906,7 +906,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/048_ENG-Valiant-Attack.png",
     "is_new": false,
     "name": "Valiant Attack",
-    "number": "48",
+    "number": 48,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -925,7 +925,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/049_ENG-Blessed-by-Sigmar.png",
     "is_new": false,
     "name": "Blessed by Sigmar",
-    "number": "49",
+    "number": 49,
     "restricted": "-",
     "set": "Core set",
     "type": "Upgrade"
@@ -944,7 +944,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/050_ENG-Block.png",
     "is_new": false,
     "name": "Block",
-    "number": "50",
+    "number": 50,
     "restricted": "Angharad Brightshield",
     "set": "Core set",
     "type": "Upgrade"
@@ -963,7 +963,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/051_ENG-Brave-Strike.png",
     "is_new": false,
     "name": "Brave Strike",
-    "number": "51",
+    "number": 51,
     "restricted": "Obryn the Bold",
     "set": "Core set",
     "type": "Upgrade"
@@ -982,7 +982,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/052_ENG-Fatal-Riposte.png",
     "is_new": false,
     "name": "Fatal Riposte",
-    "number": "52",
+    "number": 52,
     "restricted": "Severin Steelheart",
     "set": "Core set",
     "type": "Upgrade"
@@ -1001,7 +1001,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/053_ENG-Heroic-Might.png",
     "is_new": false,
     "name": "Heroic Might",
-    "number": "53",
+    "number": 53,
     "restricted": "Severin Steelheart, Obryn the Bold",
     "set": "Core set",
     "type": "Upgrade"
@@ -1020,7 +1020,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/054_ENG-Heroic-Stride.png",
     "is_new": false,
     "name": "Heroic Stride",
-    "number": "54",
+    "number": 54,
     "restricted": "Severin Steelheart",
     "set": "Core set",
     "type": "Upgrade"
@@ -1039,7 +1039,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/055_ENG-Lightning-Blade.png",
     "is_new": false,
     "name": "Lightning Blade",
-    "number": "55",
+    "number": 55,
     "restricted": "Severin Steelheart",
     "set": "Core set",
     "type": "Upgrade"
@@ -1058,7 +1058,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/056_ENG-Lightning-Blast.png",
     "is_new": false,
     "name": "Lightning Blast",
-    "number": "56",
+    "number": 56,
     "restricted": "Obryn the Bold",
     "set": "Core set",
     "type": "Upgrade"
@@ -1077,7 +1077,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/057_ENG-Righteous-Strike.png",
     "is_new": false,
     "name": "Righteous Strike",
-    "number": "57",
+    "number": 57,
     "restricted": "Angharad Brightshield",
     "set": "Core set",
     "type": "Upgrade"
@@ -1096,7 +1096,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/058_ENG-Shield-Bash.png",
     "is_new": false,
     "name": "Shield Bash",
-    "number": "58",
+    "number": 58,
     "restricted": "Angharad Brightshield",
     "set": "Core set",
     "type": "Upgrade"
@@ -1115,7 +1115,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/059_ENG-Battle-Without-End.png",
     "is_new": false,
     "name": "Battle Without End",
-    "number": "59",
+    "number": 59,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -1134,7 +1134,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/060_ENG-Claim-the-City.png",
     "is_new": false,
     "name": "Claim the City",
-    "number": "60",
+    "number": 60,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -1153,7 +1153,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/061_ENG-Fearless-in-Death.png",
     "is_new": false,
     "name": "Fearless in Death",
-    "number": "61",
+    "number": 61,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -1172,7 +1172,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/062_ENG-March-of-the-Dead.png",
     "is_new": false,
     "name": "March of the Dead",
-    "number": "62",
+    "number": 62,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -1191,7 +1191,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/063_ENG-More-Able-Bodies.png",
     "is_new": false,
     "name": "More Able Bodies",
-    "number": "63",
+    "number": 63,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -1210,7 +1210,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/064_ENG-Peerless-General.png",
     "is_new": false,
     "name": "Peerless General",
-    "number": "64",
+    "number": 64,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -1229,7 +1229,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/065_ENG-Skills-Unforgotten.png",
     "is_new": false,
     "name": "Skills Unforgotten",
-    "number": "65",
+    "number": 65,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -1248,7 +1248,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/066_ENG-The-Invigorated-Dead.png",
     "is_new": false,
     "name": "The Invigorated Dead",
-    "number": "66",
+    "number": 66,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -1267,7 +1267,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/067_ENG-Undead-Swarm.png",
     "is_new": false,
     "name": "Undead Swarm",
-    "number": "67",
+    "number": 67,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -1286,7 +1286,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/068_ENG-Bone-Shrapnel.png",
     "is_new": false,
     "name": "Bone Shrapnel",
-    "number": "68",
+    "number": 68,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -1305,7 +1305,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/069_ENG-Ceaseless-Attacks.png",
     "is_new": false,
     "name": "Ceaseless Attacks",
-    "number": "69",
+    "number": 69,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -1324,7 +1324,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/070_ENG-Clawing-Hands.png",
     "is_new": false,
     "name": "Clawing Hands",
-    "number": "70",
+    "number": 70,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -1343,7 +1343,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/071_ENG-Danse-Macabre.png",
     "is_new": false,
     "name": "Danse Macabre",
-    "number": "71",
+    "number": 71,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -1362,7 +1362,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/072_ENG-Grasping-Hands.png",
     "is_new": false,
     "name": "Grasping Hands",
-    "number": "72",
+    "number": 72,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -1381,7 +1381,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/073_ENG-Restless-Dead.png",
     "is_new": false,
     "name": "Restless Dead",
-    "number": "73",
+    "number": 73,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -1400,7 +1400,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/074_ENG-Spectral-Form.png",
     "is_new": false,
     "name": "Spectral Form",
-    "number": "74",
+    "number": 74,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -1419,7 +1419,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/075_ENG-Swift-Evasion.png",
     "is_new": false,
     "name": "Swift Evasion",
-    "number": "75",
+    "number": 75,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -1438,7 +1438,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/076_ENG-Terrifying-Screams.png",
     "is_new": false,
     "name": "Terrifying Screams",
-    "number": "76",
+    "number": 76,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -1457,7 +1457,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/077_ENG-The-Necromancer-Commands.png",
     "is_new": false,
     "name": "The Necromancer Commands",
-    "number": "77",
+    "number": 77,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -1476,7 +1476,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/078_ENG-Ancient-Commander.png",
     "is_new": false,
     "name": "Ancient Commander",
-    "number": "78",
+    "number": 78,
     "restricted": "The Sepulchral Warden",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -1495,7 +1495,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/079_ENG-Assumed-Command.png",
     "is_new": false,
     "name": "Assumed Command",
-    "number": "79",
+    "number": 79,
     "restricted": "The Prince of Dust",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -1514,7 +1514,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/080_ENG-Deathly-Charge.png",
     "is_new": false,
     "name": "Deathly Charge",
-    "number": "80",
+    "number": 80,
     "restricted": "The Champion",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -1533,7 +1533,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/081_ENG-Fatal-Strike.png",
     "is_new": false,
     "name": "Fatal Strike",
-    "number": "81",
+    "number": 81,
     "restricted": "The Champion",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -1552,7 +1552,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/082_ENG-Focused-Attack.png",
     "is_new": false,
     "name": "Focused Attack",
-    "number": "82",
+    "number": 82,
     "restricted": "The Harvester",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -1571,7 +1571,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/083_ENG-Frightening-Speed.png",
     "is_new": false,
     "name": "Frightening Speed",
-    "number": "83",
+    "number": 83,
     "restricted": "The Harvester, The Champion, The Prince of Dust",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -1590,7 +1590,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/084_ENG-Grim-Cleave.png",
     "is_new": false,
     "name": "Grim Cleave",
-    "number": "84",
+    "number": 84,
     "restricted": "The Harvester",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -1609,7 +1609,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/085_ENG-Lethal-Lunge.png",
     "is_new": false,
     "name": "Lethal Lunge",
-    "number": "85",
+    "number": 85,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -1628,7 +1628,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/086_ENG-Lethal-Lunge.png",
     "is_new": false,
     "name": "Remembered Shield",
-    "number": "86",
+    "number": 86,
     "restricted": "The Sepulchral Warden, The Prince of Dust, Petitioners",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -1647,7 +1647,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/087_ENG-Undying.png",
     "is_new": false,
     "name": "Undying",
-    "number": "87",
+    "number": 87,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -1666,7 +1666,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/088_ENG-\u2019Ard-as-Iron.png",
     "is_new": false,
     "name": "'Ard as Iron",
-    "number": "88",
+    "number": 88,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -1685,7 +1685,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/089_ENG-Biggest-an-da-Best.png",
     "is_new": false,
     "name": "Biggest an' da Best",
-    "number": "89",
+    "number": 89,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -1704,7 +1704,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/090_ENG-Call-of-the-Waaagh.png",
     "is_new": false,
     "name": "Call of the Waaagh!",
-    "number": "90",
+    "number": 90,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -1723,7 +1723,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/091_ENG-Dead-Kunnin.png",
     "is_new": false,
     "name": "Dead Kunnin'",
-    "number": "91",
+    "number": 91,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -1742,7 +1742,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/092_ENG-Deres-More-of-Us.png",
     "is_new": false,
     "name": "Dere's More of Us",
-    "number": "92",
+    "number": 92,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -1761,7 +1761,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/093_ENG-Get-Da-Boss.png",
     "is_new": false,
     "name": "Get Da Boss",
-    "number": "93",
+    "number": 93,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -1780,7 +1780,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/094_ENG-Good-Scrap.png",
     "is_new": false,
     "name": "Good Scrap",
-    "number": "94",
+    "number": 94,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -1799,7 +1799,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/095_ENG-Punch-up.png",
     "is_new": false,
     "name": "Punch-up",
-    "number": "95",
+    "number": 95,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -1818,7 +1818,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/096_ENG-Too-Dumb-to-Die.png",
     "is_new": false,
     "name": "Too Dumb to Die",
-    "number": "96",
+    "number": 96,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -1837,7 +1837,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/097_ENG-\u2019Avin\u2019-a-Good-Time.png",
     "is_new": false,
     "name": "'Avin' a Good Time",
-    "number": "97",
+    "number": 97,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -1856,7 +1856,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/098_ENG-Brutal-But-Kunnin.png",
     "is_new": false,
     "name": "Brutal But Kunnin'",
-    "number": "98",
+    "number": 98,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -1875,7 +1875,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/099_ENG-Deafening-Bellow.png",
     "is_new": false,
     "name": "Deafening Bellow",
-    "number": "99",
+    "number": 99,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -1894,7 +1894,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/100_ENG-Gorkamorkas-Blessing.png",
     "is_new": false,
     "name": "Gorkamorka's Blessing",
-    "number": "100",
+    "number": 100,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -1913,7 +1913,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/101_ENG-Kunnin-But-Brutal.png",
     "is_new": false,
     "name": "Kunnin' But Brutal",
-    "number": "101",
+    "number": 101,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -1932,7 +1932,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/102_ENG-Last-Lunge.png",
     "is_new": false,
     "name": "Last Lunge",
-    "number": "102",
+    "number": 102,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -1951,7 +1951,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/103_ENG-Leadin-By-Example.png",
     "is_new": false,
     "name": "Leadin' By Example",
-    "number": "103",
+    "number": 103,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -1970,7 +1970,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/104_ENG-More-Choppin.png",
     "is_new": false,
     "name": "More Choppin'",
-    "number": "104",
+    "number": 104,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -1989,7 +1989,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/105_ENG-Pillage.png",
     "is_new": false,
     "name": "Pillage",
-    "number": "105",
+    "number": 105,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -2008,7 +2008,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/106_ENG-Scrag-Em.png",
     "is_new": false,
     "name": "Scrag 'Em",
-    "number": "106",
+    "number": 106,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -2027,7 +2027,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/107_ENG-\u2019Ard-Head.png",
     "is_new": false,
     "name": "'Ard Head",
-    "number": "107",
+    "number": 107,
     "restricted": "Hakka, Basha",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -2046,7 +2046,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/108_ENG-Aspiring-Boss.png",
     "is_new": false,
     "name": "Aspiring Boss",
-    "number": "108",
+    "number": 108,
     "restricted": "Hakka",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -2065,7 +2065,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/109_ENG-Brutal-Frenzy.png",
     "is_new": false,
     "name": "Brutal Frenzy",
-    "number": "109",
+    "number": 109,
     "restricted": "Hakka, Basha",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -2084,7 +2084,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/110_ENG-Brutal-Swing.png",
     "is_new": false,
     "name": "Brutal Swing",
-    "number": "110",
+    "number": 110,
     "restricted": "Bonekutta",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -2103,7 +2103,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/111_ENG-Crush-and-Cleave.png",
     "is_new": false,
     "name": "Crush and Cleave",
-    "number": "111",
+    "number": 111,
     "restricted": "Gurzag Ironskull, Bonekutta",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -2122,7 +2122,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/112_ENG-Dead-Ard.png",
     "is_new": false,
     "name": "Dead 'Ard",
-    "number": "112",
+    "number": 112,
     "restricted": "Gurzag Ironskull, Bonekutta",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -2141,7 +2141,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/113_ENG-\u2019Eadbutt.png",
     "is_new": false,
     "name": "'Eadbutt",
-    "number": "113",
+    "number": 113,
     "restricted": "Gurzag Ironskull",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -2160,7 +2160,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/114_ENG-Headlong-Rush.png",
     "is_new": false,
     "name": "Headlong Rush",
-    "number": "114",
+    "number": 114,
     "restricted": "Basha",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -2179,7 +2179,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/115_ENG-Unkillable.png",
     "is_new": false,
     "name": "Unkillable",
-    "number": "115",
+    "number": 115,
     "restricted": "Gurzag Ironskull",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -2198,7 +2198,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/116_ENG-Waaagh.png",
     "is_new": false,
     "name": "Waaagh!",
-    "number": "116",
+    "number": 116,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -2217,7 +2217,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/117_ENG.png",
     "is_new": false,
     "name": "A Claim Retaken",
-    "number": "117",
+    "number": 117,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -2236,7 +2236,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/118_ENG.png",
     "is_new": false,
     "name": "A Grim Promise",
-    "number": "118",
+    "number": 118,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -2255,7 +2255,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/119_ENG.png",
     "is_new": false,
     "name": "Ferocious Charge",
-    "number": "119",
+    "number": 119,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -2274,7 +2274,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/120_ENG.png",
     "is_new": false,
     "name": "For the Ur-gold",
-    "number": "120",
+    "number": 120,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -2293,7 +2293,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/121_ENG.png",
     "is_new": false,
     "name": "Fury of the Lodge",
-    "number": "121",
+    "number": 121,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -2312,7 +2312,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/122_ENG.png",
     "is_new": false,
     "name": "Hoarders",
-    "number": "122",
+    "number": 122,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -2331,7 +2331,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/123_ENG.png",
     "is_new": false,
     "name": "Oaths Still to Fulfil",
-    "number": "123",
+    "number": 123,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -2350,7 +2350,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/124_ENG.png",
     "is_new": false,
     "name": "Scion of Grimnir",
-    "number": "124",
+    "number": 124,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -2369,7 +2369,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/125_ENG.png",
     "is_new": false,
     "name": "Unstoppable Advance",
-    "number": "125",
+    "number": 125,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -2388,7 +2388,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/126_ENG.png",
     "is_new": false,
     "name": "Berserk Fury",
-    "number": "126",
+    "number": 126,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -2407,7 +2407,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/127_ENG.png",
     "is_new": false,
     "name": "Indomitable",
-    "number": "127",
+    "number": 127,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -2426,7 +2426,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/128_ENG.png",
     "is_new": false,
     "name": "Living Wall",
-    "number": "128",
+    "number": 128,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -2445,7 +2445,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/129_ENG.png",
     "is_new": false,
     "name": "Oathsworn",
-    "number": "129",
+    "number": 129,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -2464,7 +2464,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/130_ENG.png",
     "is_new": false,
     "name": "Piercing Stare",
-    "number": "130",
+    "number": 130,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -2483,7 +2483,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/131_ENG.png",
     "is_new": false,
     "name": "Slaying Blow",
-    "number": "131",
+    "number": 131,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -2502,7 +2502,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/132_ENG.png",
     "is_new": false,
     "name": "The Earth Shakes",
-    "number": "132",
+    "number": 132,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -2521,7 +2521,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/133_ENG.png",
     "is_new": false,
     "name": "Treasure-lust",
-    "number": "133",
+    "number": 133,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -2540,7 +2540,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/134_ENG.png",
     "is_new": false,
     "name": "Ur-gold Boon",
-    "number": "134",
+    "number": 134,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -2559,7 +2559,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/135_ENG.png",
     "is_new": false,
     "name": "We Shall Not Be Moved",
-    "number": "135",
+    "number": 135,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -2578,7 +2578,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/136_ENG.png",
     "is_new": false,
     "name": "Activated Runes",
-    "number": "136",
+    "number": 136,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -2597,7 +2597,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/137_ENG.png",
     "is_new": false,
     "name": "Brute Strength",
-    "number": "137",
+    "number": 137,
     "restricted": "Tefk Flamebearer",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -2616,7 +2616,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/138_ENG.png",
     "is_new": false,
     "name": "Defiant Strike",
-    "number": "138",
+    "number": 138,
     "restricted": "Tefk Flamebearer",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -2635,7 +2635,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/139_ENG.png",
     "is_new": false,
     "name": "Flurry of Blows",
-    "number": "139",
+    "number": 139,
     "restricted": "Mad Maegrim",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -2654,7 +2654,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/140_ENG.png",
     "is_new": false,
     "name": "Great Swing",
-    "number": "140",
+    "number": 140,
     "restricted": "Vol Orrukbane",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -2673,7 +2673,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/141_ENG.png",
     "is_new": false,
     "name": "Grimnir's Blessing",
-    "number": "141",
+    "number": 141,
     "restricted": "Fjul-Grimnir",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -2692,7 +2692,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/142_ENG.png",
     "is_new": false,
     "name": "Grimnir's Fortitude",
-    "number": "142",
+    "number": 142,
     "restricted": "Fjul-Grimnir",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -2711,7 +2711,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/143_ENG.png",
     "is_new": false,
     "name": "Grimnir's Speed",
-    "number": "143",
+    "number": 143,
     "restricted": "Fjul-Grimnir",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -2730,7 +2730,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/144_ENG.png",
     "is_new": false,
     "name": "Returning Axe",
-    "number": "144",
+    "number": 144,
     "restricted": "Mad Maegrim",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -2749,7 +2749,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/145_ENG.png",
     "is_new": false,
     "name": "War Song",
-    "number": "145",
+    "number": 145,
     "restricted": "Vol Orrukbane",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -2768,7 +2768,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/146_ENG.png",
     "is_new": false,
     "name": "Arm's Length",
-    "number": "146",
+    "number": 146,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -2787,7 +2787,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/147_ENG.png",
     "is_new": false,
     "name": "Brilliant, Brilliant!",
-    "number": "147",
+    "number": 147,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -2806,7 +2806,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/148_ENG.png",
     "is_new": false,
     "name": "Feast-feast",
-    "number": "148",
+    "number": 148,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -2825,7 +2825,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/149_ENG.png",
     "is_new": false,
     "name": "Honed Survival Instincts",
-    "number": "149",
+    "number": 149,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -2844,7 +2844,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/150_ENG.png",
     "is_new": false,
     "name": "Leading from the Back",
-    "number": "150",
+    "number": 150,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -2863,7 +2863,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/151_ENG.png",
     "is_new": false,
     "name": "Live to Fight Another Day",
-    "number": "151",
+    "number": 151,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -2882,7 +2882,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/152_ENG.png",
     "is_new": false,
     "name": "Lives are Cheap",
-    "number": "152",
+    "number": 152,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -2901,7 +2901,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/153_ENG.png",
     "is_new": false,
     "name": "Numberless Swarm",
-    "number": "153",
+    "number": 153,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -2920,7 +2920,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/154_ENG.png",
     "is_new": false,
     "name": "Skritch is the Greatest, Yes-yes",
-    "number": "154",
+    "number": 154,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -2939,7 +2939,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/155_ENG.png",
     "is_new": false,
     "name": "Aversion to Death",
-    "number": "155",
+    "number": 155,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -2958,7 +2958,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/156_ENG.png",
     "is_new": false,
     "name": "Frenzied Stabbing",
-    "number": "156",
+    "number": 156,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -2977,7 +2977,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/157_ENG.png",
     "is_new": false,
     "name": "Heightened Caution",
-    "number": "157",
+    "number": 157,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -2996,7 +2996,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/158_ENG.png",
     "is_new": false,
     "name": "Momentary Boldness",
-    "number": "158",
+    "number": 158,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -3015,7 +3015,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/159_ENG.png",
     "is_new": false,
     "name": "Musk of Fear",
-    "number": "159",
+    "number": 159,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -3034,7 +3034,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/160_ENG.png",
     "is_new": false,
     "name": "Nervous Scrabbling",
-    "number": "160",
+    "number": 160,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -3053,7 +3053,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/161_ENG.png",
     "is_new": false,
     "name": "Scratching in the Shadows",
-    "number": "161",
+    "number": 161,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -3072,7 +3072,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/162_ENG.png",
     "is_new": false,
     "name": "Skaven Courage",
-    "number": "162",
+    "number": 162,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -3091,7 +3091,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/163_ENG.png",
     "is_new": false,
     "name": "Sudden Skittering",
-    "number": "163",
+    "number": 163,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -3110,7 +3110,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/164_ENG.png",
     "is_new": false,
     "name": "There Are Always More",
-    "number": "164",
+    "number": 164,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -3129,7 +3129,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/165_ENG.png",
     "is_new": false,
     "name": "Black Hunger",
-    "number": "165",
+    "number": 165,
     "restricted": "Hungering Skaven",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -3148,7 +3148,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/166_ENG.png",
     "is_new": false,
     "name": "Bodyguard for a Price",
-    "number": "166",
+    "number": 166,
     "restricted": "Krrk the Almost-Trusted",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -3167,7 +3167,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/167_ENG.png",
     "is_new": false,
     "name": "Expendable",
-    "number": "167",
+    "number": 167,
     "restricted": "Lurking Skaven, Hungering Skaven, Festering Skaven",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -3186,7 +3186,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/168_ENG.png",
     "is_new": false,
     "name": "Festering Blade",
-    "number": "168",
+    "number": 168,
     "restricted": "Festering Skaven",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -3205,7 +3205,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/169_ENG.png",
     "is_new": false,
     "name": "Flee!",
-    "number": "169",
+    "number": 169,
     "restricted": "Skritch Spiteclaw",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -3224,7 +3224,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/170_ENG.png",
     "is_new": false,
     "name": "Skitter-scurry",
-    "number": "170",
+    "number": 170,
     "restricted": "Skritch Spiteclaw, Krrk the Almost-Trusted",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -3243,7 +3243,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/171_ENG.png",
     "is_new": false,
     "name": "Sneaky Stab-stab",
-    "number": "171",
+    "number": 171,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -3262,7 +3262,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/172_ENG.png",
     "is_new": false,
     "name": "Swarm of Rats",
-    "number": "172",
+    "number": 172,
     "restricted": "Krrk the Almost-Trusted",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -3281,7 +3281,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/173_ENG.png",
     "is_new": false,
     "name": "Throwing Stars",
-    "number": "173",
+    "number": 173,
     "restricted": "Lurking Skaven",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -3300,7 +3300,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/174_ENG.png",
     "is_new": false,
     "name": "Whirling Halberd",
-    "number": "174",
+    "number": 174,
     "restricted": "Skritch Spiteclaw",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -3319,7 +3319,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/175_ENG.png",
     "is_new": false,
     "name": "All the Better to Slay Them",
-    "number": "175",
+    "number": 175,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -3338,7 +3338,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/176_ENG.png",
     "is_new": false,
     "name": "Bane of Champions",
-    "number": "176",
+    "number": 176,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -3357,7 +3357,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/177_ENG.png",
     "is_new": false,
     "name": "Bloody Annihilation",
-    "number": "177",
+    "number": 177,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -3376,7 +3376,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/178_ENG.png",
     "is_new": false,
     "name": "Khorne Sees Us",
-    "number": "178",
+    "number": 178,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -3395,7 +3395,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/179_ENG.png",
     "is_new": false,
     "name": "Kill! Kill Again!",
-    "number": "179",
+    "number": 179,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -3414,7 +3414,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/180_ENG.png",
     "is_new": false,
     "name": "No Escape",
-    "number": "180",
+    "number": 180,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -3433,7 +3433,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/181_ENG.png",
     "is_new": false,
     "name": "Rivers of Blood",
-    "number": "181",
+    "number": 181,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -3452,7 +3452,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/182_ENG.png",
     "is_new": false,
     "name": "Save the Best",
-    "number": "182",
+    "number": 182,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -3471,7 +3471,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/183_ENG.png",
     "is_new": false,
     "name": "Show of Strength",
-    "number": "183",
+    "number": 183,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -3490,7 +3490,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/184_ENG.png",
     "is_new": false,
     "name": "Blood Frenzy",
-    "number": "184",
+    "number": 184,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -3509,7 +3509,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/185_ENG.png",
     "is_new": false,
     "name": "Bloodslick Ground",
-    "number": "185",
+    "number": 185,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -3528,7 +3528,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/186_ENG.png",
     "is_new": false,
     "name": "Bloody Retribution",
-    "number": "186",
+    "number": 186,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -3547,7 +3547,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/187_ENG.png",
     "is_new": false,
     "name": "Continue the Slaughter",
-    "number": "187",
+    "number": 187,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -3566,7 +3566,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/188_ENG.png",
     "is_new": false,
     "name": "Daemonic Resilience",
-    "number": "188",
+    "number": 188,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -3585,7 +3585,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/189_ENG.png",
     "is_new": false,
     "name": "Fountain of Gore",
-    "number": "189",
+    "number": 189,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -3604,7 +3604,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/190_ENG.png",
     "is_new": false,
     "name": "Furious Inspiration",
-    "number": "190",
+    "number": 190,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -3623,7 +3623,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/191_ENG.png",
     "is_new": false,
     "name": "Glory to Khorne",
-    "number": "191",
+    "number": 191,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -3642,7 +3642,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/192_ENG.png",
     "is_new": false,
     "name": "Horrifying Howl",
-    "number": "192",
+    "number": 192,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -3661,7 +3661,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/193_ENG.png",
     "is_new": false,
     "name": "To the Victor, the Spoils",
-    "number": "193",
+    "number": 193,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -3680,7 +3680,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/194_ENG.png",
     "is_new": false,
     "name": "Brutal Charge",
-    "number": "194",
+    "number": 194,
     "restricted": "Magore Redhand, Ghartok Flayskull, Zharkus the Bloodsighted",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -3699,7 +3699,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/195_ENG.png",
     "is_new": false,
     "name": "Daemonic Maw",
-    "number": "195",
+    "number": 195,
     "restricted": "Magore Redhand",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -3718,7 +3718,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/196_ENG.png",
     "is_new": false,
     "name": "Furious Charge",
-    "number": "196",
+    "number": 196,
     "restricted": "Zharkus the Bloodsighted",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -3737,7 +3737,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/197_ENG.png",
     "is_new": false,
     "name": "No Respite",
-    "number": "197",
+    "number": 197,
     "restricted": "Magore Redhand, Ghartok Flayskull, Zharkus the Bloodsighted",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -3756,7 +3756,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/198_ENG.png",
     "is_new": false,
     "name": "Predatory Leap",
-    "number": "198",
+    "number": 198,
     "restricted": "Riptooth the Flesh Hound",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -3775,7 +3775,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/199_ENG.png",
     "is_new": false,
     "name": "Rage-fuelled Attacks",
-    "number": "199",
+    "number": 199,
     "restricted": "Zharkus the Bloodsighted",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -3794,7 +3794,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/200_ENG.png",
     "is_new": false,
     "name": "Shake About",
-    "number": "200",
+    "number": 200,
     "restricted": "Riptooth the Flesh Hound",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -3813,7 +3813,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/201_ENG.png",
     "is_new": false,
     "name": "Trophy Hunter",
-    "number": "201",
+    "number": 201,
     "restricted": "Magore Redhand",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -3832,7 +3832,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/202_ENG.png",
     "is_new": false,
     "name": "Unshakeable",
-    "number": "202",
+    "number": 202,
     "restricted": "Riptooth the Flesh Hound",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -3851,7 +3851,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/203_ENG.png",
     "is_new": false,
     "name": "Wrathful Blows",
-    "number": "203",
+    "number": 203,
     "restricted": "Ghartok Flayskull",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -3870,7 +3870,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/204_ENG.png",
     "is_new": false,
     "name": "Behead the Beast",
-    "number": "204",
+    "number": 204,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -3889,7 +3889,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/205_ENG.png",
     "is_new": false,
     "name": "Brave but Cautious",
-    "number": "205",
+    "number": 205,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -3908,7 +3908,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/206_ENG.png",
     "is_new": false,
     "name": "Close with the Enemy",
-    "number": "206",
+    "number": 206,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -3927,7 +3927,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/207_ENG.png",
     "is_new": false,
     "name": "Eternal Supremacy",
-    "number": "207",
+    "number": 207,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -3946,7 +3946,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/208_ENG.png",
     "is_new": false,
     "name": "Lightning Advance",
-    "number": "208",
+    "number": 208,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -3965,7 +3965,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/209_ENG.png",
     "is_new": false,
     "name": "Meticulous Annihilation",
-    "number": "209",
+    "number": 209,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -3984,7 +3984,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/210_ENG.png",
     "is_new": false,
     "name": "Punishing Volleys",
-    "number": "210",
+    "number": 210,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -4003,7 +4003,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/211_ENG.png",
     "is_new": false,
     "name": "Ranger Strike",
-    "number": "211",
+    "number": 211,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -4022,7 +4022,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/212_ENG.png",
     "is_new": false,
     "name": "Sigmar's Finest",
-    "number": "212",
+    "number": 212,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -4041,7 +4041,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/213_ENG.png",
     "is_new": false,
     "name": "Fearsome Roar",
-    "number": "213",
+    "number": 213,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -4060,7 +4060,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/214_ENG.png",
     "is_new": false,
     "name": "Firm Footing",
-    "number": "214",
+    "number": 214,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -4079,7 +4079,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/215_ENG.png",
     "is_new": false,
     "name": "Lightning Blow",
-    "number": "215",
+    "number": 215,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -4098,7 +4098,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/216_ENG.png",
     "is_new": false,
     "name": "Lightning Stride",
-    "number": "216",
+    "number": 216,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -4117,7 +4117,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/217_ENG.png",
     "is_new": false,
     "name": "Patient Defence",
-    "number": "217",
+    "number": 217,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -4136,7 +4136,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/218_ENG.png",
     "is_new": false,
     "name": "Rangers, Advance",
-    "number": "218",
+    "number": 218,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -4155,7 +4155,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/219_ENG.png",
     "is_new": false,
     "name": "Rapid Volley",
-    "number": "219",
+    "number": 219,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -4174,7 +4174,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/220_ENG.png",
     "is_new": false,
     "name": "Retribution",
-    "number": "220",
+    "number": 220,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -4193,7 +4193,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/221_ENG.png",
     "is_new": false,
     "name": "Steady Volley",
-    "number": "221",
+    "number": 221,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -4212,7 +4212,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/222_ENG.png",
     "is_new": false,
     "name": "Warning Cry",
-    "number": "222",
+    "number": 222,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -4231,7 +4231,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/223_ENG.png",
     "is_new": false,
     "name": "Aetheric Step",
-    "number": "223",
+    "number": 223,
     "restricted": "Sanson Farstrider",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -4250,7 +4250,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/224_ENG.png",
     "is_new": false,
     "name": "Covering Fire",
-    "number": "224",
+    "number": 224,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -4269,7 +4269,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/225_ENG.png",
     "is_new": false,
     "name": "Flashing Handaxe",
-    "number": "225",
+    "number": 225,
     "restricted": "Sanson Farstrider",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -4288,7 +4288,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/226_ENG.png",
     "is_new": false,
     "name": "Furious Blow",
-    "number": "226",
+    "number": 226,
     "restricted": "Almeric Eagle-Eye",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -4307,7 +4307,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/227_ENG.png",
     "is_new": false,
     "name": "Lone Warrior",
-    "number": "227",
+    "number": 227,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -4326,7 +4326,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/228_ENG.png",
     "is_new": false,
     "name": "Overcharged Boltstorm Pistol",
-    "number": "228",
+    "number": 228,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -4345,7 +4345,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/229_ENG.png",
     "is_new": false,
     "name": "Sharp Eyes",
-    "number": "229",
+    "number": 229,
     "restricted": "Almeric Eagle-Eye",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -4364,7 +4364,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/230_ENG.png",
     "is_new": false,
     "name": "Spinning Strike",
-    "number": "230",
+    "number": 230,
     "restricted": "Elias Swiftblade",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -4383,7 +4383,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/231_ENG.png",
     "is_new": false,
     "name": "Swift Stride",
-    "number": "231",
+    "number": 231,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -4402,7 +4402,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/232_ENG.png",
     "is_new": false,
     "name": "Well-timed Lunge",
-    "number": "232",
+    "number": 232,
     "restricted": "Elias Swiftblade",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -4421,7 +4421,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/233_ENG.png",
     "is_new": false,
     "name": "Accept Inevitability",
-    "number": "233",
+    "number": 233,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -4440,7 +4440,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/234_ENG.png",
     "is_new": false,
     "name": "Advancing Strike",
-    "number": "234",
+    "number": 234,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -4459,7 +4459,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/235_ENG.png",
     "is_new": false,
     "name": "Alone in the Darkness",
-    "number": "235",
+    "number": 235,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -4478,7 +4478,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/236_ENG-Anihilation.png",
     "is_new": false,
     "name": "Annihilation",
-    "number": "236",
+    "number": 236,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -4497,7 +4497,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/237_ENG.png",
     "is_new": false,
     "name": "Assassinate",
-    "number": "237",
+    "number": 237,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -4516,7 +4516,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/238_ENG.png",
     "is_new": false,
     "name": "Balance of Power",
-    "number": "238",
+    "number": 238,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -4535,7 +4535,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/239_ENG-Blooded.png",
     "is_new": false,
     "name": "Blooded",
-    "number": "239",
+    "number": 239,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -4554,7 +4554,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/240_ENG-Bloodless.png",
     "is_new": false,
     "name": "Bloodless",
-    "number": "240",
+    "number": 240,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -4573,7 +4573,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/241_ENG-Brawl.png",
     "is_new": false,
     "name": "Brawl",
-    "number": "241",
+    "number": 241,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -4592,7 +4592,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/242_ENG.png",
     "is_new": false,
     "name": "Butchery",
-    "number": "242",
+    "number": 242,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -4611,7 +4611,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/243_ENG.png",
     "is_new": false,
     "name": "Change of Tactics",
-    "number": "243",
+    "number": 243,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -4630,7 +4630,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/244_ENG.png",
     "is_new": false,
     "name": "Chosen Champion",
-    "number": "244",
+    "number": 244,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -4649,7 +4649,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/245_ENG.png",
     "is_new": false,
     "name": "Complete Victory",
-    "number": "245",
+    "number": 245,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -4668,7 +4668,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/246_ENG.png",
     "is_new": false,
     "name": "Concerted Attack",
-    "number": "246",
+    "number": 246,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -4687,7 +4687,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/247_ENG-Conquest.png",
     "is_new": false,
     "name": "Conquest",
-    "number": "247",
+    "number": 247,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -4706,7 +4706,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/248_ENG-Contained.png",
     "is_new": false,
     "name": "Contained",
-    "number": "248",
+    "number": 248,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -4725,7 +4725,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/249_ENG.png",
     "is_new": false,
     "name": "Cover Ground",
-    "number": "249",
+    "number": 249,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -4744,7 +4744,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/250_ENG-Crushing-Force.png",
     "is_new": false,
     "name": "Crushing Force",
-    "number": "250",
+    "number": 250,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -4763,7 +4763,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/251_ENG.png",
     "is_new": false,
     "name": "Dauntless",
-    "number": "251",
+    "number": 251,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -4782,7 +4782,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/252_ENG.png",
     "is_new": false,
     "name": "Defensive Strike",
-    "number": "252",
+    "number": 252,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -4801,7 +4801,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/253_ENG-Denial.png",
     "is_new": false,
     "name": "Denial",
-    "number": "253",
+    "number": 253,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -4820,7 +4820,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/254_ENG-Determined-Defender.png",
     "is_new": false,
     "name": "Determined Defender",
-    "number": "254",
+    "number": 254,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -4839,7 +4839,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/255_ENG-Divide-and-Conquer.png",
     "is_new": false,
     "name": "Divide and Conquer",
-    "number": "255",
+    "number": 255,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -4858,7 +4858,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/256_ENG-Endless-Slaughter.png",
     "is_new": false,
     "name": "Endless Slaughter",
-    "number": "256",
+    "number": 256,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -4877,7 +4877,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/257_ENG.png",
     "is_new": false,
     "name": "Escalation",
-    "number": "257",
+    "number": 257,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -4896,7 +4896,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/258_ENG.png",
     "is_new": false,
     "name": "Fearless",
-    "number": "258",
+    "number": 258,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -4915,7 +4915,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/259_ENG-Flawless-Strategy.png",
     "is_new": false,
     "name": "Flawless Strategy",
-    "number": "259",
+    "number": 259,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -4934,7 +4934,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/260_ENG-Geared-for-War.png",
     "is_new": false,
     "name": "Geared for War",
-    "number": "260",
+    "number": 260,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -4953,7 +4953,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/261_ENG.png",
     "is_new": false,
     "name": "Heroes All",
-    "number": "261",
+    "number": 261,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -4972,7 +4972,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/262_ENG.png",
     "is_new": false,
     "name": "Heroic Feat",
-    "number": "262",
+    "number": 262,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -4991,7 +4991,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/263_ENG-Hold-Objective-1.png",
     "is_new": false,
     "name": "Hold Objective 1",
-    "number": "263",
+    "number": 263,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -5010,7 +5010,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/264_ENG-Hold-Objective-2.png",
     "is_new": false,
     "name": "Hold Objective 2",
-    "number": "264",
+    "number": 264,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -5029,7 +5029,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/265_ENG-Hold-Objective-3.png",
     "is_new": false,
     "name": "Hold Objective 3",
-    "number": "265",
+    "number": 265,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -5048,7 +5048,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/266_ENG-Hold-Objective-4.png",
     "is_new": false,
     "name": "Hold Objective 4",
-    "number": "266",
+    "number": 266,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -5067,7 +5067,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/267_ENG-Hold-Objective-5.png",
     "is_new": false,
     "name": "Hold Objective 5",
-    "number": "267",
+    "number": 267,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -5086,7 +5086,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/268_ENG.png",
     "is_new": false,
     "name": "Honest Opponent",
-    "number": "268",
+    "number": 268,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -5105,7 +5105,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/269_ENG.png",
     "is_new": false,
     "name": "Killing Ground",
-    "number": "269",
+    "number": 269,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -5124,7 +5124,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/270_ENG.png",
     "is_new": false,
     "name": "Making a Statement",
-    "number": "270",
+    "number": 270,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -5143,7 +5143,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/271_ENG.png",
     "is_new": false,
     "name": "Massive Assault",
-    "number": "271",
+    "number": 271,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -5162,7 +5162,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/272_ENG.png",
     "is_new": false,
     "name": "Master of War",
-    "number": "272",
+    "number": 272,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -5181,7 +5181,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/273_ENG.png",
     "is_new": false,
     "name": "Masterstroke",
-    "number": "273",
+    "number": 273,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -5200,7 +5200,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/274_ENG.png",
     "is_new": false,
     "name": "Miraculous Escape",
-    "number": "274",
+    "number": 274,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -5219,7 +5219,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/275_ENG.png",
     "is_new": false,
     "name": "Multiple Fronts",
-    "number": "275",
+    "number": 275,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -5238,7 +5238,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/276_ENG.png",
     "is_new": false,
     "name": "No More Tricks",
-    "number": "276",
+    "number": 276,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -5257,7 +5257,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/277_ENG.png",
     "is_new": false,
     "name": "No Remorse",
-    "number": "277",
+    "number": 277,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -5276,7 +5276,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/278_ENG.png",
     "is_new": false,
     "name": "Our Only Way Out",
-    "number": "278",
+    "number": 278,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -5295,7 +5295,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/279_ENG.png",
     "is_new": false,
     "name": "Overextended",
-    "number": "279",
+    "number": 279,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -5314,7 +5314,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/280_ENG.png",
     "is_new": false,
     "name": "Perfect Planning",
-    "number": "280",
+    "number": 280,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -5333,7 +5333,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/281_ENG-Plant-a-Standard.png",
     "is_new": false,
     "name": "Plant a Standard",
-    "number": "281",
+    "number": 281,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -5352,7 +5352,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/282_ENG-Ploymaster.png",
     "is_new": false,
     "name": "Ploymaster",
-    "number": "282",
+    "number": 282,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -5371,7 +5371,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/283_ENG.png",
     "is_new": false,
     "name": "Poised to Strike",
-    "number": "283",
+    "number": 283,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -5390,7 +5390,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/284_ENG.png",
     "is_new": false,
     "name": "Precise Use of Force",
-    "number": "284",
+    "number": 284,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -5409,7 +5409,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/285_ENG.png",
     "is_new": false,
     "name": "Pure Carnage",
-    "number": "285",
+    "number": 285,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -5428,7 +5428,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/286_ENG.png",
     "is_new": false,
     "name": "Ready for a Challenge",
-    "number": "286",
+    "number": 286,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -5447,7 +5447,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/287_ENG-Reaper.png",
     "is_new": false,
     "name": "Reaper",
-    "number": "287",
+    "number": 287,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -5466,7 +5466,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/288_ENG-Scent-of-Victory.png",
     "is_new": false,
     "name": "Scent of Victory",
-    "number": "288",
+    "number": 288,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -5485,7 +5485,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/289_ENG.png",
     "is_new": false,
     "name": "Skirting Danger",
-    "number": "289",
+    "number": 289,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -5504,7 +5504,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/290_ENG-Stymied.png",
     "is_new": false,
     "name": "Stymied",
-    "number": "290",
+    "number": 290,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -5523,7 +5523,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/291_ENG-Superior-Tactician.png",
     "is_new": false,
     "name": "Superior Tactician",
-    "number": "291",
+    "number": 291,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -5542,7 +5542,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/292_ENG-Supremacy.png",
     "is_new": false,
     "name": "Supremacy",
-    "number": "292",
+    "number": 292,
     "restricted": "-",
     "set": "Core set",
     "type": "Objective"
@@ -5561,7 +5561,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/293_ENG-Swift-Advance.png",
     "is_new": false,
     "name": "Swift Advance",
-    "number": "293",
+    "number": 293,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -5580,7 +5580,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/294_ENG.png",
     "is_new": false,
     "name": "Tactical Genius 1-3",
-    "number": "294",
+    "number": 294,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -5599,7 +5599,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/295_ENG.png",
     "is_new": false,
     "name": "Tactical Genius 3-5",
-    "number": "295",
+    "number": 295,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -5618,7 +5618,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/296_ENG-Tactical-Supremacy-1-2.png",
     "is_new": false,
     "name": "Tactical Supremacy 1-2",
-    "number": "296",
+    "number": 296,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -5637,7 +5637,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/297_ENG-Tactical-Supremacy-3-4.png",
     "is_new": false,
     "name": "Tactical Supremacy 3-4",
-    "number": "297",
+    "number": 297,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -5656,7 +5656,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/298_ENG.png",
     "is_new": false,
     "name": "The Bigger They Are",
-    "number": "298",
+    "number": 298,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Objective"
@@ -5675,7 +5675,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/299_ENG-The-Harvest-Begins.png",
     "is_new": false,
     "name": "The Harvest Begins",
-    "number": "299",
+    "number": 299,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Objective"
@@ -5694,7 +5694,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/300_ENG.png",
     "is_new": false,
     "name": "Total Annihilation",
-    "number": "300",
+    "number": 300,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -5713,7 +5713,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/301_ENG.png",
     "is_new": false,
     "name": "Trapped",
-    "number": "301",
+    "number": 301,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -5732,7 +5732,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/302_ENG-Twilight-Conqueror.png",
     "is_new": false,
     "name": "Twilight Conqueror",
-    "number": "302",
+    "number": 302,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -5751,7 +5751,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/303_ENG.png",
     "is_new": false,
     "name": "Unbroken Wall",
-    "number": "303",
+    "number": 303,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Objective"
@@ -5770,7 +5770,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/304_ENG.png",
     "is_new": false,
     "name": "Unstoppable",
-    "number": "304",
+    "number": 304,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Objective"
@@ -5789,7 +5789,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/305_ENG-Victorious-Duel.png",
     "is_new": false,
     "name": "Victorious Duel",
-    "number": "305",
+    "number": 305,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Objective"
@@ -5808,7 +5808,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/306_ENG.png",
     "is_new": false,
     "name": "Victory After Victory",
-    "number": "306",
+    "number": 306,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -5827,7 +5827,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/307_ENG.png",
     "is_new": false,
     "name": "War of Attrition",
-    "number": "307",
+    "number": 307,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Objective"
@@ -5846,7 +5846,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/308_ENG-Anticipation.png",
     "is_new": false,
     "name": "Anticipation",
-    "number": "308",
+    "number": 308,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -5865,7 +5865,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/309_ENG.png",
     "is_new": false,
     "name": "Blinding Flash",
-    "number": "309",
+    "number": 309,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -5884,7 +5884,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/310_ENG.png",
     "is_new": false,
     "name": "Confused Priorities",
-    "number": "310",
+    "number": 310,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -5903,7 +5903,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/311_ENG-Confusion.png",
     "is_new": false,
     "name": "Confusion",
-    "number": "311",
+    "number": 311,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -5922,7 +5922,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/312_ENG-Cruel-Taunt.png",
     "is_new": false,
     "name": "Cruel Taunt",
-    "number": "312",
+    "number": 312,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -5941,7 +5941,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/313_ENG.png",
     "is_new": false,
     "name": "Curious Inversion",
-    "number": "313",
+    "number": 313,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -5960,7 +5960,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/314_ENG.png",
     "is_new": false,
     "name": "Darkness Descends",
-    "number": "314",
+    "number": 314,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -5979,7 +5979,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/315_ENG-Daylight-Robbery.png",
     "is_new": false,
     "name": "Daylight Robbery",
-    "number": "315",
+    "number": 315,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -5998,7 +5998,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/316_ENG.png",
     "is_new": false,
     "name": "Death Throes",
-    "number": "316",
+    "number": 316,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -6017,7 +6017,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/317_ENG.png",
     "is_new": false,
     "name": "Desperate Gambit",
-    "number": "317",
+    "number": 317,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -6036,7 +6036,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/318_ENG-Distraction.png",
     "is_new": false,
     "name": "Distraction",
-    "number": "318",
+    "number": 318,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -6055,7 +6055,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/319_ENG-Dual-Strike.png",
     "is_new": false,
     "name": "Dual Strike",
-    "number": "319",
+    "number": 319,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -6074,7 +6074,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/320_ENG-Duel-of-Wits.png",
     "is_new": false,
     "name": "Duel of Wits",
-    "number": "320",
+    "number": 320,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -6093,7 +6093,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/321_ENG.png",
     "is_new": false,
     "name": "Earthquake",
-    "number": "321",
+    "number": 321,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -6112,7 +6112,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/322_ENG.png",
     "is_new": false,
     "name": "Ephemeral Shield",
-    "number": "322",
+    "number": 322,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -6131,7 +6131,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/323_ENG.png",
     "is_new": false,
     "name": "Flickering Step",
-    "number": "323",
+    "number": 323,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -6150,7 +6150,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/324_ENG-Forceful-Denial.png",
     "is_new": false,
     "name": "Forceful Denial",
-    "number": "324",
+    "number": 324,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -6169,7 +6169,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/325_ENG-Fortify.png",
     "is_new": false,
     "name": "Fortify",
-    "number": "325",
+    "number": 325,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -6188,7 +6188,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/326_ENG.png",
     "is_new": false,
     "name": "Frozen in Time",
-    "number": "326",
+    "number": 326,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -6207,7 +6207,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/327_ENG.png",
     "is_new": false,
     "name": "Fuelled by Fury",
-    "number": "327",
+    "number": 327,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -6226,7 +6226,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/328_ENG.png",
     "is_new": false,
     "name": "Grapple",
-    "number": "328",
+    "number": 328,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -6245,7 +6245,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/329_ENG.png",
     "is_new": false,
     "name": "Great Concussion",
-    "number": "329",
+    "number": 329,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -6264,7 +6264,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/330_ENG-Healing-Potion.png",
     "is_new": false,
     "name": "Healing Potion",
-    "number": "330",
+    "number": 330,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -6283,7 +6283,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/331_ENG.png",
     "is_new": false,
     "name": "Hidden Paths",
-    "number": "331",
+    "number": 331,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -6302,7 +6302,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/332_ENG-Illusory-Fighter.png",
     "is_new": false,
     "name": "Illusory Fighter",
-    "number": "332",
+    "number": 332,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -6321,7 +6321,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/333_ENG.png",
     "is_new": false,
     "name": "Improvisation",
-    "number": "333",
+    "number": 333,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -6340,7 +6340,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/334_ENG.png",
     "is_new": false,
     "name": "Inspiration Strikes",
-    "number": "334",
+    "number": 334,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -6359,7 +6359,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/335_ENG.png",
     "is_new": false,
     "name": "Invisible Walls",
-    "number": "335",
+    "number": 335,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -6378,7 +6378,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/336_ENG.png",
     "is_new": false,
     "name": "Last Chance",
-    "number": "336",
+    "number": 336,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -6397,7 +6397,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/337_ENG.png",
     "is_new": false,
     "name": "Legacy",
-    "number": "337",
+    "number": 337,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -6416,7 +6416,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/338_ENG.png",
     "is_new": false,
     "name": "Lethal Strike",
-    "number": "338",
+    "number": 338,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -6435,7 +6435,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/339_ENG-Mighty-Swing.png",
     "is_new": false,
     "name": "Mighty Swing",
-    "number": "339",
+    "number": 339,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -6454,7 +6454,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/340_ENG.png",
     "is_new": false,
     "name": "Mischievous Spirits",
-    "number": "340",
+    "number": 340,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -6473,7 +6473,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/341_ENG-Misdirection.png",
     "is_new": false,
     "name": "Misdirection",
-    "number": "341",
+    "number": 341,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -6492,7 +6492,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/342_ENG.png",
     "is_new": false,
     "name": "Momentary Madness",
-    "number": "342",
+    "number": 342,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -6511,7 +6511,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/343_ENG.png",
     "is_new": false,
     "name": "My Turn",
-    "number": "343",
+    "number": 343,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -6530,7 +6530,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/344_ENG.png",
     "is_new": false,
     "name": "No Time",
-    "number": "344",
+    "number": 344,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -6549,7 +6549,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/345_ENG-On-Your-Feet.png",
     "is_new": false,
     "name": "On Your Feet",
-    "number": "345",
+    "number": 345,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -6568,7 +6568,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/346_ENG-Parry.png",
     "is_new": false,
     "name": "Parry",
-    "number": "346",
+    "number": 346,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -6587,7 +6587,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/347_ENG.png",
     "is_new": false,
     "name": "Quick Thinker",
-    "number": "347",
+    "number": 347,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -6606,7 +6606,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/348_ENG.png",
     "is_new": false,
     "name": "Ready for Action",
-    "number": "348",
+    "number": 348,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -6625,7 +6625,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/349_ENG.png",
     "is_new": false,
     "name": "Rebound",
-    "number": "349",
+    "number": 349,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -6644,7 +6644,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/350_ENG.png",
     "is_new": false,
     "name": "Reflected Injury",
-    "number": "350",
+    "number": 350,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -6663,7 +6663,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/351_ENG.png",
     "is_new": false,
     "name": "Rethink Strategy",
-    "number": "351",
+    "number": 351,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -6682,7 +6682,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/352_ENG.png",
     "is_new": false,
     "name": "Sacrificial Pawn",
-    "number": "352",
+    "number": 352,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -6701,7 +6701,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/353_ENG-Scavenge.png",
     "is_new": false,
     "name": "Scavenge",
-    "number": "353",
+    "number": 353,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -6720,7 +6720,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/354_ENG.png",
     "is_new": false,
     "name": "Second Wind",
-    "number": "354",
+    "number": 354,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -6739,7 +6739,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/355_ENG-Shardfall.png",
     "is_new": false,
     "name": "Shardfall",
-    "number": "355",
+    "number": 355,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -6758,7 +6758,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/356_ENG.png",
     "is_new": false,
     "name": "Shardgale",
-    "number": "356",
+    "number": 356,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -6777,7 +6777,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/357_ENG-Shattering-Terrain.png",
     "is_new": false,
     "name": "Shattering Terrain",
-    "number": "357",
+    "number": 357,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -6796,7 +6796,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/358_ENG.png",
     "is_new": false,
     "name": "Shattershard",
-    "number": "358",
+    "number": 358,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -6815,7 +6815,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/359_ENG-Shifting-Shards.png",
     "is_new": false,
     "name": "Shifting Shards",
-    "number": "359",
+    "number": 359,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Ploy"
@@ -6834,7 +6834,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/360_ENG-Sidestep.png",
     "is_new": false,
     "name": "Sidestep",
-    "number": "360",
+    "number": 360,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -6853,7 +6853,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/361_ENG.png",
     "is_new": false,
     "name": "Spectral Wings",
-    "number": "361",
+    "number": 361,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -6872,7 +6872,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/362_ENG.png",
     "is_new": false,
     "name": "Spoils of Battle",
-    "number": "362",
+    "number": 362,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Ploy"
@@ -6891,7 +6891,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/363_ENG-Sprint.png",
     "is_new": false,
     "name": "Sprint",
-    "number": "363",
+    "number": 363,
     "restricted": "-",
     "set": "Core set",
     "type": "Ploy"
@@ -6910,7 +6910,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/364_ENG-Stumble.png",
     "is_new": false,
     "name": "Stumble",
-    "number": "364",
+    "number": 364,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -6929,7 +6929,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/365_ENG.png",
     "is_new": false,
     "name": "Tainted Vitality",
-    "number": "365",
+    "number": 365,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -6948,7 +6948,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/366_ENG.png",
     "is_new": false,
     "name": "Tantalising Prize",
-    "number": "366",
+    "number": 366,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -6967,7 +6967,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/367_ENG.png",
     "is_new": false,
     "name": "Teamwork",
-    "number": "367",
+    "number": 367,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Ploy"
@@ -6986,7 +6986,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/368_ENG-Time-Trap.png",
     "is_new": false,
     "name": "Time Trap",
-    "number": "368",
+    "number": 368,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -7005,7 +7005,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/369_ENG.png",
     "is_new": false,
     "name": "Trap",
-    "number": "369",
+    "number": 369,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Ploy"
@@ -7024,7 +7024,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/370_ENG-Triumphant-Roar.png",
     "is_new": false,
     "name": "Triumphant Roar",
-    "number": "370",
+    "number": 370,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -7043,7 +7043,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/371_ENG-Trust-to-Luck.png",
     "is_new": false,
     "name": "Trust to Luck",
-    "number": "371",
+    "number": 371,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Ploy"
@@ -7062,7 +7062,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/372_ENG.png",
     "is_new": false,
     "name": "Twist the Knife",
-    "number": "372",
+    "number": 372,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Ploy"
@@ -7081,7 +7081,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/373_ENG.png",
     "is_new": false,
     "name": "A Destiny to Meet",
-    "number": "373",
+    "number": 373,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -7100,7 +7100,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/374_ENG.png",
     "is_new": false,
     "name": "Acrobatic",
-    "number": "374",
+    "number": 374,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -7119,7 +7119,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/375_ENG-Army-of-One.png",
     "is_new": false,
     "name": "Army of One",
-    "number": "375",
+    "number": 375,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -7138,7 +7138,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/376_ENG.png",
     "is_new": false,
     "name": "Awakened Weapon",
-    "number": "376",
+    "number": 376,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -7157,7 +7157,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/377_ENG-Blessed-Armour.png",
     "is_new": false,
     "name": "Blessed Armour",
-    "number": "377",
+    "number": 377,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -7176,7 +7176,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/378_ENG.png",
     "is_new": false,
     "name": "Concealed Weapon",
-    "number": "378",
+    "number": 378,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -7195,7 +7195,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/379_ENG-Coordinated-Attack.png",
     "is_new": false,
     "name": "Coordinated Attack",
-    "number": "379",
+    "number": 379,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -7214,7 +7214,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/380_ENG-Cunning-Duellist.png",
     "is_new": false,
     "name": "Cunning Duellist",
-    "number": "380",
+    "number": 380,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -7233,7 +7233,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/381_ENG-Cursed-Artefact.png",
     "is_new": false,
     "name": "Cursed Artefact",
-    "number": "381",
+    "number": 381,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -7252,7 +7252,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/382_ENG-Daemonic-Weapon.png",
     "is_new": false,
     "name": "Daemonic Weapon",
-    "number": "382",
+    "number": 382,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -7271,7 +7271,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/383_ENG.png",
     "is_new": false,
     "name": "Dark Darts",
-    "number": "383",
+    "number": 383,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -7290,7 +7290,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/384_ENG.png",
     "is_new": false,
     "name": "Deathly Fortune",
-    "number": "384",
+    "number": 384,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -7309,7 +7309,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/385_ENG-Disengage.png",
     "is_new": false,
     "name": "Disengage",
-    "number": "385",
+    "number": 385,
     "restricted": "-",
     "set": "Core set",
     "type": "Upgrade"
@@ -7328,7 +7328,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/386_ENG.png",
     "is_new": false,
     "name": "Ethereal Shield",
-    "number": "386",
+    "number": 386,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -7347,7 +7347,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/387_ENG-Flickering-Image.png",
     "is_new": false,
     "name": "Flickering Image",
-    "number": "387",
+    "number": 387,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -7366,7 +7366,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/388_ENG.png",
     "is_new": false,
     "name": "Ghostblade",
-    "number": "388",
+    "number": 388,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -7385,7 +7385,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/389_ENG-Great-Fortitude.png",
     "is_new": false,
     "name": "Great Fortitude",
-    "number": "389",
+    "number": 389,
     "restricted": "-",
     "set": "Core set",
     "type": "Upgrade"
@@ -7404,7 +7404,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/390_ENG-Great-Speed.png",
     "is_new": false,
     "name": "Great Speed",
-    "number": "390",
+    "number": 390,
     "restricted": "-",
     "set": "Core set",
     "type": "Upgrade"
@@ -7423,7 +7423,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/391_ENG-Great-Strength.png",
     "is_new": false,
     "name": "Great Strength",
-    "number": "391",
+    "number": 391,
     "restricted": "-",
     "set": "Core set",
     "type": "Upgrade"
@@ -7442,7 +7442,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/392_ENG.png",
     "is_new": false,
     "name": "Headlong Charge",
-    "number": "392",
+    "number": 392,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -7461,7 +7461,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/393_ENG-Helpful-Whispers.png",
     "is_new": false,
     "name": "Helpful Whispers",
-    "number": "393",
+    "number": 393,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -7480,7 +7480,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/394_ENG.png",
     "is_new": false,
     "name": "Heroslayer",
-    "number": "394",
+    "number": 394,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -7499,7 +7499,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/395_ENG.png",
     "is_new": false,
     "name": "Incredible Strength",
-    "number": "395",
+    "number": 395,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -7518,7 +7518,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/396_ENG-Katophranes-Belt-Relic.png",
     "is_new": false,
     "name": "Katophrane's Belt [Relic]",
-    "number": "396",
+    "number": 396,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -7537,7 +7537,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/397_ENG.png",
     "is_new": false,
     "name": "Katophrane's Boots [Relic]",
-    "number": "397",
+    "number": 397,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -7556,7 +7556,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/398_ENG.png",
     "is_new": false,
     "name": "Katophrane's Gloves [Relic]",
-    "number": "398",
+    "number": 398,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -7575,7 +7575,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/399_ENG.png",
     "is_new": false,
     "name": "Katophrane's Hood [Relic]",
-    "number": "399",
+    "number": 399,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -7594,7 +7594,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/400_ENG.png",
     "is_new": false,
     "name": "Katophrane's Locket [Relic]",
-    "number": "400",
+    "number": 400,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -7613,7 +7613,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/401_ENG-Katophranes-Plate-Relic.png",
     "is_new": false,
     "name": "Katophrane's Plate [Relic]",
-    "number": "401",
+    "number": 401,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -7632,7 +7632,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/402_ENG-Legendary-Swiftness.png",
     "is_new": false,
     "name": "Legendary Swiftness",
-    "number": "402",
+    "number": 402,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -7651,7 +7651,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/403_ENG.png",
     "is_new": false,
     "name": "Light Armour",
-    "number": "403",
+    "number": 403,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -7670,7 +7670,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/404_ENG.png",
     "is_new": false,
     "name": "Light-footed",
-    "number": "404",
+    "number": 404,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -7689,7 +7689,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/405_ENG-Low-Blow.png",
     "is_new": false,
     "name": "Low Blow",
-    "number": "405",
+    "number": 405,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -7708,7 +7708,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/406_ENG.png",
     "is_new": false,
     "name": "Opportunist",
-    "number": "406",
+    "number": 406,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -7727,7 +7727,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/407_ENG.png",
     "is_new": false,
     "name": "Regeneration",
-    "number": "407",
+    "number": 407,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -7746,7 +7746,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/408_ENG.png",
     "is_new": false,
     "name": "Second-in-command",
-    "number": "408",
+    "number": 408,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -7765,7 +7765,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/409_ENG.png",
     "is_new": false,
     "name": "Shadeglass Axe",
-    "number": "409",
+    "number": 409,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -7784,7 +7784,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/410_ENG.png",
     "is_new": false,
     "name": "Shadeglass Dagger",
-    "number": "410",
+    "number": 410,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -7803,7 +7803,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/411_ENG-Shadeglass-Darts.png",
     "is_new": false,
     "name": "Shadeglass Darts",
-    "number": "411",
+    "number": 411,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -7822,7 +7822,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/412_ENG.png",
     "is_new": false,
     "name": "Shadeglass Hammer",
-    "number": "412",
+    "number": 412,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -7841,7 +7841,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/413_ENG.png",
     "is_new": false,
     "name": "Shadeglass Spear",
-    "number": "413",
+    "number": 413,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -7860,7 +7860,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/414_ENG-Shadeglass-Sword.png",
     "is_new": false,
     "name": "Shadeglass Sword",
-    "number": "414",
+    "number": 414,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -7879,7 +7879,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/415_ENG.png",
     "is_new": false,
     "name": "Shadestep",
-    "number": "415",
+    "number": 415,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -7898,7 +7898,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/416_ENG-Shardcaller.png",
     "is_new": false,
     "name": "Shardcaller",
-    "number": "416",
+    "number": 416,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -7917,7 +7917,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/417_ENG.png",
     "is_new": false,
     "name": "Shifting Image",
-    "number": "417",
+    "number": 417,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -7936,7 +7936,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/418_ENG-Sixth-Sense.png",
     "is_new": false,
     "name": "Sixth Sense",
-    "number": "418",
+    "number": 418,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -7955,7 +7955,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/419_ENG.png",
     "is_new": false,
     "name": "Solid Stance",
-    "number": "419",
+    "number": 419,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -7974,7 +7974,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/420_ENG-Soultrap.png",
     "is_new": false,
     "name": "Soultrap",
-    "number": "420",
+    "number": 420,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -7993,7 +7993,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/421_ENG.png",
     "is_new": false,
     "name": "Sprinter",
-    "number": "421",
+    "number": 421,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -8012,7 +8012,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/422_ENG.png",
     "is_new": false,
     "name": "Superior Agility",
-    "number": "422",
+    "number": 422,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -8031,7 +8031,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/423_ENG-Swift-Strike.png",
     "is_new": false,
     "name": "Swift Strike",
-    "number": "423",
+    "number": 423,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -8050,7 +8050,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/424_ENG.png",
     "is_new": false,
     "name": "Tethered Spirit",
-    "number": "424",
+    "number": 424,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -8069,7 +8069,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/425_ENG.png",
     "is_new": false,
     "name": "The Blazing Key",
-    "number": "425",
+    "number": 425,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -8088,7 +8088,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/426_ENG-The-Dazzling-Key.png",
     "is_new": false,
     "name": "The Dazzling Key",
-    "number": "426",
+    "number": 426,
     "restricted": "-",
     "set": "Sepulchral Guard expansion",
     "type": "Upgrade"
@@ -8107,7 +8107,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/427_ENG.png",
     "is_new": false,
     "name": "The Formless Key",
-    "number": "427",
+    "number": 427,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -8126,7 +8126,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/428_ENG.png",
     "is_new": false,
     "name": "The Fractured Key",
-    "number": "428",
+    "number": 428,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -8145,7 +8145,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/429_ENG.png",
     "is_new": false,
     "name": "The Hallowed Key",
-    "number": "429",
+    "number": 429,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -8164,7 +8164,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/430_ENG-The-Shadowed-Key.png",
     "is_new": false,
     "name": "The Shadowed Key",
-    "number": "430",
+    "number": 430,
     "restricted": "-",
     "set": "Ironskull's Boyz expansion",
     "type": "Upgrade"
@@ -8183,7 +8183,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2017/12/431_ENG-Total-Offence.png",
     "is_new": false,
     "name": "Total Offence",
-    "number": "431",
+    "number": 431,
     "restricted": "-",
     "set": "Core set",
     "type": "Upgrade"
@@ -8202,7 +8202,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/432_ENG.png",
     "is_new": false,
     "name": "Trickster's Charm",
-    "number": "432",
+    "number": 432,
     "restricted": "-",
     "set": "Spiteclaw's Swarm expansion",
     "type": "Upgrade"
@@ -8221,7 +8221,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/433_ENG.png",
     "is_new": false,
     "name": "Trusted Defender",
-    "number": "433",
+    "number": 433,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -8240,7 +8240,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/434_ENG.png",
     "is_new": false,
     "name": "Unparalleled Strike",
-    "number": "434",
+    "number": 434,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -8259,7 +8259,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/02/435_ENG.png",
     "is_new": false,
     "name": "Vampiric Weapon",
-    "number": "435",
+    "number": 435,
     "restricted": "-",
     "set": "The Chosen Axes expansion",
     "type": "Upgrade"
@@ -8278,7 +8278,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/436_ENG.png",
     "is_new": false,
     "name": "War Cry",
-    "number": "436",
+    "number": 436,
     "restricted": "-",
     "set": "Magore's Fiends expansion",
     "type": "Upgrade"
@@ -8297,7 +8297,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/03/437_ENG.png",
     "is_new": false,
     "name": "Zealous Defender",
-    "number": "437",
+    "number": 437,
     "restricted": "-",
     "set": "The Farstriders expansion",
     "type": "Upgrade"
@@ -8316,7 +8316,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L01_ENG-1.png",
     "is_new": true,
     "name": "Invulnerable",
-    "number": "1",
+    "number": 1,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8336,7 +8336,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L02_ENG-1.png",
     "is_new": true,
     "name": "Steelheart's Second",
-    "number": "2",
+    "number": 2,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8356,7 +8356,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L03_ENG.png",
     "is_new": true,
     "name": "The Stage Is Set",
-    "number": "3",
+    "number": 3,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8376,7 +8376,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L04_ENG-1.png",
     "is_new": true,
     "name": "Coveted Trophy",
-    "number": "4",
+    "number": 4,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8396,7 +8396,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L05_ENG.png",
     "is_new": true,
     "name": "Fervent Petition",
-    "number": "5",
+    "number": 5,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8416,7 +8416,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L06_ENG-1.png",
     "is_new": true,
     "name": "Warden's Call",
-    "number": "6",
+    "number": 6,
     "restricted": "The Sepulchral Warden",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8436,7 +8436,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L07_ENG.png",
     "is_new": true,
     "name": "Showin' Off",
-    "number": "7",
+    "number": 7,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8456,7 +8456,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L08_ENG-1.png",
     "is_new": true,
     "name": "Impress da Boss",
-    "number": "8",
+    "number": 8,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8476,7 +8476,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L09_ENG.png",
     "is_new": true,
     "name": "Pride of the Lodge",
-    "number": "9",
+    "number": 9,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8496,7 +8496,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L10_ENG-1.png",
     "is_new": true,
     "name": "Grimnir Commands",
-    "number": "10",
+    "number": 10,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8516,7 +8516,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L11_ENG.png",
     "is_new": true,
     "name": "Krrk Now Leads!",
-    "number": "11",
+    "number": 11,
     "restricted": "Krrk the Almost-Trusted",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8536,7 +8536,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L12_ENG-1.png",
     "is_new": true,
     "name": "Krrk the Clawchief",
-    "number": "12",
+    "number": 12,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8556,7 +8556,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L13_ENG.png",
     "is_new": true,
     "name": "Khorne's Chosen",
-    "number": "13",
+    "number": 13,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8576,7 +8576,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L14_ENG-1.png",
     "is_new": true,
     "name": "Gory Visage",
-    "number": "14",
+    "number": 14,
     "restricted": "Magore Redhand",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8596,7 +8596,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L15_ENG.png",
     "is_new": true,
     "name": "Intervention",
-    "number": "15",
+    "number": 15,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8616,7 +8616,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L16_ENG-1.png",
     "is_new": true,
     "name": "Raptor Strike",
-    "number": "16",
+    "number": 16,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8636,7 +8636,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L17_ENG.png",
     "is_new": true,
     "name": "Bold Advance",
-    "number": "17",
+    "number": 17,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8656,7 +8656,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L18_ENG.png",
     "is_new": true,
     "name": "Drawing Focus",
-    "number": "18",
+    "number": 18,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8676,7 +8676,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L19_ENG.png",
     "is_new": true,
     "name": "Fearless Leader",
-    "number": "19",
+    "number": 19,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8696,7 +8696,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L20_ENG.png",
     "is_new": true,
     "name": "Great Slayer",
-    "number": "20",
+    "number": 20,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8716,7 +8716,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L21_ENG.png",
     "is_new": true,
     "name": "Impervious",
-    "number": "21",
+    "number": 21,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8736,7 +8736,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L22_ENG.png",
     "is_new": true,
     "name": "Linchpin",
-    "number": "22",
+    "number": 22,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8756,7 +8756,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L23_ENG.png",
     "is_new": true,
     "name": "Neutralise",
-    "number": "23",
+    "number": 23,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8776,7 +8776,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L24_ENG.png",
     "is_new": true,
     "name": "Shining Example",
-    "number": "24",
+    "number": 24,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8796,7 +8796,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L25_ENG.png",
     "is_new": true,
     "name": "Slayer",
-    "number": "25",
+    "number": 25,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8816,7 +8816,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L26_ENG.png",
     "is_new": true,
     "name": "Sufficient",
-    "number": "26",
+    "number": 26,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8836,7 +8836,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L27_ENG.png",
     "is_new": true,
     "name": "Tireless Commander",
-    "number": "27",
+    "number": 27,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8856,7 +8856,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L28_ENG.png",
     "is_new": true,
     "name": "Undefeated",
-    "number": "28",
+    "number": 28,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8876,7 +8876,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L29_ENG.png",
     "is_new": true,
     "name": "Well-guarded",
-    "number": "29",
+    "number": 29,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8896,7 +8896,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L30_ENG-1.png",
     "is_new": true,
     "name": "Burden of Command",
-    "number": "30",
+    "number": 30,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8916,7 +8916,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L31_ENG-1.png",
     "is_new": true,
     "name": "Cautious Commander",
-    "number": "31",
+    "number": 31,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8936,7 +8936,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L32_ENG-1.png",
     "is_new": true,
     "name": "Commanding Reach",
-    "number": "32",
+    "number": 32,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8956,7 +8956,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L33_ENG-1.png",
     "is_new": true,
     "name": "Commanding Strike",
-    "number": "33",
+    "number": 33,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8976,7 +8976,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L34_ENG-1.png",
     "is_new": true,
     "name": "Crippling Doubt",
-    "number": "34",
+    "number": 34,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -8996,7 +8996,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L35_ENG-1.png",
     "is_new": true,
     "name": "Final Duty",
-    "number": "35",
+    "number": 35,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9016,7 +9016,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L36_ENG-1.png",
     "is_new": true,
     "name": "Great Cunning",
-    "number": "36",
+    "number": 36,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9036,7 +9036,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L37_ENG-1.png",
     "is_new": true,
     "name": "Hidden Reserves",
-    "number": "37",
+    "number": 37,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9056,7 +9056,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L38_ENG-1.png",
     "is_new": true,
     "name": "Inspired Command",
-    "number": "38",
+    "number": 38,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9076,7 +9076,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L39_ENG-1.png",
     "is_new": true,
     "name": "Look Out!",
-    "number": "39",
+    "number": 39,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9096,7 +9096,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L40_ENG-1.png",
     "is_new": true,
     "name": "No Retreat",
-    "number": "40",
+    "number": 40,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9116,7 +9116,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L41_ENG-1.png",
     "is_new": true,
     "name": "Premonition",
-    "number": "41",
+    "number": 41,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9136,7 +9136,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L42_ENG-1.png",
     "is_new": true,
     "name": "Quick Advance",
-    "number": "42",
+    "number": 42,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9156,7 +9156,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L43_ENG-1.png",
     "is_new": true,
     "name": "Quick Manoeuvre",
-    "number": "43",
+    "number": 43,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9176,7 +9176,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L44_ENG-1.png",
     "is_new": true,
     "name": "Tyrant's Command",
-    "number": "44",
+    "number": 44,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9196,7 +9196,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L45_ENG.png",
     "is_new": true,
     "name": "Apex Predator",
-    "number": "45",
+    "number": 45,
     "restricted": "Leader",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9216,7 +9216,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L46_ENG.png",
     "is_new": true,
     "name": "Commanding Presence",
-    "number": "46",
+    "number": 46,
     "restricted": "Leader",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9236,7 +9236,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L47_ENG.png",
     "is_new": true,
     "name": "Commanding Shout",
-    "number": "47",
+    "number": 47,
     "restricted": "Leader",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9256,7 +9256,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L48_ENG.png",
     "is_new": true,
     "name": "Cursed Shield",
-    "number": "48",
+    "number": 48,
     "restricted": "Leader",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9276,7 +9276,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L49_ENG.png",
     "is_new": true,
     "name": "Hero's Mantle",
-    "number": "49",
+    "number": 49,
     "restricted": "Leader",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9296,7 +9296,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L50_ENG.png",
     "is_new": true,
     "name": "Irresistible Challenge",
-    "number": "50",
+    "number": 50,
     "restricted": "Leader",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9316,7 +9316,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L51_ENG.png",
     "is_new": true,
     "name": "Katophrane's Ring [Relic]",
-    "number": "51",
+    "number": 51,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9336,7 +9336,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L52_ENG.png",
     "is_new": true,
     "name": "Kingsbane",
-    "number": "52",
+    "number": 52,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9356,7 +9356,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L53_ENG.png",
     "is_new": true,
     "name": "Loyal Defender",
-    "number": "53",
+    "number": 53,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9376,7 +9376,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L54_ENG.png",
     "is_new": true,
     "name": "Master of Tactics",
-    "number": "54",
+    "number": 54,
     "restricted": "Leader",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9396,7 +9396,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L55_ENG.png",
     "is_new": true,
     "name": "Mighty Shove",
-    "number": "55",
+    "number": 55,
     "restricted": "Leader",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9416,7 +9416,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L56_ENG.png",
     "is_new": true,
     "name": "Rising to the Challenge",
-    "number": "56",
+    "number": 56,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9436,7 +9436,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L57_ENG.png",
     "is_new": true,
     "name": "Seize the Day",
-    "number": "57",
+    "number": 57,
     "restricted": "Leader",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9456,7 +9456,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L58_ENG.png",
     "is_new": true,
     "name": "Treacherous Second",
-    "number": "58",
+    "number": 58,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9476,7 +9476,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L59_ENG.png",
     "is_new": true,
     "name": "Trusted Second",
-    "number": "59",
+    "number": 59,
     "restricted": "-",
     "set": "Leaders",
     "set_prefix": "L",
@@ -9496,7 +9496,7 @@
     "image_url": "https://warhammerunderworlds.com/wp-content/uploads/sites/6/2018/07/L60_ENG.png",
     "is_new": true,
     "name": "Tyrant's Lash",
-    "number": "60",
+    "number": 60,
     "restricted": "Leader",
     "set": "Leaders",
     "set_prefix": "L",
