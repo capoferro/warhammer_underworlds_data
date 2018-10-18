@@ -407,7 +407,7 @@ Shadespire	405	405	Low Blow	Universal	Upgrade	[1 Hex | 2 Hammer | 1 Damage] Both
 Shadespire	406	406	Opportunist	Universal	Upgrade	Reaction: After a failed Attack action that targets this fighter, you can push them one hex	-	-	The Farstriders expansion
 Shadespire	407	407	Regeneration	Universal	Upgrade	At the beginning of each action phase, remove up to one wound token from this fighter	-	-	The Farstriders expansion
 Shadespire	408	408	Second-in-command	Universal	Upgrade	If your warband's leader is out of action, this fighter is considered to be a leader. While this fighter is on the battlefield, opponents cannot score objectives for having taken your leader out of action	-	-	The Chosen Axes expansion
-Shadespire	409	409	Shadeglass Axe	Universal	Upgrade	"[1 Hex | 2 Hammer | 2 Damage] When this Attack action is successful, discard this upgrade. On a critical hit, this Attack action has +1 Damage
+Shadespire	409	409	Shadeglass Axe	Universal	Upgrade	[1 Hex | 2 Hammer | 2 Damage] When this Attack action is successful, discard this upgrade. On a critical hit, this Attack action has +1 Damage
 [3 Hex | 2 Hammer | 2 Damage] After a fighter makes this Attack action, discard this upgrade. On a critical hit, this Attack action has +1 Damage"	-	-	The Chosen Axes expansion
 Shadespire	410	410	Shadeglass Dagger	Universal	Upgrade	[1 Hex | 3 Sword | 3 Damage] When this Attack action is successful, discard this upgrade. On a critical hit, this Attack action has +1 Damage	-	-	Magore's Fiends expansion
 Shadespire	411	411	Shadeglass Darts	Universal	Upgrade	[3 Hex | 3 Sword | 1 Damage] On a critical hit, this Attack action has +1 Damage	-	-	Ironskull's Boyz expansion
@@ -1012,7 +1012,7 @@ Nightvault	1009	N512	Lucky Trinket	Universal	Upgrade	Reaction: During an enemy f
 Nightvault	1010	N513	Mirror of Spite	Universal	Upgrade	Reaction: During an enemy fighter's Attack action that takes this fighter out of action, before removing them from the battlefield, all adjacent enemy fighters suffer 1 damage	-	-	Echoes of Glory
 Nightvault	1011	N514	Mutating Maul	Universal	Upgrade	[1 Hex | 2 Hammer | 2 Damage] When a fighter makes this Attack action, choose Cleave or Knockback 1. This Attack action has that rule in this activation	-	-	Zarbag's Gitz expansion
 Nightvault	1012	N515	-	-	-		-	-	-
-Nightvault	1013	N516	Nullstone Axe	Universal	Upgrade	"[1 Hex | 2 Hammer | 2 Damage] You can re-roll one dice in the attack roll if the target is a wizard
+Nightvault	1013	N516	Nullstone Axe	Universal	Upgrade	[1 Hex | 2 Hammer | 2 Damage] You can re-roll one dice in the attack roll if the target is a wizard
 [3 Hex | 2 Hammer | 1 Damage] After a fighter makes this Attack action, discard this upgrade. You can re-roll one dice in the attack roll if the target is a wizard"	-	-	Zarbag's Gitz expansion
 Nightvault	1014	N517	-	-	-		-	-	-
 Nightvault	1015	N518	Nullstone Darts	Universal	Upgrade	[3 Hex | 3 Sword | 1 Damage] You can re-roll one dice in the attack roll if the target is a wizard	-	-	Echoes of Glory
